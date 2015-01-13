@@ -18,11 +18,11 @@
  *  along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
  
-/*
+/******************
 <translation>
 date : 2015.01.13
 name : junehyunBaek 
-*/
+*******************/
 
 $gFbLicenseName="LGPLv[2.1|3.0]";
 $gFbLicenseSpecification="GNU Lesser General Public License";
