@@ -7,7 +7,6 @@
 
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <!-- 
-	Hi Jaekyung hi
 	(t)OSCAd - (Telekom) Open Source Compliance Advisor
 
 	This website is powered by TYPO3 - inspiring people to share!
@@ -15,8 +14,6 @@
 	TYPO3 is copyright 1998-2012 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
 	Information and contribution at http://typo3.org/ and http://typo3.org/
 -->
-
-// hi bye my name is junehyun baek
 
 <title>OSCAd: OSLiC form sheet</title>
 <meta name="generator" content="TYPO3 4.5 CMS" />
@@ -135,33 +132,43 @@ contact us, please!
 		<div id="c180" class="csc-default">
 		<!--  Raw HTML content: [begin] -->
 			<div class="huge box">
-<h2 id="TestId" onmouseover="replaceByMouseOver();" onmouseout="replaceByMouseOut();">Request the Open Soure Compliance Advisor by a form sheet</h2>
+<h2 id="TestId" onmouseover="replaceByMouseOver();" onmouseout="replaceByMouseOut();">유형에 따른 오픈소스 준수 참조문</h2>
+<!-- 원문, 해석없음.. 직접 번역 20150113 최도솔
+ <h2 id="TestId" onmouseover="replaceByMouseOver();" onmouseout="replaceByMouseOut();">Request the Open Soure Compliance Advisor by a form sheet</h2>
+-->
 
 <form name="OscadForm" action="../../fileadmin/php/oscad.php" method="GET">
 
 <table>
 <tr>
 <td colspan="3">
+특정 오픈소스 라이선스에 따르며 오픈소스 소프트웨어를 사용하고 배포하기 위해서는 저는 무엇을 해야합니까? - 비수정 혹은 수정, 내장 혹은 독립된 어플리케이션이나 라이브러리, 사용하거나 배포하기위한 형태로써 바이너리 혹은 소스코드
+<!-- 원문, 해석 없음.. 직접 번역 20150113 최도솔
 <h3>What do I have to do for using or distributing a piece of open source software 
 in accordance to specific open source license - as a modified or unmodified, 
 embedded or independent application or library, used or distributed in the form 
 of binaries or sources?
 </h3>
+-->
 </td>
 </tr>
 <tr><th>Focus</th><th>Question</th><th>Answer</th></tr>
 <!-- type -->
-<tr><td style="text-align:center">Type<br />
+<tr><td style="text-align:center">유형(Type)<br />
     <a href="../../en/requests/understanding-the-parameters/type.html" target="_self">
   <image id="TypeHelpButtonId" src="../../fileadmin/images/hilfe-16x16.png" />
   </a>
   </td>
   <td>
-  Is the open source software you want to use a library in the broadest 
+ (<b>스니</b>펫 코드, 링크 가능한 <b>모</b>듈, 라이브러리, 로드 가능한 플러그인을 포함할 수 있는) 가장 광범위한 의미의 <b>라이</b>브러리를 사용하는 오픈소스 소프트웨어인가, 아니면 실행 가능한 독립 <b>프로</b>그램, <b>어플</b>리케이션 또는 <b>서</b>버인가?
+  
+  <!-- 원문
+    Is the open source software you want to use a library in the broadest 
   sense (an includable code <b>sni</b>ppet, a linkable <b>mo</b>dule 
   or <b>li</b>brary, or a loadable plugin), or is it an autonomous 
   <b>pro</b>gram, <b>ap</b>plication or <b>se</b>rver 
   which can be executed?
+  -->
   </td>
   <td>
      <table class="inner">
@@ -169,29 +176,35 @@ of binaries or sources?
        <td class="inner">
          <input type="radio" name="FocusType" value="snimoli" id="snimoliId" onclick="respectSwitchToSnimoli();" />
        </td>
-       <td class="inner">snimoli</td></tr>
+       <td class="inner">스니몰리(snimoli)</td></tr>
      <tr class="inner">
        <td class="inner">
              <input type="radio" name="FocusType" value="proapse" id="proapseId" checked="yes" onclick="respectSwitchToProapse();" />
        </td>
-       <td class="inner">proapse</td>
+       <td class="inner">프로앱스(proapse)</td>
      </tr>
      </table>
   </td>
 </tr>
 
 <!-- context -->
-<tr><td style="text-align:center">Context<br />
+<tr><td style="text-align:center">사용상황(Context)<br />
   <a href="../../en/requests/understanding-the-parameters/context.html" target="_self">
   <image id="ContextHelpButtonId" src="../../fileadmin/images/hilfe-16x16.png" />
 </a>
 
 </td>
   <td>
+  오픈소스 소프트웨어를 <b>독립 유닛</b>으로 사용/배포하려 하는지 아니면 더 복잡한 소프트웨어 부품에 <b>내장(삽입)</b>되는 구성요소로 이를 통합할 계획인가?
+  
+ <!-- 원문
    Given you want to use a library in the broadest 
    sense, are you going to use / distribute this open source software as 
    an <b>independent</b> unit, or do you plan to integrate it as an 
    <b>embedded</b> component into a complexer piece of software? 
+ 
+ -->
+ 
   </td>
   <td>
      <table class="inner">
@@ -199,51 +212,57 @@ of binaries or sources?
        <td class="inner">
           <input type="radio" name="FocusContext" value="independent" id="independentId" checked="yes" onclick="respectSwitchToIndependent();" />
         </td>
-       <td class="inner">independent</td></tr>
+       <td class="inner">독립(independent)</td></tr>
      <tr class="inner">
        <td class="inner">
          <input type="radio" name="FocusContext" value="embedded" id="embeddedId" onclick="respectSwitchToEmbedded();" />
       </td>
-       <td class="inner">embedded</td>
+       <td class="inner">내장(embedded)</td>
      </tr>
      </table>
   </td>
 </tr>
 
 <!-- state -->
-<tr><td style="text-align:center">State<br />
+<tr><td style="text-align:center">상태(State)<br />
     <a href="../../en/requests/understanding-the-parameters/state.html" target="_self">
   <image id="StateHelpButtonId" src="../../fileadmin/images/hilfe-16x16.png" />
   </a>
 </td>
   <td>
+  받은 그대로 오픈소스 소프트웨어를 <b>비수정</b> 상태로 둘것인가 아니면 그 <b>수정</b> 버전을 작성할 것인가?
+  <!--원문
   Do you want to leave the open source software <b>unmodified</b> as 
   you have received it, or are you going to create a <b>modified</b> 
   version of it? 
+  -->
   </td>
   <td>
      <table class="inner">
      <tr class="inner">
        <td class="inner"><input type="radio" name="FocusState" value="unmodified" checked="yes" /></td>
-       <td class="inner">unmodified</td></tr>
+       <td class="inner">비수정(unmodified)</td></tr>
      <tr class="inner">
        <td class="inner"><input type="radio" name="FocusState" value="modified" /></td>
-       <td class="inner">modified</td>
+       <td class="inner">수정(modified)</td>
      </tr>
      </table>
   </td>
 </tr>
 
 <!-- recipient -->
-<tr><td style="text-align:center">Recipient<br />
+<tr><td style="text-align:center">받는사람(Recipient)<br />
    <a href="../../en/requests/understanding-the-parameters/recipient.html" target="_self">
   <image id="RecipientHelpButtonId" src="../../fileadmin/images/hilfe-16x16.png" />
    </a>
 </td>
   <td>
+  <b>단독</b>으로 오픈소스 소프트웨어를 사용하려 하는지 아니면 <b>제3자</b>에게 배포/재배포 할 계획인가?
+  <!-- 원문
     Are you going to use the open source software only <b>for 
     yourself</b>, or do you plan to (re)distribute it (also) <b>to other</b>
     third parties? 
+	-->
   </td>
   <td>
      <table class="inner">
@@ -251,50 +270,56 @@ of binaries or sources?
        <td class="inner">
           <input type="radio" name="FocusRecipient" value="4yourself" id="yourselfId" checked="yes" onclick="respectSwitchToYourself();" />
         </td>
-       <td class="inner">4yourself</td></tr>
+       <td class="inner">단독사용(4yourself)</td></tr>
      <tr>
        <td class="inner">
           <input type="radio" name="FocusRecipient" value="2others" id="othersId" />
         </td>
-       <td class="inner">2others</td>
+       <td class="inner">타인배포(2others)</td>
      </tr>
      </table>
   </td>
 </tr>
 
 <!-- form -->
-<tr><td style="text-align:center">Form<br />
+<tr><td style="text-align:center">배포형태(Form)<br />
    <a href="../../en/requests/understanding-the-parameters/form.html" target="_self">
   <image id="FormHelpButtonId" src="../../fileadmin/images/hilfe-16x16.png" />
   </a>
   </td>
   <td>
+  오픈소스 기반 저작물을 타인에게 배포/재배포하길 원한다면 <b>바이너리</b> 또는 <b>소스코드</b> 중 어디에 중점을 두는가?
+  <!--
     Given you want to (re)distribute an open source based work 
    [2others], do you focus on distributing the <b>binaries</b> or the 
    <b>sources</b>? 
+   -->
 
   </td>
   <td>
      <table class="inner">
      <tr class="inner">
        <td class="inner"><input type="radio" name="FocusForm" value="binaries" checked="yes" /></td>
-       <td class="inner">binaries</td></tr>
+       <td class="inner">바이너리(binaries)</td></tr>
      <tr class="inner">
        <td class="inner"><input type="radio" name="FocusForm" value="sources" /></td>
-       <td class="inner">sources</td>
+       <td class="inner">소스코드(sources)</td>
      </tr>
      </table>
   </td>
 </tr>
 <!-- license -->
-<tr><td>License</td>
+<tr><td>라이선스(License)</td>
   <td>
+  어떤 오픈소스 라이선스를 이용하여 공개되었는가?
+  <!--원문
    Under which open source license is the software released you want to use?
+   -->
   </td>
   <td>&nbsp;</td>
 </tr>
 <tr>
-   <td>known*</td>
+   <td>알려진(known*)</td>
    <td colspan="2">
 
      <table class="inner">
@@ -369,7 +394,7 @@ of binaries or sources?
   </td>
 
 </tr>
-<tr><td>planned*</td>
+<tr><td>계획된(planned*)</td>
 <td colspan="2">
      <table class="inner">
      <tr>
@@ -392,11 +417,16 @@ of binaries or sources?
 </tr>
 </table>
 </form>
+<p>* 라이선스를 분류한 것은 
+  <a href="http://spdx.org/licenses/">SPDX definition</a> - 를 최대한 참고하였습니다. 내용은 이 곳에서 비교하세요.
+  <a href="http://opensource.org/licenses/alphabetical">opensource.org</a>
+  <!--
 <p>* The license handles are used in accordance to  the 
   <a href="http://spdx.org/licenses/">SPDX definition</a> - as far
   as possible. For the licenses texts
   themselves cf.
   <a href="http://opensource.org/licenses/alphabetical">opensource.org</a>
+  -->
   </td>
 </p>
 </div>
@@ -408,7 +438,10 @@ of binaries or sources?
 	<!--  CONTENT ELEMENT, uid:225/text [begin] -->
 		<div id="c225" class="csc-default">
 		<!--  Text: [begin] -->
+		<div class="huge box"><h3>문맥 규정</h3><ul><li>프로그램 (proapse)는 독립 유닛으로 사용되었습니다.[하지만 반대는 아닙니다]</li> <li>각각 내장된 컴포넌트는 스니펫, 모듈 그리고 라이브러리입니다. (스니몰리, Snimoli) [하지만 반대는 아닙니다]</li> <li>단독사용에 이용된 각 스니펫, 모듈 그리고 라이브러리는 내장된 컴포넌트 입니다.[하지만 반대는 아닙니다]</li></ul></div>
+		<!-- 원문
 			<div class="huge box"><h3>Context Rules</h3><ul><li>A program (proapse) is ever used / distributed as an independent unit [but not vice versa]</li> <li>Each embedded component is a snippet, module or library (snimoli) [but not vice versa].</li> <li>Each snippet, module or library (snimoli) being used 4yourself is an embedded component [but not vice versa].</li></ul></div>
+			-->
 		<!--  Text: [end] -->
 			</div>
 	<!--  CONTENT ELEMENT, uid:225/text [end] -->
@@ -416,10 +449,18 @@ of binaries or sources?
 	<!--  CONTENT ELEMENT, uid:193/text [begin] -->
 		<div id="c193" class="csc-default">
 		<!--  Text: [begin] -->
-			<div class="huge box"><h2>Disclaimer of Warranty</h2>
-<p class="bodytext"> THERE IS NO WARRANTY FOR THE PROGRAM, TO THE EXTENT PERMITTED BY APPLICABLE LAW. THE COPYRIGHT HOLDERS AND/OR OTHER PARTIES PROVIDE THE PROGRAM &quot;AS IS&quot; WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE PROGRAM IS WITH YOU. SHOULD THE PROGRAM PROVE DEFECTIVE, YOU ASSUME THE COST OF ALL NECESSARY SERVICING, REPAIR OR CORRECTION</p>
-<h2>Limitation of Liability</h2>
-<p class="bodytext"> IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING WILL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MODIFIES AND/OR CONVEYS THE PROGRAM AS PERMITTED ABOVE, BE LIABLE TO YOU FOR DAMAGES, INCLUDING ANY GENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE THE PROGRAM (INCLUDING BUT NOT LIMITED TO LOSS OF DATA OR DATA BEING RENDERED INACCURATE OR LOSSES SUSTAINED BY YOU OR THIRD PARTIES OR A FAILURE OF THE PROGRAM TO OPERATE WITH ANY OTHER PROGRAMS), EVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. </p></div>
+			<div class="huge box"><h2>보증의 면책 조항<!-- Disclaimer of Warranty --></h2>
+<p class="bodytext"> 
+<!-- 해석시작 -->
+본 프로그램(OSLiC)은 법률 적용에 의해 허용되는 범위까지 어떤 보증도 제공하지 않는다. 저작권 소유자 및 기타 당사자들은 특정 용도에 대한 적합성과 상품성을 은영중에 보증하는 것을 포함하여 명시적이든 묵시적이든 보증하지 않고 "있는 그대로" 내용을 제공하는 것이다. 본 프로그램(OSLiC)의 품질과 이행과 관련되는 전체 리스크는 사용자가 부담하여야 한다. 본 프로그램(OSLiC)에 결함이 있는 것으로 판단되면 사용자는 필요한 모든 정비 또는 정정에 대한 비용을 부담한다.
+<!-- 해석끝 -->
+<!-- 원문 THERE IS NO WARRANTY FOR THE PROGRAM, TO THE EXTENT PERMITTED BY APPLICABLE LAW. THE COPYRIGHT HOLDERS AND/OR OTHER PARTIES PROVIDE THE PROGRAM &quot;AS IS&quot; WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE PROGRAM IS WITH YOU. SHOULD THE PROGRAM PROVE DEFECTIVE, YOU ASSUME THE COST OF ALL NECESSARY SERVICING, REPAIR OR CORRECTION --></p>
+<h2>책임의 한계<!-- Limitation of Liability--></h2>
+<p class="bodytext"> 
+적용 가능한 법류에 의해 요구되거나 서면 합의가 이루어지지 않는 한, 어떠한 경우에도 저작권자와 본 프로그램(OSLiC)를 수정 및 제공하는 기타 당사자는 손해 배상 가능서에 대해 통지를 받았더라도 본 프로그램(OSLiC)을 사용하거나 (자료의 손실, 부정확하게는 제공되는 자료, 사용자나 제3자가 입는 손실, 다른 수단과 본 문서의 조합하기에 실패 등을 포함하는) 사용 불능으로 인해 발생하는 일반적, 특수적, 부수적, 결과적 손해를 포함하여 손해 배상에 대한 책임을 지지 않는다.
+<!-- 원문 IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING WILL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MODIFIES AND/OR CONVEYS THE PROGRAM AS PERMITTED ABOVE, BE LIABLE TO YOU FOR DAMAGES, INCLUDING ANY GENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE THE PROGRAM (INCLUDING BUT NOT LIMITED TO LOSS OF DATA OR DATA BEING RENDERED INACCURATE OR LOSSES SUSTAINED BY YOU OR THIRD PARTIES OR A FAILURE OF THE PROGRAM TO OPERATE WITH ANY OTHER PROGRAMS), EVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.  --> 
+
+</p></div>
 		<!--  Text: [end] -->
 			</div>
 	<!--  CONTENT ELEMENT, uid:193/text [end] -->
