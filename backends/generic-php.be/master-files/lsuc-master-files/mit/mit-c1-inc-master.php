@@ -1,4 +1,4 @@
-<?php
+ï»¿<?php
 
 /*  This file is part of OSCAd, the Open Source Compliance Advisor
  *
@@ -17,7 +17,7 @@
  *  You should have received a copy of the GNU Affero General Public License
  *  along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
- /*ÀÓ½Ã*/
+ /*ìž„ì‹œ*/
 
 $gFbLicenseName="MIT";
 $gFbLicenseSpecification="MIT License";
@@ -33,20 +33,19 @@ $gOsLicTlExplanationChapter="6.10.6";
 $gFbLiSpUcName="MIT-C1";
 
 $gFbLiSpUcDesc=
-"»ç¿ëÀÚ°¡ ¹æÀº MIT·Î ¶óÀÌ¼±½º µÈ ¼ÒÇÁÆ®¿þ¾î´Â »ç¿ëÀÚ ´Üµ¶À¸·Î »ç¿ëÇØ¾ßÇÏ¸ç, Á¦ 3ÀÚ¿¡°Ô´Â ¾î´À °æ¿ì¿¡µµ ¾çµµÇØ¼­´Â ¾ÈµÈ´Ù.";
+"ì‚¬ìš©ìžê°€ ë°©ì€ MITë¡œ ë¼ì´ì„ ìŠ¤ ëœ ì†Œí”„íŠ¸ì›¨ì–´ëŠ” ì‚¬ìš©ìž ë‹¨ë…ìœ¼ë¡œ ì‚¬ìš©í•´ì•¼í•˜ë©°, ì œ 3ìžì—ê²ŒëŠ” ì–´ëŠ ê²½ìš°ì—ë„ ì–‘ë„í•´ì„œëŠ” ì•ˆëœë‹¤.";
 
 $gFbLiSpUcRequiresPrefix=
-	"¶óÀÌ¼±½º Á¶°ÇÀ» ÃæÁ·ÇÏ±â À§ÇÑ ÀÛ¾÷Àº ´ÙÀ½°ú °°´Ù:";
+	"ë¼ì´ì„ ìŠ¤ ì¡°ê±´ì„ ì¶©ì¡±í•˜ê¸° ìœ„í•œ ìž‘ì—…ì€ ë‹¤ìŒê³¼ ê°™ë‹¤:";
 
 $gFbLiSpUcNoTasks=
-"Á¦ 3ÀÚ¿¡°Ô ¼ÒÇÁÆ®¿þ¾î¸¦ ¾çµµÇÏÁö ¾Ê°í, Á¸ÀçÇÏ´Â ÀúÀÛ±Ç°ú Çã°¡ °øÁö¸¦ ¼öÁ¤ÇÏÁö ¾Ê´Â´Ù¸é
-»ç¿ëÀÚ´Â ¾î¶°ÇÑ À¯ÇüÀÇ MIT·Î ¶óÀÌ¼±½º µÈ ¼ÒÇÁÆ®¿þ¾î¸¦ ¾î´À°æ¿ìµç »ç¿ë°¡´ÉÇÏ´Ù.";
+"ì œ 3ìžì—ê²Œ ì†Œí”„íŠ¸ì›¨ì–´ë¥¼ ì–‘ë„í•˜ì§€ ì•Šê³ , ì¡´ìž¬í•˜ëŠ” ì €ìž‘ê¶Œê³¼ í—ˆê°€ ê³µì§€ë¥¼ ìˆ˜ì •í•˜ì§€ ì•ŠëŠ”ë‹¤ë©´ ì‚¬ìš©ìžëŠ” ì–´ë– í•œ ìœ í˜•ì˜ MITë¡œ ë¼ì´ì„ ìŠ¤ ëœ ì†Œí”„íŠ¸ì›¨ì–´ë¥¼ ì–´ëŠê²½ìš°ë“  ì‚¬ìš©ê°€ëŠ¥í•˜ë‹¤.";
 
 $gFbLiSpUcRequiresManArr=array();
 
 $gFbLiSpUcRequiresVolArr=array();
 
-$gFbLiSpUcForbidsPrefix="¸í½ÃµÈ »çÇ× ¾øÀ½.";
+$gFbLiSpUcForbidsPrefix="ëª…ì‹œëœ ì‚¬í•­ ì—†ìŒ.";
 $gFbLiSpUcForbidsArr=array();
 
 ?>
