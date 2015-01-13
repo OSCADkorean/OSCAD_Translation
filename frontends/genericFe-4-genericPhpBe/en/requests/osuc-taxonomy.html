@@ -126,30 +126,27 @@ contact us, please!
 		<div id="c198" class="csc-default">
 		<!--  Raw HTML content: [begin] -->
 			<div class="huge box">
-<h2 id="TestId" onmouseover="replaceByMouseOver();" onmouseout="replaceByMouseOut();">Request the Open Soure Compliance Advisor by traversing the OSUC taxonomy</h2>
+<h2 id="TestId" onmouseover="replaceByMouseOver();" onmouseout="replaceByMouseOut();">오픈소스 관리체계에 대해 관리자에게 문의하십시오</h2>
 
 
 <table>
 <tr>
 <td colspan="7">
-<h3>What do I have to do for using or distributing a piece of open source software 
-in accordance to specific open source license - as a modified or 비수정, 
-embedded or 독립 application or library, used or distributed in the form 
-of binaries or sources?
+<h3>특정 오픈소스 라이선스에 따르며 오픈소스 소프트웨어를 사용하고 배포하기 위해서는 저는 무엇을 해야합니까? - 비수정 혹은 수정, 내장 혹은 독립된 어플리케이션이나 라이브러리, 사용하거나 배포하기위한 형태로써 바이너리 혹은 소스코드
 </h3>
 </td>
 </tr>
 <tr>
-<th>Type:&nbsp;<a href="../../en/requests/understanding-the-parameters/type.html" target="_self"><image id="TypeHelpButtonId" src="../../fileadmin/images/hilfe-16x16.png" />
+<th>타입:&nbsp;<a href="../../en/requests/understanding-the-parameters/type.html" target="_self"><image id="TypeHelpButtonId" src="../../fileadmin/images/hilfe-16x16.png" />
  </a>
 </th>
-<th>State:&nbsp;<a href="../../en/requests/understanding-the-parameters/state.html" target="_self"><image id="ContextHelpButtonId" src="../../fileadmin/images/hilfe-16x16.png" />
+<th>상태:&nbsp;<a href="../../en/requests/understanding-the-parameters/state.html" target="_self"><image id="ContextHelpButtonId" src="../../fileadmin/images/hilfe-16x16.png" />
  </a></th>
-<th>Context:&nbsp; <a href="../../en/requests/understanding-the-parameters/context.html" target="_self"><image id="StateHelpButtonId" src="../../fileadmin/images/hilfe-16x16.png" />
+<th>사용상황:&nbsp; <a href="../../en/requests/understanding-the-parameters/context.html" target="_self"><image id="StateHelpButtonId" src="../../fileadmin/images/hilfe-16x16.png" />
  </a></th>
-<th>Recipient:&nbsp;<a href="../../en/requests/understanding-the-parameters/recipient.html" target="_self"><image id="RecipientHelpButtonId" src="../../fileadmin/images/hilfe-16x16.png" />
+<th>받는사람:&nbsp;<a href="../../en/requests/understanding-the-parameters/recipient.html" target="_self"><image id="RecipientHelpButtonId" src="../../fileadmin/images/hilfe-16x16.png" />
  </a></th>
-<th>Form:&nbsp;<a href="../../en/requests/understanding-the-parameters/form.html" target="_self"><image id="FormHelpButtonId" src="../../fileadmin/images/hilfe-16x16.png" />
+<th>배포형태:&nbsp;<a href="../../en/requests/understanding-the-parameters/form.html" target="_self"><image id="FormHelpButtonId" src="../../fileadmin/images/hilfe-16x16.png" />
  </a></th>
 <th>OSUC
 </th>
@@ -158,24 +155,24 @@ of binaries or sources?
 </tr>
 <tr>
 <td rowspan="6" bgcolor="#b0b0b0">
-program, <br />application, <br />or server<br />
+프로그램, <br />어플리케이션, <br />or 서버<br />
 (proapse)
 
 </td>
 <td rowspan="3" bgcolor="#c0c0c0">비수정</td>
 <td rowspan="3" bgcolor="#d0d0d0">독립</td>
-<td bgcolor="#e0e0e0">4yourself</td>
-<td bgcolor="#f0f0f0">sources | binaries</td>
+<td bgcolor="#e0e0e0">타인배포</td>
+<td bgcolor="#f0f0f0">소스코드 | 바이너리</td>
 <td>
   <form name="Osuc01Form" action="../../fileadmin/php/oscad.php" method="get">
    <input type="hidden" name="FocusType" value="proapse" />
    <input type="hidden" name="FocusContext" value="독립" />
    <input type="hidden" name="FocusState" value="비수정" />
-   <input type="hidden" name="FocusRecipient" value="4yourself" />
+   <input type="hidden" name="FocusRecipient" value="타인배포" />
    <input type="hidden" name="FocusForm" value="any" />
    <input type="hidden" name="FocusLicense" value="GPLv3.0" id="osuc1license" />
    <input type="submit" name="submit" value="OSUC-01" onclick="integrateLicenseSelection('osuc1license')" />
-  <!-- {proapse, 독립, 비수정, 4yourself, [sources | binaries]} -->
+  <!-- {proapse, 독립, 비수정, 타인배포, [소스코드 | 바이너리]} -->
   </form>
 </td>
 <td rowspan="16">
@@ -256,262 +253,262 @@ program, <br />application, <br />or server<br />
 
 <tr>
 <td rowspan="2" align="center" valign="middle" bgcolor="#e8e8e8">타인배포</td>
-<td bgcolor="#f8f8f8">sources</td>
+<td bgcolor="#f8f8f8">소스코드</td>
 <td>
   <form name="Osuc02SForm" action="../../fileadmin/php/oscad.php" method="get">
    <input type="hidden" name="FocusType" value="proapse" />
    <input type="hidden" name="FocusContext" value="독립" />
    <input type="hidden" name="FocusState" value="비수정" />
    <input type="hidden" name="FocusRecipient" value="타인배포" />
-   <input type="hidden" name="FocusForm" value="sources" />
+   <input type="hidden" name="FocusForm" value="소스코드" />
    <input type="hidden" name="FocusLicense" value="GPLv3.0" id="osuc2Slicense" />
    <input type="submit" name="submit" value="OSUC-02S" onclick="integrateLicenseSelection('osuc2Slicense')" />
-    <!-- {proapse, 독립, 비수정, 타인배포, sources} -->
+    <!-- {proapse, 독립, 비수정, 타인배포, 소스코드} -->
   </form>
 </td>
 </tr>
 
 <tr>
-<td bgcolor="#f0f0f0">binaries</td>
+<td bgcolor="#f0f0f0">바이너리</td>
 <td>
   <form name="Osuc02BForm" action="../../fileadmin/php/oscad.php" method="get">
    <input type="hidden" name="FocusType" value="proapse" />
    <input type="hidden" name="FocusContext" value="독립" />
    <input type="hidden" name="FocusState" value="비수정" />
    <input type="hidden" name="FocusRecipient" value="타인배포" />
-   <input type="hidden" name="FocusForm" value="binaries" />
+   <input type="hidden" name="FocusForm" value="바이너리" />
    <input type="hidden" name="FocusLicense" value="GPLv3.0" id="osuc2Blicense" />
    <input type="submit" name="submit" value="OSUC-02B" onclick="integrateLicenseSelection('osuc2Blicense')" />
-    <!-- {proapse, 독립, 비수정, 타인배포, binaries} -->
+    <!-- {proapse, 독립, 비수정, 타인배포, 바이너리} -->
   </form>
 </td>
 </tr>
 
 <tr>
-<td rowspan="3" bgcolor="#c8c8c8">modified</td>
+<td rowspan="3" bgcolor="#c8c8c8">수정</td>
 <td rowspan="3" bgcolor="#d8d8d8">독립</td>
-<td bgcolor="#e0e0e0">4yourself</td>
-<td bgcolor="#f8f8f8">sources | binaries</td>
+<td bgcolor="#e0e0e0">타인배포</td>
+<td bgcolor="#f8f8f8">소스코드 | 바이너리</td>
 <td>
   <form name="Osuc03Form" action="../../fileadmin/php/oscad.php" method="get">
    <input type="hidden" name="FocusType" value="proapse" />
    <input type="hidden" name="FocusContext" value="독립" />
-   <input type="hidden" name="FocusState" value="modified" />
-   <input type="hidden" name="FocusRecipient" value="4yourself" />
+   <input type="hidden" name="FocusState" value="수정" />
+   <input type="hidden" name="FocusRecipient" value="타인배포" />
    <input type="hidden" name="FocusForm" value="any" />
    <input type="hidden" name="FocusLicense" value="GPLv3.0" id="osuc3license" />
    <input type="submit" name="submit" value="OSUC-03" onclick="integrateLicenseSelection('osuc3license')" />
-    <!-- {proapse, 독립, modified, 4yourself, [sources|binaries]} -->
+    <!-- {proapse, 독립, 수정, 타인배포, [소스코드|바이너리]} -->
   </form>
 </td>
 </tr>
 
 <tr>
 <td rowspan="2" bgcolor="#e8e8e8">타인배포</td>
-<td bgcolor="#f0f0f0">sources</td>
+<td bgcolor="#f0f0f0">소스코드</td>
 <td>
   <form name="Osuc04SForm" action="../../fileadmin/php/oscad.php" method="get">
    <input type="hidden" name="FocusType" value="proapse" />
    <input type="hidden" name="FocusContext" value="독립" />
-   <input type="hidden" name="FocusState" value="modified" />
+   <input type="hidden" name="FocusState" value="수정" />
    <input type="hidden" name="FocusRecipient" value="타인배포" />
-   <input type="hidden" name="FocusForm" value="sources" />
+   <input type="hidden" name="FocusForm" value="소스코드" />
    <input type="hidden" name="FocusLicense" value="GPLv3.0" id="osuc4Slicense" />
    <input type="submit" name="submit" value="OSUC-04S" onclick="integrateLicenseSelection('osuc4Slicense')" />
-    <!-- {proapse, 독립, modified, 타인배포, sources} -->
+    <!-- {proapse, 독립, 수정, 타인배포, 소스코드} -->
   </form>
 </td>
 </tr>
 
 <tr>
-<td bgcolor="#f8f8f8">binaries</td>
+<td bgcolor="#f8f8f8">바이너리</td>
 <td>
   <form name="Osuc04BForm" action="../../fileadmin/php/oscad.php" method="get">
    <input type="hidden" name="FocusType" value="proapse" />
    <input type="hidden" name="FocusContext" value="독립" />
-   <input type="hidden" name="FocusState" value="modified" />
+   <input type="hidden" name="FocusState" value="수정" />
    <input type="hidden" name="FocusRecipient" value="타인배포" />
-   <input type="hidden" name="FocusForm" value="binaries" />
+   <input type="hidden" name="FocusForm" value="바이너리" />
    <input type="hidden" name="FocusLicense" value="GPLv3.0" id="osuc4Blicense" />
    <input type="submit" name="submit" value="OSUC-04B" onclick="integrateLicenseSelection('osuc4Blicense')" />
-    <!-- {proapse, 독립, modified, 타인배포, binaries} -->
+    <!-- {proapse, 독립, 수정, 타인배포, 바이너리} -->
   </form>
 </td>
 </tr>
 
 <tr>
 <td rowspan="10" bgcolor="#b8b8b8">
-snippet, <br />module, <br />or library<br />
-(snimoli)
+스니펫, <br />모듈, <br />or 라이브러리<br />
+(스니몰리)
 
 </td>
 <td rowspan="5" bgcolor="#c0c0c0">비수정</td>
 <td rowspan="2" bgcolor="#c8c8c8">독립</td>
 <td rowspan="2" bgcolor="#e0e0e0">타인배포</td>
-<td bgcolor="#f0f0f0">sources</td>
+<td bgcolor="#f0f0f0">소스코드</td>
 <td>
   <form name="Osuc05SForm" action="../../fileadmin/php/oscad.php" method="get">
-   <input type="hidden" name="FocusType" value="snimoli" />
+   <input type="hidden" name="FocusType" value="스니몰리" />
    <input type="hidden" name="FocusContext" value="독립" />
    <input type="hidden" name="FocusState" value="비수정" />
    <input type="hidden" name="FocusRecipient" value="타인배포" />
-   <input type="hidden" name="FocusForm" value="sources" />
+   <input type="hidden" name="FocusForm" value="소스코드" />
    <input type="hidden" name="FocusLicense" value="GPLv3.0" id="osuc5Slicense" />
    <input type="submit" name="submit" value="OSUC-05S" onclick="integrateLicenseSelection('osuc5Slicense')" />
-    <!-- {snimoli, 독립, 비수정, 타인배포, sources} -->
+    <!-- {스니몰리, 독립, 비수정, 타인배포, 소스코드} -->
   </form>
 </td>
 </tr>
 
 <tr>
-<td bgcolor="#f8f8f8">binaries</td>
+<td bgcolor="#f8f8f8">바이너리</td>
 <td>
   <form name="Osuc05BForm" action="../../fileadmin/php/oscad.php" method="get">
-   <input type="hidden" name="FocusType" value="snimoli" />
+   <input type="hidden" name="FocusType" value="스니몰리" />
    <input type="hidden" name="FocusContext" value="독립" />
    <input type="hidden" name="FocusState" value="비수정" />
    <input type="hidden" name="FocusRecipient" value="타인배포" />
-   <input type="hidden" name="FocusForm" value="binaries" />
+   <input type="hidden" name="FocusForm" value="바이너리" />
    <input type="hidden" name="FocusLicense" value="GPLv3.0" id="osuc5Blicense" />
    <input type="submit" name="submit" value="OSUC-05B" onclick="integrateLicenseSelection('osuc5Blicense')" />
-    <!-- {snimoli, 독립, 비수정, 타인배포, binaries} -->
+    <!-- {스니몰리, 독립, 비수정, 타인배포, 바이너리} -->
   </form>
 </td>
 </tr>
 
 <tr>
 <td rowspan="3" bgcolor="#d8d8d8">embedded</td>
-<td bgcolor="#e8e8e8">4yourself</td>
-<td bgcolor="#f0f0f0">sources | binaries</td>
+<td bgcolor="#e8e8e8">타인배포</td>
+<td bgcolor="#f0f0f0">소스코드 | 바이너리</td>
 <td>
   <form name="Osuc06Form" action="../../fileadmin/php/oscad.php" method="get">
-   <input type="hidden" name="FocusType" value="snimoli" />
+   <input type="hidden" name="FocusType" value="스니몰리" />
    <input type="hidden" name="FocusContext" value="embedded" />
    <input type="hidden" name="FocusState" value="비수정" />
-   <input type="hidden" name="FocusRecipient" value="4yourself" />
+   <input type="hidden" name="FocusRecipient" value="타인배포" />
    <input type="hidden" name="FocusForm" value="any" />
    <input type="hidden" name="FocusLicense" value="GPLv3.0" id="osuc6license" />
    <input type="submit" name="submit" value="OSUC-06" onclick="integrateLicenseSelection('osuc6license')" />
-    <!-- {snimoli, embedded, 비수정, 4yourself, [sources | binaries]} -->
+    <!-- {스니몰리, embedded, 비수정, 타인배포, [소스코드 | 바이너리]} -->
   </form>
 </td>
 </tr>
 
 <tr>
 <td rowspan="2" bgcolor="#e0e0e0">타인배포</td>
-<td bgcolor="#f8f8f8">sources</td>
+<td bgcolor="#f8f8f8">소스코드</td>
 <td>
   <form name="Osuc07SForm" action="../../fileadmin/php/oscad.php" method="get">
-   <input type="hidden" name="FocusType" value="snimoli" />
+   <input type="hidden" name="FocusType" value="스니몰리" />
    <input type="hidden" name="FocusContext" value="embedded" />
    <input type="hidden" name="FocusState" value="비수정" />
    <input type="hidden" name="FocusRecipient" value="타인배포" />
-   <input type="hidden" name="FocusForm" value="sources" />
+   <input type="hidden" name="FocusForm" value="소스코드" />
    <input type="hidden" name="FocusLicense" value="GPLv3.0" id="osuc7Slicense" />
    <input type="submit" name="submit" value="OSUC-07S" onclick="integrateLicenseSelection('osuc7Slicense')" />
-    <!-- {snimoli, embedded, 비수정, 타인배포, sources} -->
+    <!-- {스니몰리, embedded, 비수정, 타인배포, 소스코드} -->
   </form>
 </td>
 </tr>
 
 <tr>
-<td bgcolor="#f0f0f0">binaries</td>
+<td bgcolor="#f0f0f0">바이너리</td>
 <td>
   <form name="Osuc07BForm" action="../../fileadmin/php/oscad.php" method="get">
-   <input type="hidden" name="FocusType" value="snimoli" />
+   <input type="hidden" name="FocusType" value="스니몰리" />
    <input type="hidden" name="FocusContext" value="embedded" />
    <input type="hidden" name="FocusState" value="비수정" />
    <input type="hidden" name="FocusRecipient" value="타인배포" />
-   <input type="hidden" name="FocusForm" value="binaries" />
+   <input type="hidden" name="FocusForm" value="바이너리" />
    <input type="hidden" name="FocusLicense" value="GPLv3.0" id="osuc7Blicense" />
    <input type="submit" name="submit" value="OSUC-07B" onclick="integrateLicenseSelection('osuc7Blicense')" />
-    <!-- {snimoli, embedded, 비수정, 타인배포, binaries} -->
+    <!-- {스니몰리, embedded, 비수정, 타인배포, 바이너리} -->
   </form>
 </td>
 </tr>
 
 <tr>
-<td rowspan="5" bgcolor="#c8c8c8">modified</td>
+<td rowspan="5" bgcolor="#c8c8c8">수정</td>
 <td rowspan="2" bgcolor="#d0d0d0">독립</td>
 <td rowspan="2" bgcolor="#e8e8e8">타인배포</td>
-<td bgcolor="#f8f8f8">sources</td>
+<td bgcolor="#f8f8f8">소스코드</td>
 <td>
   <form name="Osuc08SForm" action="../../fileadmin/php/oscad.php" method="get">
-   <input type="hidden" name="FocusType" value="snimoli" />
+   <input type="hidden" name="FocusType" value="스니몰리" />
    <input type="hidden" name="FocusContext" value="독립" />
-   <input type="hidden" name="FocusState" value="modified" />
+   <input type="hidden" name="FocusState" value="수정" />
    <input type="hidden" name="FocusRecipient" value="타인배포" />
-   <input type="hidden" name="FocusForm" value="sources" />
+   <input type="hidden" name="FocusForm" value="소스코드" />
    <input type="hidden" name="FocusLicense" value="GPLv3.0" id="osuc8Slicense" />
    <input type="submit" name="submit" value="OSUC-08S" onclick="integrateLicenseSelection('osuc8Slicense')" />
-    <!-- {snimoli, 독립, modified, 타인배포, sources} -->
+    <!-- {스니몰리, 독립, 수정, 타인배포, 소스코드} -->
   </form>
 </td>
 </tr>
 
 <tr>
-<td bgcolor="#f0f0f0">binaries</td>
+<td bgcolor="#f0f0f0">바이너리</td>
 <td>
   <form name="Osuc08BForm" action="../../fileadmin/php/oscad.php" method="get">
-   <input type="hidden" name="FocusType" value="snimoli" />
+   <input type="hidden" name="FocusType" value="스니몰리" />
    <input type="hidden" name="FocusContext" value="독립" />
-   <input type="hidden" name="FocusState" value="modified" />
+   <input type="hidden" name="FocusState" value="수정" />
    <input type="hidden" name="FocusRecipient" value="타인배포" />
-   <input type="hidden" name="FocusForm" value="binaries" />
+   <input type="hidden" name="FocusForm" value="바이너리" />
    <input type="hidden" name="FocusLicense" value="GPLv3.0" id="osuc8Blicense" />
    <input type="submit" name="submit" value="OSUC-08B" onclick="integrateLicenseSelection('osuc8Blicense')" />
-    <!-- {snimoli, 독립, modified, 타인배포, binaries} -->
+    <!-- {스니몰리, 독립, 수정, 타인배포, 바이너리} -->
   </form>
 </td>
 </tr>
 
 <tr>
 <td rowspan="3" bgcolor="#d8d8d8">embedded</td>
-<td bgcolor="#e0e0e0">4yourself</td>
-<td bgcolor="#f8f8f8">sources | binaries</td>
+<td bgcolor="#e0e0e0">타인배포</td>
+<td bgcolor="#f8f8f8">소스코드 | 바이너리</td>
 <td>
   <form name="Osuc09Form" action="../../fileadmin/php/oscad.php" method="get">
-   <input type="hidden" name="FocusType" value="snimoli" />
+   <input type="hidden" name="FocusType" value="스니몰리" />
    <input type="hidden" name="FocusContext" value="embedded" />
-   <input type="hidden" name="FocusState" value="modified" />
-   <input type="hidden" name="FocusRecipient" value="4yourself" />
+   <input type="hidden" name="FocusState" value="수정" />
+   <input type="hidden" name="FocusRecipient" value="타인배포" />
    <input type="hidden" name="FocusForm" value="any" />
    <input type="hidden" name="FocusLicense" value="GPLv3.0" id="osuc9license" />
    <input type="submit" name="submit" value="OSUC-09" onclick="integrateLicenseSelection('osuc9license')" />
-    <!-- {snimoli, embedded, modified, 4yourself, [sources | binaries]} -->
+    <!-- {스니몰리, embedded, 수정, 타인배포, [소스코드 | 바이너리]} -->
   </form>
 </td>
 </tr>
 
 <tr>
 <td rowspan="2" bgcolor="#e8e8e8">타인배포</td>
-<td bgcolor="#f0f0f0">sources</td>
+<td bgcolor="#f0f0f0">소스코드</td>
 <td>
   <form name="Osuc10SForm" action="../../fileadmin/php/oscad.php" method="get">
-   <input type="hidden" name="FocusType" value="snimoli" />
+   <input type="hidden" name="FocusType" value="스니몰리" />
    <input type="hidden" name="FocusContext" value="embedded" />
-   <input type="hidden" name="FocusState" value="modified" />
+   <input type="hidden" name="FocusState" value="수정" />
    <input type="hidden" name="FocusRecipient" value="타인배포" />
-   <input type="hidden" name="FocusForm" value="sources" />
+   <input type="hidden" name="FocusForm" value="소스코드" />
    <input type="hidden" name="FocusLicense" value="GPLv3.0" id="osuc10Slicense" />
    <input type="submit" name="submit" value="OSUC-10S" onclick="integrateLicenseSelection('osuc10Slicense')" />
-    <!-- {snimoli, embedded, modified, 타인배포, sources} -->
+    <!-- {스니몰리, embedded, 수정, 타인배포, 소스코드} -->
   </form>
 </td>
 </tr>
 
 <tr>
-<td bgcolor="#f8f8f8">binaries</td>
+<td bgcolor="#f8f8f8">바이너리</td>
 <td>
   <form name="Osuc10BForm" action="../../fileadmin/php/oscad.php" method="get">
-   <input type="hidden" name="FocusType" value="snimoli" />
+   <input type="hidden" name="FocusType" value="스니몰리" />
    <input type="hidden" name="FocusContext" value="embedded" />
-   <input type="hidden" name="FocusState" value="modified" />
+   <input type="hidden" name="FocusState" value="수정" />
    <input type="hidden" name="FocusRecipient" value="타인배포" />
-   <input type="hidden" name="FocusForm" value="binaries" />
+   <input type="hidden" name="FocusForm" value="바이너리" />
    <input type="hidden" name="FocusLicense" value="GPLv3.0" id="osuc10Blicense" />
    <input type="submit" name="submit" value="OSUC-10B" onclick="integrateLicenseSelection('osuc10Blicense')" />
-    <!-- {snimoli, embedded, modified, 타인배포, binaries} -->
+    <!-- {스니몰리, embedded, 수정, 타인배포, 바이너리} -->
   </form>
 </td>
 </tr>
@@ -527,7 +524,7 @@ snippet, <br />module, <br />or library<br />
 	<!--  CONTENT ELEMENT, uid:197/text [begin] -->
 		<div id="c197" class="csc-default">
 		<!--  Text: [begin] -->
-			<div class="huge box"><h3>Context Rules</h3><ul><li>A program (proapse) is ever used / distributed as an 독립 unit [but not vice versa]</li> <li>Each embedded component is a snippet, module or library (snimoli) [but not vice versa].</li> <li>Each snippet, module or library (snimoli) being used 4yourself is an embedded component [but not vice versa].</li></ul></div>
+			<div class="huge box"><h3>문맥 규정</h3><ul><li>프로그램 (proapse)는 독립 유닛으로 사용되었습니다.[하지만 반대는 아닙니다]</li> <li>각각 내장된 컴포넌트는 스니펫, 모듈 그리고 라이브러리입니다. (스니몰리, Snimoli) [하지만 반대는 아닙니다]</li> <li>단독사용에 이용된 각 스니펫, 모듈 그리고 라이브러리는 내장된 컴포넌트 입니다.[하지만 반대는 아닙니다]</li></ul></div>
 		<!--  Text: [end] -->
 			</div>
 	<!--  CONTENT ELEMENT, uid:197/text [end] -->
@@ -535,11 +532,11 @@ snippet, <br />module, <br />or library<br />
 	<!--  CONTENT ELEMENT, uid:196/text [begin] -->
 		<div id="c196" class="csc-default">
 		<!--  Text: [begin] -->
-			<div class="huge box"><h2>Disclaimer of Warranty</h2>
-<p class="bodytext"> THERE IS NO WARRANTY FOR THE PROGRAM, TO THE EXTENT PERMITTED BY APPLICABLE LAW. THE COPYRIGHT HOLDERS AND/OR OTHER PARTIES PROVIDE THE PROGRAM &quot;AS IS&quot; WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE PROGRAM IS WITH YOU. SHOULD THE PROGRAM PROVE DEFECTIVE, YOU ASSUME THE COST OF ALL NECESSARY SERVICING, REPAIR OR CORRECTION
+			<div class="huge box"><h2>보증의 면책 조항</h2>
+<p class="bodytext">본 프로그램(OSLiC)은 법률 적용에 의해 허용되는 범위까지 어떤 보증도 제공하지 않는다. 저작권 소유자 및 기타 당사자들은 특정 용도에 대한 적합성과 상품성을 은영중에 보증하는 것을 포함하여 명시적이든 묵시적이든 보증하지 않고 "있는 그대로" 내용을 제공하는 것이다. 본 프로그램(OSLiC)의 품질과 이행과 관련되는 전체 리스크는 사용자가 부담하여야 한다. 본 프로그램(OSLiC)에 결함이 있는 것으로 판단되면 사용자는 필요한 모든 정비 또는 정정에 대한 비용을 부담한다.
 </p>
-<h2>Limitation of Liability</h2>
-<p class="bodytext"> IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING WILL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MODIFIES AND/OR CONVEYS THE PROGRAM AS PERMITTED ABOVE, BE LIABLE TO YOU FOR DAMAGES, INCLUDING ANY GENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE THE PROGRAM (INCLUDING BUT NOT LIMITED TO LOSS OF DATA OR DATA BEING RENDERED INACCURATE OR LOSSES SUSTAINED BY YOU OR THIRD PARTIES OR A FAILURE OF THE PROGRAM TO OPERATE WITH ANY OTHER PROGRAMS), EVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. </p></div>
+<h2>책임의 한계</h2>
+<p class="bodytext">적용 가능한 법류에 의해 요구되거나 서면 합의가 이루어지지 않는 한, 어떠한 경우에도 저작권자와 본 프로그램(OSLiC)를 수정 및 제공하는 기타 당사자는 손해 배상 가능서에 대해 통지를 받았더라도 본 프로그램(OSLiC)을 사용하거나 (자료의 손실, 부정확하게는 제공되는 자료, 사용자나 제3자가 입는 손실, 다른 수단과 본 문서의 조합하기에 실패 등을 포함하는) 사용 불능으로 인해 발생하는 일반적, 특수적, 부수적, 결과적 손해를 포함하여 손해 배상에 대한 책임을 지지 않는다. </p></div>
 		<!--  Text: [end] -->
 			</div>
 	<!--  CONTENT ELEMENT, uid:196/text [end] -->
