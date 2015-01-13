@@ -21,7 +21,7 @@
 /*
 <translation>
 date : 2015.01.13
-name : junehyunBaek 
+name : junehyunbaek 
 */
 
 $gFbLicenseName="LGPLv[2.1|3.0]";
