@@ -23,9 +23,10 @@ $gFbOsucName="OSUC-".$gFbOsucNumber;
 
 
 $gFbOsucDesc=
-"Before you will distribute it to 3rd parties in the form of sources, you are
-going to modify an open source library, code snippet, module, or plugin. But
-you do not combine it with other software components in the sense of software
-development.";
+"제3자에게 배포하기 전에 소스코드 형태로 오픈소스 라이브러리, 스니펫 코드, 모듈 또는 플
+러그인을 수정할 의도를 갖고 있다. 그러나 소프트웨어 개발이라는 취지로 이를 다른 소프트웨어 컴포넌
+트와 결합하지 않는다. 구체적으로 라이선스를 충족시키는 과업 목록을 살펴보려면 아래의 안내하는 쪽으
+로 이동한다.
+";
 
 ?>
