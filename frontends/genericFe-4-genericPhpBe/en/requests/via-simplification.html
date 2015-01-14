@@ -127,28 +127,22 @@ contact us, please!
 		<!--  Raw HTML content: [begin] -->
 			<div class="huge box">
 <a name="simplifyingForm"></a>
-<h2>A simplifying summarizing Open Source Use Case: 
-Can you <a href="../../en/requests/via-simplification.html#simplifyingInfo" target="_self">
-shorten your work</a>?</h2>
+<h2>간략화한 오픈소스 사용 사례 요약 : <a href="../../en/requests/via-simplification.html#simplifyingInfo" target="_self">
+당신의 작업을 단축시킬 수 있습니까</a>?</h2>
 <form name="ShortenOscadForm" action="../../fileadmin/php/pc4oscad.php" method="GET">
 <p>
-The OSCAd is intended to be used for each single open source 
-software program or library used by a project. But if you use 
-your open source software only internally without distributing it
-the OSCAd often [but not ever] offers the same conclusion: 
-you have to do nothing but you must respect some interdictions.  Test
-whether this can be an advantage for you:
+OSCAd는 프로젝트에 의해 사용되는 각각 단일 오픈소스 소프트웨어 프로그램 또는 라이브러리에 쓰일 예정이다.
+그러나 만약 당신이 오픈소스 소프트웨어를 배포하지 않고 내부로만 사용한다면 OSCAd는 다음과 같은 결론을 제공한다 : 당신은 아무 관련이 없지만 몇몇 제약들을 존중해야만 한다. 이것이 너에게 이득지 될지 안될지 테스트해라.
 </p>
 <table>
-<tr><th>Query</th><th>Issue</th><th>Answer</th></tr>
+<tr><th>질문</th><th>이슈</th><th>응답</th></tr>
 <!-- type -->
-<tr><td style="text-align:center"><b>No distribution<br />to 3rd parties?</b>
+<tr><td style="text-align:center"><b>제 3자에게<br />배포하지 않는다?</b>
   </td>
   <td>
-    <i><span style="color:#e20074"><b>Are you sure</b></span>
-   that you do not hand over any of the
-   open source applications or libraries your
-   project uses to any 3rd party in any sense?</i>
+    <i>당신은 당신의 프로젝트를 사용한 제 3자에게 그 어떤 의미에서도 오픈소스 어플리케이션 또는 라이브러리를 넘겨짚지 않을 것이라는 것을 
+	<span style="color:#e20074"><b>확신하는가?</b></span>
+   </i>
   </td>
   <td>
      <table class="inner">
@@ -156,12 +150,12 @@ whether this can be an advantage for you:
        <td class="inner">
          <input type="radio" name="FocusDist" value="DistYes" id="DistYesId" checked="yes" />
        </td>
-       <td class="inner">Yes</td></tr>
+       <td class="inner">네</td></tr>
      <tr class="inner">
        <td class="inner">
              <input type="radio" name="FocusDist" value="DistNo" id="DistNoId" />
        </td>
-       <td class="inner">No</td>
+       <td class="inner">아니오</td>
      </tr>
      </table>
   </td>
@@ -169,72 +163,61 @@ whether this can be an advantage for you:
 
 <!-- context -->
 <tr>
-  <td style="text-align:center"><b>No AGPL<br />licensed software?</b></td>
-  <td>
-    <span style="color:#e20074"><b>Are you sure</b></span> that none of the 
-    open source software your project uses is licensed under the 
-   <a href="http://opensource.org/licenses/AGPL-3.0">AGPL (GNU AFFERO 
-    GENERAL PUBLIC LICENSE)</a>?
-  </td>
+  <td style="text-align:center"><b>AGPL가 허가되지 않은<br />소프트웨어인가?</b></td>
+  <td><i>
+    프로젝트가 사용하는 오픈소스 소프트웨어 중 어떤 것도 <a href="http://opensource.org/licenses/AGPL-3.0">AGPL(GNU AFFERO 
+    GENERAL PUBLIC LICENSE)</a>하에서 허가되지 않았는지 <span style="color:#e20074"><b>확신하는가?</b></span>
+  </i></td>
   <td>
      <table class="inner">
      <tr class="inner">
        <td class="inner">
           <input type="radio" name="FocusAgpl" value="AgplYes" id="AgplYesId" checked="yes" />
         </td>
-       <td class="inner">Yes</td></tr>
+       <td class="inner">네</td></tr>
      <tr class="inner">
        <td class="inner">
          <input type="radio" name="FocusAgpl" value="AgplNo" id="AgplNoId" />
       </td>
-       <td class="inner">No</td>
+       <td class="inner">아니오</td>
      </tr>
      </table>
   </td>
 </tr>
 
 <!-- state -->
-<tr><td style="text-align:center"><b>No software<br />modifications?</b>
+<tr><td style="text-align:center"><b>소프트웨어<br />수정이 없다?</b>
 </td>
   <td><i>
-  <span style="color:#e20074"><b>Are you sure</b></span> 
-   that your project does not modify any program, application,
-   snippet, module or library of the 
-   open source software it wants to use?
+  프로젝트가 이용하려는 오픈소스 소프트웨어의 프로그램, 어플리케이션, 스니펫, 모듈, 또는 라이브러리를 수정하지 않는다고 <span style="color:#e20074"><b>확신하는가?</b></span> 
 </i>
   </td>
   <td>
      <table class="inner">
      <tr class="inner">
        <td class="inner"><input type="radio" name="FocusModi" value="ModiYes" checked="yes" /></td>
-       <td class="inner">Yes</td></tr>
+       <td class="inner">네</td></tr>
      <tr class="inner">
        <td class="inner"><input type="radio" name="FocusModi" value="ModiNo" /></td>
-       <td class="inner">No</td>
+       <td class="inner">아니오</td>
      </tr>
      </table>
   </td>
 </tr>
 
-<tr><td style="text-align:center"><b>Only OSLiC<br />known licenses?</b>
+<tr><td style="text-align:center"><b>오직 OSLiC만<br />허가되어진다고 알려졌다?</b>
 </td>
   <td><i>
-  <span style="color:#e20074">
-  <b>Are you sure</b></span> that your project does only use
-  open source software which has been licensed under one of the
-  following open source licenses the OSLiC has checked:
-  Apache-2.0, BSD-2-Clause, BSD-2-Clause, EPL-1.0, EUPL-1.1, GPL-2.0,
-  GPL-3.0, LGPL-2.1, LGPL-3.0, MIT, MPL-2.0, MS-PL, PGL, PHP-3.0
-</i>
+  프로젝트가 OSLiC이 확인한 다음과 같은 오픈소스 허가들 중 하나의 밑에서 오직 허가되어진 오픈소스 소프트웨어를 사용한다고 <span style="color:#e20074"><b>확신하는가?</b></span></i>
   </td>
   <td>
      <table class="inner">
      <tr class="inner">
        <td class="inner"><input type="radio" name="FocusInLiLi" value="InLiLiYes" checked="yes" /></td>
-       <td class="inner">Yes</td></tr>
+       <td class="inner">네</td></tr>
      <tr class="inner">
        <td class="inner"><input type="radio" name="FocusInLiLi" value="InLiLiNo" /></td>
-       <td class="inner">No</td>
+       <td class="inner">아니오</td>
      </tr>
      </table>
   </td>
@@ -243,7 +226,7 @@ whether this can be an advantage for you:
 <tr>
   <td colspan="2">&nbsp;</td>
   <td>
-  <input type="submit" name="submit" value="submit" />
+  <input type="submit" name="submit" value="제출" />
   </td>
 </tr>
 </table>
@@ -257,8 +240,8 @@ whether this can be an advantage for you:
 	<!--  CONTENT ELEMENT, uid:250/text [begin] -->
 		<div id="c250" class="csc-default">
 		<!--  Text: [begin] -->
-			<div class="huge box"><h2><a name="simplifyingInfo"> </a> Information for a possibly <a href="../../en/requests/via-simplification.html#simplifyingForm" title="Opens internal link in current window" target="_self" class="internal-link">simplifying pre-check</a> before using the <span style="color:e20074">OSCAd</span> </h2>
-<h3>Challenge: Sometimes a project uses many open source libs and apps.</h3><blockquote style="margin-bottom:0;margin-top:0;"><p class="bodytext">The OSCAd is intended to be used for each single open source software program or library used by a project. That's necessary because you have to fulfill the license conditions for each single open soucre software if you want to use it compliantly. So in general, grouping is not possible.</p></blockquote><h3>Solution: Simplification with respect to a specific use case </h3><blockquote style="margin-bottom:0;margin-top:0;"><p class="bodytext">But if you use the open source software&nbsp;only internally without distributing it to any 3rd party the OSCAd analysis often&nbsp;(but not in all cases) leads to the same conclusion: you have to do nothing but to respect some interdictions. This pre check</p></blockquote><h3>Implementation: Determine the specific case by answering 4 questions</h3><blockquote style="margin-bottom:0;margin-top:0;"><p class="bodytext">This pre check determines whether all software packages you use are covered by this specific use case. If you can answer all these questions with yes, you will get a global todo- and interdiction-list and you won't have to call the OSCAd&nbsp;&nbsp;for each single open source software package your project uses. Otherwise you will be redirected to the Telekom specific instance of the OSCAd</p></blockquote></div>
+			<div class="huge box"><h2><a name="simplifyingInfo"> </a> OSCAd를 사용하기 전에<a href="../../en/requests/via-simplification.html#simplifyingForm" title="Opens internal link in current window" target="_self" class="internal-link">간략한 프리 체크</a> 를 가능케 하는<span style="color:e20074">정보</span> </h2>
+<h3>도전 : 때때로 프로젝트는 많은 오픈소스 라이브러리와 어플리케이션을 사용한다.</h3><blockquote style="margin-bottom:0;margin-top:0;"><p class="bodytext">OSCAd는 프로젝트에 의해 사용되는 각각 단일 오픈소스 소프트웨어 프로그램 또는 라이브러리에 쓰일 예정이다. 만약 당신이 순순히 사용하기 원한다면 각각 단일 오픈소스 소프트웨어에 대한 라이센스 환경을 충족시켜야하기 때문에 필요하다. 그래서 일반적으로, 그룹은 불가능하다.</p></blockquote><h3>해결책 : 구체적인 유즈 케이스에 대한 존중과 간략화 </h3><blockquote style="margin-bottom:0;margin-top:0;"><p class="bodytext">그러나 만약 당신이 어떠한 제 3자에게 오픈소스 소프트웨어를 배포하지 않고 내부로만 사용한다면 OSCAd 분석은 종종 다음과 같은 결론을 야기 시킨다 : 당신은 아무관련이 없지만 몇몇 제한들을 존중해야한다. 이것은 프리 체크하는 것이다.</p></blockquote><h3>실행 : 4개 질문에 대한 응답함으로써 구체적인 사례를 결정한다. </h3><blockquote style="margin-bottom:0;margin-top:0;"><p class="bodytext">이 프리 체크는 당신이 사용하는 모든 소프트웨어 패키지가 구체적인 사용 사례에 의해 적용되는지 결정한다. 만약 당신이 YES와 함께 모든 질문들에 응답할 수 있다면, 당신은 전체적인 할일과 제약 목록 그리고 당신은 프로젝트에서 사용한 각각 단일 오픈소스 소프트웨어 패키지에 대해 OSCAd를 불러올 필요가 없을 것이다. 그렇지 않으면 당신은 OSCAd의 구체적인 경우를 Telekom에 다시 보낼 것이다.</p></blockquote></div>
 		<!--  Text: [end] -->
 			</div>
 	<!--  CONTENT ELEMENT, uid:250/text [end] -->
@@ -266,10 +249,10 @@ whether this can be an advantage for you:
 	<!--  CONTENT ELEMENT, uid:249/text [begin] -->
 		<div id="c249" class="csc-default">
 		<!--  Text: [begin] -->
-			<div class="huge box"><h2>Disclaimer of Warranty</h2>
-<p class="bodytext"> THERE IS NO WARRANTY FOR THE PROGRAM, TO THE EXTENT PERMITTED BY APPLICABLE LAW. THE COPYRIGHT HOLDERS AND/OR OTHER PARTIES PROVIDE THE PROGRAM &quot;AS IS&quot; WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE PROGRAM IS WITH YOU. SHOULD THE PROGRAM PROVE DEFECTIVE, YOU ASSUME THE COST OF ALL NECESSARY SERVICING, REPAIR OR CORRECTION</p>
-<h2>Limitation of Liability</h2>
-<p class="bodytext"> IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING WILL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MODIFIES AND/OR CONVEYS THE PROGRAM AS PERMITTED ABOVE, BE LIABLE TO YOU FOR DAMAGES, INCLUDING ANY GENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE THE PROGRAM (INCLUDING BUT NOT LIMITED TO LOSS OF DATA OR DATA BEING RENDERED INACCURATE OR LOSSES SUSTAINED BY YOU OR THIRD PARTIES OR A FAILURE OF THE PROGRAM TO OPERATE WITH ANY OTHER PROGRAMS), EVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. </p></div>
+			<div class="huge box"><h2>보증의 면책 조항</h2>
+<p class="bodytext"> 본 프로그램(OSLiC)은 법률 적용에 의해 허용되는 범위까지 어떤 보증도 제공하지 않는다. 저작권 소유자 및 기타 당사자들은 특정 용도에 대한 적합성과 상품성을 은영중에 보증하는 것을 포함하여 명시적이든 묵시적이든 보증하지 않고 "있는 그대로" 내용을 제공하는 것이다. 본 프로그램(OSLiC)의 품질과 이행과 관련되는 전체 리스크는 사용자가 부담하여야 한다. 본 프로그램(OSLiC)에 결함이 있는 것으로 판단되면 사용자는 필요한 모든 정비 또는 정정에 대한 비용을 부담한다. </p>
+<h2>책임의 한계</h2>
+<p class="bodytext"> 적용 가능한 법류에 의해 요구되거나 서면 합의가 이루어지지 않는 한, 어떠한 경우에도 저작권자와 본 프로그램(OSLiC)를 수정 및 제공하는 기타 당사자는 손해 배상 가능서에 대해 통지를 받았더라도 본 프로그램(OSLiC)을 사용하거나 (자료의 손실, 부정확하게는 제공되는 자료, 사용자나 제3자가 입는 손실, 다른 수단과 본 문서의 조합하기에 실패 등을 포함하는) 사용 불능으로 인해 발생하는 일반적, 특수적, 부수적, 결과적 손해를 포함하여 손해 배상에 대한 책임을 지지 않는다.</p></div>
 		<!--  Text: [end] -->
 			</div>
 	<!--  CONTENT ELEMENT, uid:249/text [end] -->
