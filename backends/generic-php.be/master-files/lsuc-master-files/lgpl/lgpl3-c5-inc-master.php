@@ -18,12 +18,12 @@
  *  along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
 
- /******************
+ /****************************
 <translation>
 date : 2015.01.14
 subject : LGPL-3.0 조항에 의거
-name : junehyunBaek 
-*******************/
+name : junehyunBaek(Koscom Intern) 
+*****************************/
  
 $gFbLicenseName="LGPLv[3.0]";
 $gFbLicenseSpecification="GNU Lesser General Public License";
@@ -135,7 +135,7 @@ $gFbLiSpUcRequiresVolArr=array(
   file by a description of your modifications on a more functional level.",
 */
 
-"공지 파일이 존재하지 않으면 수정 텍스트 파일을 작성한다. 보다 기능적 수준의 수정에 관한 설명으로 수정 텍스트 파일을 확장한다.";
+"공지 파일이 존재하지 않으면 수정 텍스트 파일을 작성한다. 보다 기능적 수준의 수정에 관한 설명으로 수정 텍스트 파일을 확장한다.",
 
 /*
   "Let the documentation of your distribution and/or
@@ -150,11 +150,11 @@ $gFbLiSpUcRequiresVolArr=array(
   "Retain all existing copyright notices."
 */
 
-"기존의 모든 저작권 공지와 라이선싱하는 요소를 유지한다. "
+"기존의 모든 저작권 공지와 라이선싱하는 요소를 유지한다."
 
 );
 
-$gFbLiSpUcForbidsPrefix=/*"nothing explicitly with respect to this use case."*/ "이 사용 사례와 관련하여 명확한 금지사항 없음";
+$gFbLiSpUcForbidsPrefix=/*"nothing explicitly with respect to this use case."*/ "이 사용 사례와 관련하여 명확한 금지사항 없음"
 $gFbLiSpUcForbidsArr=array();
 
 ?>

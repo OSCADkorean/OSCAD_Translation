@@ -22,7 +22,7 @@
 <translation>
 subject : 내장 소스코드로 수정 라이브러리 배포
 date : 2015.01.13
-name : junehyunBaek 
+name : junehyunBaek(Koscom Intern)
 **********************************************/
  
 
@@ -67,7 +67,7 @@ $gFbLiSpUcRequiresManArr=array(
   warranty - are retained in your package in the form you have received them.",
 */
 
-"라이선싱하는 요소, 특히 LGPL-2.1 또는 LGPL-3.0과 보증 없음을 뜻하는 공지는 받았던 형태로 패키지에 포함한다.";
+"라이선싱하는 요소, 특히 LGPL-2.1 또는 LGPL-3.0과 보증 없음을 뜻하는 공지는 받았던 형태로 패키지에 포함한다.",
 
 /*
   "Ensure that the distributed software package
@@ -80,14 +80,14 @@ $gFbLiSpUcRequiresManArr=array(
   to the receiver.)",
 */
 
-" 배포된 소프트웨어 패키지에는 적절히 설계된 명확하고 쉽게 찾아볼 수 있는 저작권 공지와 보증 제한을 포함한다. 이 요소들이 누락되었다면, 각각의 라이선스 LGPL-2.1과 LGPL-3.0에 의해 문자대로 정의된 형태로 주요 저작권 공지와 보증 제한을 포함하는 파일을 새로 추가한다. (라이선스 일부가 되더라도 그리고 받는 사람에게 라이선스 자체를 양도해야 하더라도 그 권리 포기를 반복한다.)";
+" 배포된 소프트웨어 패키지에는 적절히 설계된 명확하고 쉽게 찾아볼 수 있는 저작권 공지와 보증 제한을 포함한다. 이 요소들이 누락되었다면, 각각의 라이선스 LGPL-2.1과 LGPL-3.0에 의해 문자대로 정의된 형태로 주요 저작권 공지와 보증 제한을 포함하는 파일을 새로 추가한다. (라이선스 일부가 되더라도 그리고 받는 사람에게 라이선스 자체를 양도해야 하더라도 그 권리 포기를 반복한다.)",
 
 /*
   "Give the recipient a copy of the LGPL-2.1 resp. LGPL-3.0 license. If it is
 	not already part of the software package, add it.",
 */
 
-"받는 사람에게 LGPL-2.1 및 LGPL-3.0 라이선스 사본을 각 각 제공한다. 이미 구성한 소프트웨어 패키지의 일부에서 빠져있다면 이를 추가한다.";
+"받는 사람에게 LGPL-2.1 및 LGPL-3.0 라이선스 사본을 각 각 제공한다. 이미 구성한 소프트웨어 패키지의 일부에서 빠져있다면 이를 추가한다.",
 
 /*
   "Mark all modifications of source code of the
@@ -95,7 +95,7 @@ $gFbLiSpUcRequiresManArr=array(
   including the date of the modification.",
 */
 
-"스니몰리인 내장 라이브러리의 소스코드 수정사항을 소스코드 안에 그리고 수정 날짜를 포함하여 전부 표시한다.";
+"스니몰리인 내장 라이브러리의 소스코드 수정사항을 소스코드 안에 그리고 수정 날짜를 포함하여 전부 표시한다.",
 
 /*
   "Organize your modifications of the embedded
@@ -105,13 +105,13 @@ $gFbLiSpUcRequiresManArr=array(
   required by the GNU project.",
 */
 
-" 기존의 LGPL 라이선싱 사항에 포함되는 방식으로 수정사항을 구성한다. 만약 새로운 소스코드 파일을 라이브러리에 추가했다면, 헤더에 여러분의 저작권을 명시한 문장과 그 문장이 GPL 프로젝트가 요구하는 양식에 맞게 라이선싱한다는 내용을 추가한다.";
+" 기존의 LGPL 라이선싱 사항에 포함되는 방식으로 수정사항을 구성한다. 만약 새로운 소스코드 파일을 라이브러리에 추가했다면, 헤더에 여러분의 저작권을 명시한 문장과 그 문장이 GPL 프로젝트가 요구하는 양식에 맞게 라이선싱한다는 내용을 추가한다.",
 
 /*
   "Maintain the structural independence of the library.",
 */
 
-"라이브러리의 구조적 독립성을 유지한다.";
+"라이브러리의 구조적 독립성을 유지한다.",
 
 /* 
   "Let the copyright dialog of the on-top development
@@ -121,7 +121,7 @@ $gFbLiSpUcRequiresManArr=array(
   LGPL-2.1 resp. LGPL-3.0."
 */
 
-"기능 추가 개발물의 저작권 다이얼로그는 LGPL 라이선스 라이브러리를 사용하고 있다는 점을 이 다이얼로그에 명확히 표시한다. 기존의 저작권 공지 내용, 소프트웨어 명칭에 대한 힌트, 홈페이지 링크, 각 보증 제한, 각 LGPL-2.1 및 LGPL-3.0 링크를 이를 통해 복제 한다.";
+"기능 추가 개발물의 저작권 다이얼로그는 LGPL 라이선스 라이브러리를 사용하고 있다는 점을 이 다이얼로그에 명확히 표시한다. 기존의 저작권 공지 내용, 소프트웨어 명칭에 대한 힌트, 홈페이지 링크, 각 보증 제한, 각 LGPL-2.1 및 LGPL-3.0 링크를 이를 통해 복제 한다."
 );
 
 $gFbLiSpUcRequiresVolArr=array(
@@ -131,7 +131,7 @@ $gFbLiSpUcRequiresVolArr=array(
   file by a description of your modifications.",
 */
 
-"공지 파일이 존재하지 않으면 수정 텍스트 파일을 작성한다. 수정 설명으로 수정 텍스트 파일을 확장한다.";
+"공지 파일이 존재하지 않으면 수정 텍스트 파일을 작성한다. 수정 설명으로 수정 텍스트 파일을 확장한다.",
 
 /*
  "Let the documentation of your distribution and/or
@@ -141,12 +141,12 @@ $gFbLiSpUcRequiresVolArr=array(
   of warranty, and a link to the LGPL-2.1 resp. LGPL-3.0.",
 */
 
-"배포 문서 및 추가 자료는 LGPL 라이선스 라이브러리를 사용하고 있다는 점을 이를 통해 명확히 표시한다. 기존의 저작권 공지 내용, 소프트웨어 명칭에 대한 힌트, 홈페이지 링크, 각 보증 제한, 각 LGPL-2.1 및 LGPL-3.0 라이선스 링크를 이를 통해 복제한다.";
+"배포 문서 및 추가 자료는 LGPL 라이선스 라이브러리를 사용하고 있다는 점을 이를 통해 명확히 표시한다. 기존의 저작권 공지 내용, 소프트웨어 명칭에 대한 힌트, 홈페이지 링크, 각 보증 제한, 각 LGPL-2.1 및 LGPL-3.0 라이선스 링크를 이를 통해 복제한다.",
 /*
   "Retain all existing copyright notices."
 */
 
-"기존의 모든 저작권 공지와 라이선싱하는 요소를 유지한다.";
+"기존의 모든 저작권 공지와 라이선싱하는 요소를 유지한다."
 );
 
 $gFbLiSpUcForbidsPrefix="";
@@ -156,7 +156,7 @@ $gFbLiSpUcForbidsArr=array(
 		a library [forbidden only by the LGPL-2.1]."
 */
 
-"더 이상 라이브러리가 아닌 방식으로 라이브러리를 수정 (LGPL-2.1)";
+"더 이상 라이브러리가 아닌 방식으로 라이브러리를 수정 (LGPL-2.1)"
 		);
 
 ?>
