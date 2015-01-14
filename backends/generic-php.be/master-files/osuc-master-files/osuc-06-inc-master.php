@@ -23,8 +23,8 @@ $gFbOsucName="OSUC-".$gFbOsucNumber;
 
 
 $gFbOsucDesc=
-"Only for yourself and just as you received it, you are going to combine an
-unmodified open source library, code snippet, module, or plugin into a
-larger software unit as one of its parts.";
+"단독으로 받은 그대로 수정되지 않은 오픈소스 라이브러리, 스니펫 코드, 모듈 또는 플러그인
+을 더 큰 소프트웨어 유닛에 부품 중 하나로 결합할 의도를 갖고 있다. 구체적으로 라이선스를 충족시키
+는 과업 목록을 살펴보려면 아래의 안내하는 쪽으로 이동한다";
 
 ?>

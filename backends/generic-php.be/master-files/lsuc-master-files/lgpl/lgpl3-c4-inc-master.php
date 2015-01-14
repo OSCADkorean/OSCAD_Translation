@@ -17,6 +17,12 @@
  *  You should have received a copy of the GNU Affero General Public License
  *  along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
+ 
+ /******************
+<translation>
+date : 2015.01.13
+name : junehyunBaek 
+*******************/
 
 $gFbLicenseName="LGPLv[3.0]";
 $gFbLicenseSpecification="GNU Lesser General Public License";
@@ -33,11 +39,14 @@ $gFbLiSpUcName="LGPL3-C4";
 
 
 $gFbLiSpUcDesc=
+/*
 	"that you received an LGPL-3.0 licensed program,
 application, or server (proapse), that you modified it, and that you are now
 going to distribute this modified version to third parties in the form of source
 code files or as a source code package.";
+*/
 
+"LGPL-3.0으로 라이선스 된 받은 프로그램, 어플리케이션 또는 서버의 수정 버전을 (proapse) 소스코드 파일 형태 또는 소스코드 패키지로 제3자에게 배포하려는 의도를 갖고 있다."; 
 $gFbLiSpUcRequiresPrefix=
 	"the following tasks in order to fulfill the license conditions:";
 
