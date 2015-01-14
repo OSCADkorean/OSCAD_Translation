@@ -18,6 +18,13 @@
  *  along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
 
+/******************************************************
+<translation>
+date : 2015.01.14
+subject : LGPL2-C4 : 소스코드로 수정 프로그램 배포
+name : junehyunBaek(Koscom_Intern)
+*******************************************************/  
+ 
 $gFbLicenseName="LGPLv[2.1]";
 $gFbLicenseSpecification="GNU Lesser General Public License";
 $gFbLicenseAbbr="LGPL";
@@ -33,14 +40,22 @@ $gFbLiSpUcName="LGPL2-C4";
 
 
 $gFbLiSpUcDesc=
+/*
 	"that you received an LGPL-2.1 licensed program,
 application, or server (proapse), that you modified it, and that you are now
 going to distribute this modified version to third parties in the form of source
 code files or as a source code package.";
+*/
+
+"LGPL-2.1로 라이선스 된 받은 하의 프로앱스인 프로그램, 어플리케이션 또는 서버의 수정 버전을 소스코드 파일 형태 또는 소스코드 패키지로 제3자에게 배포하려는 의도를 갖고 있다."; 
 
 $gFbLiSpUcRequiresPrefix=
+/*
 	"irrelvant because of the specific LGPL-2.1 requirement that the
   result of a modification must also be a library.";
+*/
+
+"결과적으로 수정된 저작물이 더 이상 소프트웨어 라이브러리(프로그램은 제외)가 아닌 방식으로 받은 저작물을 수정하는 행위.";
 
 $gFbLiSpUcNoTasks="";
 
@@ -50,8 +65,12 @@ $gFbLiSpUcRequiresVolArr=array();
 
 $gFbLiSpUcForbidsPrefix="";
 $gFbLiSpUcForbidsArr=array(
+/*
 		"to modify the received work in a way that the resulting
 		modified work is no longer a software library but a	program"
+*/
+
+		"이런 이유로 LGPL-2.1 조항에 기반하여 수정된 프로그램을 배포할 수 없다."
 		);
 
 ?>
