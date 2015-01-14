@@ -32,33 +32,24 @@ $gOsLicTlExplanationChapter="6.12.9";
 $gFbLiSpUcName="MS-PL-C6";
 
 $gFbLiSpUcDesc=
-	"that you received an MS-PL licensed code snippet, module, library,
-  or plugin (snimoli), that you modified it, and that you are now going to
-  distribute this modified version to third parties in the form of binary files
-  or as a binary package but without embedding it into another larger software
-  unit.";
+	"MS-PL로 라이선스 된 받은 스니펫, 모듈, 라이브러리 또는 플러그인 등 스니몰리의 수정 버전을 바이너리 패키지 형태로 제3자에게 내장 컴포넌트로 스니펫, 모듈, 라이브러리 또는 플러그인을 포함하는 다른 더 큰 소프트웨어 유닛과 함께 배포하려는 의도를 갖고 있다";
 
 $gFbLiSpUcRequiresPrefix=
-	"the following tasks in order to fulfill the license conditions:";
+	"라이선스 조건을 충족하기 위한 작업은 다음과 같다:";
 
 $gFbLiSpUcNoTasks="";
 
 $gFbLiSpUcRequiresManArr=array();
 
 $gFbLiSpUcRequiresVolArr=array(
-  "Mark your modifications in the source code even if
-  do not want to distribute it.",
+  "배포하려는 의도가 없더라도 소스코드 내 수정사항을 표시한다.",
 
-  "It's a good tradition to let the documentation of
-  your distribution and/or your additional material also contain a link to the
-  original software (project) and its homepage (as far as this does not clashes
-  with with the prohibitions stated below)."
+  "아래에 명시된 금지사항과 상충하지 않는 한, 배포 문서 및 추가 자료에 또한 초기 소프트웨어(프로젝트)와 그 홈페이지 링크를 포함시키는 것이 바람직하다."
 );
 
 $gFbLiSpUcForbidsPrefix="";
 $gFbLiSpUcForbidsArr=array(
-		"to use any contributors' name, logo, or trademarks (without an
-				additional or general legally based approval)"
+		"추가적인 승인 또는 법에 의한 승인 없이 기여자의 이름, 로고 또는 상표를 사용"
 		);
 
 ?>
