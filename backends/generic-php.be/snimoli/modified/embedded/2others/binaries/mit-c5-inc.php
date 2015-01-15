@@ -32,13 +32,10 @@ $gOsLicTlExplanationChapter="6.10.6";
 $gFbLiSpUcName="MIT-C5";
 
 $gFbLiSpUcDesc=
-	"that you received an MIT licensed code snippet, module, library, or
-  plugin (snimoli), that you modified it, and that you are now going to
-  distribute this modified version to third parties in the form of binaries or
-  as source code files together with another larger software unit which contains
-  this code snippet, module, library, or plugin as an embedded component,
-  regardless whether you distribute it in the form of binaries or as source code
-  files.";
+	"MIT로 라이선스 된 받은 스니펫, 모듈, 라이브러리 또는 플러그인 등 스니몰리의 수정 버전을 내
+장 컴포넌트로 스니펫, 모듈, 라이브러리 또는 플러그인을 포함하는 다른 더 큰 소프트웨어 유닛
+과 함께 바이너리 형태 또는 소스코드 파일로 이를 배포하는 여부와 관계없이 제3자에게 배포하
+려는 의도를 갖고 있다.";
 
 $gFbLiSpUcRequiresPrefix=
 	"the following tasks in order to fulfill the license conditions:";
