@@ -23,7 +23,6 @@
 date : 2015.01.15
 subject : LGPL-C3 : 바이너리로 비수정 소프트웨어 배포
 name : junehyunBaek(Koscom_Intern)
-버전번경 : EUPL(한글판) -> EPL-1.1(영문판)
 *******************************************************/  
  
 $gFbLicenseName="LGPLv[2.1|3.0]";
