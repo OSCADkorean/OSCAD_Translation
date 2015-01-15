@@ -17,6 +17,13 @@
  *  You should have received a copy of the GNU Affero General Public License
  *  along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
+ 
+/******************************************************
+<translation>
+date : 2015.01.14
+subject : MPL-C4 : 소스코드로 수정 프로그램 배포
+name : junehyunBaek(Koscom_Intern)
+*******************************************************/ 
 
 $gFbLicenseName="MPL-2.0";
 $gFbLicenseSpecification="Mozilla Public License";
@@ -32,23 +39,33 @@ $gOsLicTlExplanationChapter="6.11.10";
 $gFbLiSpUcName="MPL-2.0-C4";
 
 $gFbLiSpUcDesc=
+/*
 	"that you received an MPL-2.0 licensed program, application, or
   server (proapse), that you modified it, and that you are now going to
   distribute this modified version to third parties in the form of source code files or as
   a source code package.";
+*/
 
-$gFbLiSpUcRequiresPrefix=
+	"MPL-2.0으로 라이선스 된 받은 프로그램, 어플리케이션 또는 서버 등 프로앱스의 수정 버전을 소스코드 파일 형태 또는 소스코드 패키지로 제3자에게 배포하려는 의도를 갖고 있다."; 
+
+	$gFbLiSpUcRequiresPrefix=
+/*
 	"the following tasks in order to fulfill the license conditions:";
+*/
+	"라이선스 조건을 충족하기 위한 작업은 다음과 같다.";
 
 $gFbLiSpUcNoTasks="";
 
 $gFbLiSpUcRequiresManArr=array(
-
+/*
   "Ensure that the licensing elements - esp. all
   copyright notices, patent notices, disclaimers of warranty, or limitations of
   liability - are retained in your package in exact the form you have received
   them.",
+*/
 
+"라이선싱하는 요소, 특히 모든 저작권 공지, 특허 공지, 보증 제한 또는 책임 배제는 받았던 형태로 정확히 패키지에 포함한다.",
+/*
 	"Give the recipient a copy of the MPL-2.0 license. If it is not already
 	part of the software package, add it. If the licensing statement in the
 	licensing file of the package does still not clearly state that the package
@@ -57,41 +74,61 @@ $gFbLiSpUcRequiresManArr=array(
 	of the Mozilla Public License, v. 2.0. If a copy of the MPL-2.0 was not
 	distributed with this file, You can obtain one at
 	http://mozilla.org/MPL/2.0/'.",
+*/
 
+"받는 사람에게 MPL-2.0 라이선스 사본을 제공한다. 이미 구성한 소프트웨어 패키지의 일부에서 빠져있다면 이를 추가한다.56 패키지의 라이선싱 파일의 라이선싱 설명에서 MPL-2.0에 의거 패키지를 사용 허가하였다는 점이 명시되지 않으면 다음 문장이 들어간 자체 올바른 MPL 라이선싱 파일을 추가로 삽입한다. 이 소스코드 형태는 Mozila Public License 버전 2.0 조항에 준한다. MPL 사본이 이 파일과 함께 배포되지 않았다면 htp:/mozila.org/MPL/2.0/에서 사본 하나를 확보할 수 있다.",
+
+/*
   "Organize your modifications in a way that they are
   covered by the existing MPL-2.0 licensing statements. If you add new source code
   files, insert a header containing your copyright line and an MPL-2.0 adequate
   licensing the statement."
+*/
 
+"기존의 MPL-2.0 라이선싱 사항에 포함되는 방식으로 수정물을 구성한다. 만약 새로운 소스코드 파일을 추가했다면, 헤더에 여러분의 저작권을 명시한 문장과 그 문장이 MPL을 충족하도록 라이선싱한다는 내용을 추가한다."
 );
 
 $gFbLiSpUcRequiresVolArr=array(
-
+/*
 	"Create a modification text file, if such a notice file still does not exist.
 	 Expand the modification text file by a more general description of your
 		modifications. Incorporate it into  your distribution package.",
+*/
 
+	"공지 파일이 존재하지 않으면 수정 텍스트 파일을 작성한다. 보다 일반적인 수정에 관한 설명으로 수정 텍스트 파일을 확장한다. 이를 배포 패키지에 포함한다.",
+/*
 	"Mark all modifications of the source code of the
 		program (proapse) thoroughly - namely within the modfied source code.",
+*/
 
+	"프로앱스인 프로그램의 소스코드 수정사항을 소스코드 안에 전부 표시한다.",
+/*	
   "Let the documentation of your distribution and/or
   your additional material also reproduce the content of the existing
   copyright notice text files, a hint to the software name, a link to its
   homepage, and a link to the MPL-2.0 license."
+*/
+
+"배포 문서 및 추가 자료를 통해 또한 기존의 저작권 공지 텍스트 파일 내용, 소프트웨어 명칭에 대한 힌트, 홈페이지 링크, MPL-2.0 라이선스 링크를 복제한다."
 );
 
 $gFbLiSpUcForbidsPrefix="";
 $gFbLiSpUcForbidsArr=array(
-
+/*
 		"to remove or to alter any license notices - including copyright notices,
 		patent notices, disclaimers of warranty, or limitations of liablility
 		- contained within the software package you have received.",
+*/
 
+		"받은 소프트웨어 패키지 내에 포함된 라이선스 공지(저작권 공지, 특허 공지, 보증 제한 또는 책임 배제를 포함)를 삭제하거나 변경",
+/*
 		"to promote any of your products - based on the this software - by
 		trademarks, service marks, or logos linked to this MPL-2.0 software, except as 
   		required for reasonable and customary use in describing the origin
   		of the software and reproducing the copyright notice."
+*/
 
+"사용된 소프트웨어를 공정하게 설명하고 저작권 공지를 복제해야 하는 경우를 제외하고 MPL-2.0 소프트웨어에 연결된 로고, 상표, 서비스 마크로 자신의 제품을 (이 소프트웨어에 근거한) 홍보"
 		);
 
 ?>

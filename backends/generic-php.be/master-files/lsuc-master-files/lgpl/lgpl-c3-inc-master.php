@@ -65,7 +65,11 @@ $gFbLiSpUcRequiresManArr=array(
   warranty - are retained in your package in the form you have received them.",
 */
 
+<<<<<<< HEAD
 "라이선싱하는 요소, 특히 LGPL-2.1 또는 LGPL-3.0과 보증 없음을 뜻하는 공지는 받았던 형태로 패키지에 포함한다.",
+=======
+"라이선스 조건을 충족하기 위한 작업은 다음과 같다.",
+>>>>>>> branch 'master' of http://bonoxtwo@intrepo.cafe24.com:9000/Koscom/Koscom
 
 /*
   "Ensure that the distributed software binary
@@ -78,10 +82,14 @@ $gFbLiSpUcRequiresManArr=array(
   itself over to the receiver.)",
 */
 
+<<<<<<< HEAD
 "배포된 소프트웨어 바이너리 패키지에는 적절히 설계된 명확하고 쉽게 찾아볼 수 있는
 저작권 공지와 보증 제한을 포함한다. 이 요소들이 누락되었다면, 각각의 라이선스LGPL-2.1과 LGPL-3.0에 의해 문자대로 정의된 형태로 주요 저작권 공지와 보증 제한을
 포함하는 파일을 새로 추가한다. (라이선스 일부가 되더라도 그리고 받는 사람에게 라이
 선스 자체를 양도해야 하더라도 그 권리 포기를 반복한다.)",
+=======
+"배포된 소프트웨어 바이너리 패키지에는 적절히 설계된 명확하고 쉽게 찾아볼 수 있는 저작권 공지와 보증 제한을 포함한다. 이 요소들이 누락되었다면, 각각의 라이선스LGPL-2.1과 LGPL-3.0에 의해 문자대로 정의된 형태로 주요 저작권 공지와 보증 제한을 포함하는 파일을 새로 추가한다. (라이선스 일부가 되더라도 그리고 받는 사람에게 라이선스 자체를 양도해야 하더라도 그 권리 포기를 반복한다.)",
+>>>>>>> branch 'master' of http://bonoxtwo@intrepo.cafe24.com:9000/Koscom/Koscom
 
 
 /*
@@ -117,7 +125,11 @@ $gFbLiSpUcRequiresManArr=array(
 	but replace form = binaries by form = sources)."
 */
 
+<<<<<<< HEAD
 "사용 사례 LGPL-C2의 과업 목록을 실행한다."
+=======
+"사용 사례 LGPL-2의 과업 목록을 실행한다."
+>>>>>>> branch 'master' of http://bonoxtwo@intrepo.cafe24.com:9000/Koscom/Koscom
 
 
 );
@@ -131,8 +143,12 @@ $gFbLiSpUcRequiresVolArr=array(
   LGPL-3.0.",
 */
 
+<<<<<<< HEAD
 "배포 문서 및 추가 자료를 통해 또한 기존의 저작권 공지 내용, 소프트웨어 명칭에 대한
 힌트, 홈페이지 링크, 각 보증 제한, 각 LGPL-2.1 및 LGPL-3.0 라이선스 링크를 복제한다.",
+=======
+"배포 문서 및 추가 자료를 통해 또한 기존의 저작권 공지 내용, 소프트웨어 명칭에 대한 힌트, 홈페이지 링크, 각 보증 제한, 각 LGPL-2.1 및 LGPL-3.0 라이선스 링크를 복제한다.",
+>>>>>>> branch 'master' of http://bonoxtwo@intrepo.cafe24.com:9000/Koscom/Koscom
 
 /*
   "Retain all existing copyright notices."
@@ -142,7 +158,11 @@ $gFbLiSpUcRequiresVolArr=array(
 
 );
 
+<<<<<<< HEAD
 $gFbLiSpUcForbidsPrefix=/*"nothing explicitly with respect to this use case."*/ "이 사용 사례와 관련하여 명확한 금지사항 없음";
+=======
+$gFbLiSpUcForbidsPrefix=/*"nothing explicitly with respect to this use case."*/ "nothing explicitly with respect to this use case"
+>>>>>>> branch 'master' of http://bonoxtwo@intrepo.cafe24.com:9000/Koscom/Koscom
 $gFbLiSpUcForbidsArr=array();
 
 ?>

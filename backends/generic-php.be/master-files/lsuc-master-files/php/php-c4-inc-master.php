@@ -32,49 +32,41 @@ $gOsLicTlExplanationChapter="6.14.10";
 $gFbLiSpUcName="PHP-3.0-C4";
 
 $gFbLiSpUcDesc=
-	"that you received a PHP-3.0 licensed program, application, or
-  server (proapse), that you modified it, and that you are now going to
-  distribute this modified version to third parties in the form of source code files or as
-  a source code package.";
+	"PHP로 라이선스 된 받은 프로그램, 어플리케이션 또는 서버의 수정 버전을 (proapse) 소스코드 파
+일 형태 또는 소스코드 패키지로 제3자에게 배포하려는 의도를 갖고 있다.";
 
 $gFbLiSpUcRequiresPrefix=
-	"the following tasks in order to fulfill the license conditions:";
+	"라이선스 조건을 충족하기 위한 작업은 다음과 같다.";
 
 $gFbLiSpUcNoTasks="";
 
 $gFbLiSpUcRequiresManArr=array(
 
-	"Ensure that the complete PHP-3.0 license - esp.
-	the copyright notice, the PHP-3.0 conditions, and the PHP-3.0 disclaimer - are
-	retained in your package in the form you have received them.",
+	"전체 PHP 라이선스(특히, 저작권 공지, PHP 조건 및 PHP 권리포기)는 받았던 형태로 패
+키지에 포함한다.",
 
-  "Let the documentation of your distribution and/or your additional
-	material also contain a line of acknowledgment in the form 'This product
-	includes PHP, freely available from http://www.php.net/'."
+  "배포 문서 및 추가 자료에 “이 제품은 다음의 주소(http://www.php.net/)에서 자유로이
+이용할 수 있는 PHP를 포함한다”는 형태로 승인 문구를 포함한다."
 );
 
 $gFbLiSpUcRequiresVolArr=array(
-	"Let the documentation of your distribution and/or
-  your additional material also contain the original copyright notice, the PHP-3.0
-  conditions, and the PHP-3.0 disclaimer.",
+	"배포 문서 및 추가 자료에 또한 초기 저작권 공지, PHP 조건 및 PHP 권리포기사항을 포
+함한다.",
 
-	"It is a good practice of the open source
-  community, to let the copyright notice which is shown by the running program
-  also state that the program is licensed under the PHP-3.0 license. Because you are
-  already modifying the program you can also add such a hint if the presented
-  original copyright notice lacks such a statement. If such a notice is missed
-  in the copyright screen, consider, whether it is possible, to let it
-  reproduce the complete PHP-3.0 license including the copyright notice, the
-  PHP-3.0 conditions, and the PHP-3.0 disclaimer - as it is required for binary
-  distributions.",
+	"실행 프로그램에 의해 표시되는 저작권 공지에서는 PHP 라이선스에 기반하여 프로그램
+이 사용 허가되었다는 설명을 밝히는 것이 오픈소스 커뮤니티에서는 바람직한 행위이다.
+왜냐하면, 프로그램을 수정하고 있기 때문에 초기 저작권 공지에 그 설명이 결여되었다
+면 그런 힌트를 추가할 수 있다. 저작권 화면에 그런 공지가 누락되었다면 저작권 공지,
+PHP 조건 및 PHP 권리포기사항을 포함하여 전체 PHP 라이선스를 복제할 수 있는지 고
+려한다(바이너리 배포 시 요구됨)",
 
-	"Mark your modifications in the source code."
+	"소스코드 안에 수정사항을 표시한다."
 );
 
 $gFbLiSpUcForbidsPrefix="";
 $gFbLiSpUcForbidsArr=array(
-		"to endorse or promote your product by mentioning PHP, esp. not
-by making the string 'PHP' part of its name."
+		"PHP’라는 명칭으로 단독으로 사용된 소프트웨어에 근거하여 어떠한 서비스를 보증하거나 홍
+보하는 행위"
 		);
 
 

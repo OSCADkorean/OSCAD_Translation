@@ -32,25 +32,20 @@ $gOsLicTlExplanationChapter="6.10.6";
 $gFbLiSpUcName="MIT-C1";
 
 $gFbLiSpUcDesc=
-"that you received MIT licensed software, that you will use it
-  only for yourself and that you do not hand it over to any 3rd party in any
-  sense.";
+"사용자가 방은 MIT로 라이선스 된 소프트웨어는 사용자 단독으로 사용해야하며, 제 3자에게는 어느 경우에도 양도해서는 안된다.";
 
 $gFbLiSpUcRequiresPrefix=
-	"no tasks in order to fulfill the conditions of the MIT license
-with respect to this use case:";
+	"MIT 라이선스 조건을 충족하기 위한 작업은 다음과 같다.";
 
 $gFbLiSpUcNoTasks=
-"You are allowed to use any kind of MIT licensed software in any sense
- and in any context without any other obligations if you do not handover the
- software to 3rd parties and if you do not modify the existing copyright
- notes and the existing permission notice.";
+"제3자에게 소프트웨어를 양도하지 않는다면 어떠한 의무가 부과되지 않는 정황에서 어떠한 유형
+의 MIT 라이선스 소프트웨어를 사용할 수 있다.";
 
 $gFbLiSpUcRequiresManArr=array();
 
 $gFbLiSpUcRequiresVolArr=array();
 
-$gFbLiSpUcForbidsPrefix="nothing explicitly.";
+$gFbLiSpUcForbidsPrefix="명시된 사항 없음.";
 $gFbLiSpUcForbidsArr=array();
 
 ?>

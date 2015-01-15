@@ -67,7 +67,7 @@ $gFbLiSpUcRequiresManArr=array();
 
 $gFbLiSpUcRequiresVolArr=array();
 
-$gFbLiSpUcForbidsPrefix=/*"nothing explicitly with respect to this use case."*/ "이 사용 사례와 관련하여 명확한 금지사항 없음";
+$gFbLiSpUcForbidsPrefix=/*"nothing explicitly with respect to this use case."*/ "이 사용 사례와 관련하여 명확한 금지사항 없음"
 $gFbLiSpUcForbidsArr=array();
 
 ?>
