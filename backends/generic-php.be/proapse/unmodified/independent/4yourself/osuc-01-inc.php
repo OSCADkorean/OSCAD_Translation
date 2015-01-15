@@ -22,8 +22,8 @@ $gFbOsucNumber="01";
 $gFbOsucName="OSUC-".$gFbOsucNumber;
 
 
-$gFbOsucDesc="Only for yourself, you are going to use an unmodified open source
-program, application, or server – just as you received it. In this case, you do
-not combine it with other components in the sense of software development.";
+$gFbOsucDesc="단독으로 수정하지 않고 오픈소스 프로그램, 어플리케이션 또는 서버를 받은 그대로 사용할 의
+도를 갖고 있다. 그러나 소프트웨어 개발이라는 취지로 다른 컴포넌트와 이를 결합하지 않는다. 구체적으
+로 라이선스를 충족시키는 과업 목록을 살펴보려면 아래의 안내하는 쪽으로 이동한다";
 
 ?>
