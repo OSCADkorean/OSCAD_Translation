@@ -23,7 +23,6 @@
 date : 2015.01.15
 subject : MS-PL-C2 : 바이너리로 비수정 소프트웨어 배포
 name : junehyunBaek(Koscom_Intern)
-버전번경 : MPL(한글판) -> MPL-2.0(영문판)
 *******************************************************/  
  
 $gFbLicenseName="MS-PL";
