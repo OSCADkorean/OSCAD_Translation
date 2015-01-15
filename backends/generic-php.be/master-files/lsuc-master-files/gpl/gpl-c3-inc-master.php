@@ -68,7 +68,7 @@ GPL-2.0와 GPL-3.0에 의해 문자대로 정의된 형태로 주요 저작권 �
 
   "기존의 모든 저작권 공지와 라이선싱하는 요소를 유지한다.",
   
-  "Execute the to-do list of use case GPL-C2 (:- the same request parameters,
+  "사용 사례 GPL-C2의 과업 목록을 실행한다 (:- the same request parameters,
 	but replace form = binaries by form = sources)."
 
 );
