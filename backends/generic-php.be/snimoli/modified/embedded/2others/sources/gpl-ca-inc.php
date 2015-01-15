@@ -23,6 +23,8 @@
 date : 2015.01.15
 subject : GPL-CA : 내장 소스코드로 수정 라이브러리 배포
 name : junehyunBaek(Koscom_Intern)
+
+특이사항 : GPL-V2 GPL-V3(한글판) -> GPL-2.0 GPL-3.0 
 *******************************************************/  
  
 $gFbLicenseName="GPL-[2.0|3.0]";
