@@ -32,15 +32,18 @@ $gOsLicTlExplanationChapter="6.6.10";
 $gFbLiSpUcName="EPL-1.0-C1";
 
 $gFbLiSpUcDesc=
-"EPL1.0으로 라이선스 된 받은 소프트웨어를 단독으로 사용하고 제3자에게 양도하지 않으려 하는 의도
-를 갖고 있다.";
+"that you received EPL-1.0 licensed software, that you will use it
+  only for yourself, and that you do not hand it over to any 3rd party in any
+  sense.";
 
 $gFbLiSpUcRequiresPrefix=
-	"다음 사용 사례에 관련하여 EPL 1.0 라이선스 조건을 충족하기 위한 작업은 없다.";
+	"no tasks in order to fulfill the conditions of the EPL-1.0
+license with respect to this use case:";
 
 $gFbLiSpUcNoTasks=
-"제3자에게 소프트웨어를 제공하지 않는 한 어떠한 의무가 부과되지 않는 어떠한 정황에서 어떠한
-유형의 EPL 소프트웨어를 사용할 수 있다.";
+"You are allowed to use any kind of EPL-1.0 software in any sense and in
+    any context without being obliged to do anything as long as you do not
+    give the software to 3rd parties.";
 
 $gFbLiSpUcRequiresManArr=array();
 
@@ -48,8 +51,10 @@ $gFbLiSpUcRequiresVolArr=array();
 
 $gFbLiSpUcForbidsPrefix="";
 $gFbLiSpUcForbidsArr=array(
-		"받은 소프트웨어 패키지 내에 포함된 저작권 공지를 제거 또는 변경하는 것.",
-		"이 소프트웨어의 특허 침해를 한것으로 여겨지는 사람을 상대로 증거없이 소송을 제기하는 것."
+		"to remove or to alter any copyright notices contained within the
+		received software package.",
+		"to institute a patent litigation against anyone alleging that this
+		 software constitutes patent infringement."
 		);
 
 ?>

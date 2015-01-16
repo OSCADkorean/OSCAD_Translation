@@ -23,8 +23,8 @@ $gFbOsucName="OSUC-".$gFbOsucNumber;
 
 
 $gFbOsucDesc=
-"단독으로 사용하기 전에 받은 오픈소스 프로그램, 어플리케이션 또는 서버를 사용할 의도를 갖
-고 있다. 그러나 소프트웨어 개발이라는 취지로 다른 컴포넌트와 이를 결합하지 않는다. 구체적으로 라이
-선스를 충족시키는 과업 목록을 살펴보려면 아래의 안내하는 쪽으로 이동한다";
+"Only for yourself, you are going to modify a received open source program,
+application, or server, before you will use it. But you do not combine it
+with other components in the sense of software development";
 
 ?>

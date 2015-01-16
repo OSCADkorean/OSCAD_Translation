@@ -32,29 +32,40 @@ $gOsLicTlExplanationChapter="6.12.9";
 $gFbLiSpUcName="MS-PL-C2";
 
 $gFbLiSpUcDesc=
-	"MS-PL로 라이선스 된 받은 소프트웨어의 비수정 버전을 바이너리 형태로 또는 소스코드 파일로 제3자에게 배포하고자 하는 의도를 갖고 있다. 이 경우 프로그램, 어플리케이션, 서버, 스니펫, 모듈, 라이브러리, 플러그 또는 독립패키지 등 배포유형을 식별하는 것은 아니다.";
+	"that you received MS-PL licensed software which you are now going to
+  distribute to third parties in the form of unmodified binaries or as unmodifed
+  source code files. In this case it makes no difference if you distribute a
+  program, an application, a server, a snippet, a module, a library, or a plugin
+  as an independent package.";
 
 $gFbLiSpUcRequiresPrefix=
-	"라이선스 조건을 충족하기 위한 작업은 다음과 같다:";
+	"the following tasks in order to fulfill the license conditions:";
 
 $gFbLiSpUcNoTasks="";
 
 $gFbLiSpUcRequiresManArr=array(
 
-  "라이선싱하는 요소, 특히 받은 버전의 일부인 귀속 공지, 상표, 특허, 저작권은 패키지에 전부 보유한다.",
+  "Ensure that all licensing elements (particularly all
+      copyright, patent, trademark, and attribution notices that are part of the
+      version you received) are completely retained in your package.",
 
-  "소스코드 또는 바이너리 패키지를 배포하는 여부와 관계없이 MS-PL 라이선스 사본을 패키지에 전부 포함한다."
+  "Incorporate a complete copy of the MS-PL license
+  into your package, regardless whether you distribute a source code or a binary
+  package."
 
 
 );
 
 $gFbLiSpUcRequiresVolArr=array(
-	"배포 문서 및 추가 자료에 또한 초기 소프트웨어(프로젝트)와 그 홈페이지 링크를 포함시키는 것이 바람직하다."
+	"It's a good tradition to let the documentation of
+  your distribution and/or your additional material also contain a link to the
+  original software (project) and its homepage."
 );
 
 $gFbLiSpUcForbidsPrefix="";
 $gFbLiSpUcForbidsArr=array(
-		"추가적인 승인 또는 법에 의한 승인 없이 기여자의 이름, 로고 또는 상표를 사용"
+		"to use any contributors' name, logo, or trademarks (without an
+				additional or general legally based approval)"
 		);
 
 ?>

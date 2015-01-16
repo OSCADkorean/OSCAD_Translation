@@ -32,19 +32,24 @@ $gOsLicTlExplanationChapter="6.9.10";
 $gFbLiSpUcName="LGPL-C1";
 
 $gFbLiSpUcDesc=
-	"LGPL-2.1 LGPL-3.0으로 라이선스 된 받은 소프트웨어를 단독으로 사용하고 제3자에게 양도하지 않는 의도를 갖고있다.";
+	"that you received LGPL-2.1 resp. LGPL-3.0 licensed software, that
+you will use it only for yourself, and that you do not hand it over to any 3rd
+party in any sense.";
 
 $gFbLiSpUcRequiresPrefix=
-	"다음 사용 사례에 관련하여 LGPL-2.1 또는 LGPL-3.0 조건을 충족하기 위한 작업은 없다.";
+	"no tasks in order to fulfill the conditions of the LGPL-2.1 or
+the LGPL-3.0 with respect to this use case:";
 
 $gFbLiSpUcNoTasks=
-"제3자에게 소프트웨어를 제공하지 않는 한 어떠한 의무가 부과되지 않는 정황에서 어떠한 유형의 LGPL-2.1 LPGL-3.0 소프트웨어를 사용할 수 있다. ";
+"You are allowed to use any kind of LGPL-2.1 resp. LGPL-3.0 licensed
+    software in any sense and in any context without being obliged to do
+    anything as long as you do not give the software to 3rd parties.";
 
 $gFbLiSpUcRequiresManArr=array();
 
 $gFbLiSpUcRequiresVolArr=array();
 
-$gFbLiSpUcForbidsPrefix="이 사용 사례와 관련하여 명확한 금지사항 없음.";
+$gFbLiSpUcForbidsPrefix="nothing explicitly with respect to this use case.";
 $gFbLiSpUcForbidsArr=array();
 
 ?>

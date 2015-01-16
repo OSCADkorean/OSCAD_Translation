@@ -32,22 +32,25 @@ $gOsLicTlExplanationChapter="6.13.6";
 $gFbLiSpUcName="PostgreSQL-C1";
 
 $gFbLiSpUcDesc=
-	" PGL로 라이선스 된 받은 소프트웨어를 단독으로 사용하고 제3자에게 양도하지 않는 의도를 갖고
-있다";
+	"that you received PostgreSQL licensed software, that you will use it
+  only for yourself, and that you do not hand it over to any 3rd party in any
+  sense.";
 
 $gFbLiSpUcRequiresPrefix=
-" 라이선스 조건을 충족하기 위한 작업은 다음과 같다.
-";
+"no tasks in order to fulfill the conditions of the PGL with
+respect to this use case:";
 
 $gFbLiSpUcNoTasks=
-" 제3자에게 소프트웨어를 양도하지 않고 기존의 저작권 공지 및 허가 공지를 수정하지 않는다면 
-그 밖의 의무사항이 없는 정황에서 어떠한 유형의 PGL 라이선스 소프트웨어를 사용할 수 있다. ";
+"You are allowed to use any kind of PGL licensed software in any sense
+    and in any context without any other obligations if you do not handover the
+    software to 3rd parties and if you do not modify the existing copyright
+    notes and the existing permission notice.";
 
 $gFbLiSpUcRequiresManArr=array();
 
 $gFbLiSpUcRequiresVolArr=array();
 
-$gFbLiSpUcForbidsPrefix=" 명확한 사항 없음";
+$gFbLiSpUcForbidsPrefix="nothing explicitly.";
 $gFbLiSpUcForbidsArr=array();
 
 ?>

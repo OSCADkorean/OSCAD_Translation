@@ -32,37 +32,28 @@ $gOsLicTlExplanationChapter="6.4.10";
 $gFbLiSpUcName="BSD-C1";
 
 $gFbLiSpUcDesc=
-"BSD로 라이선스 된 받은 소프트웨어를 단독으로 사용하고 제3자에게 양도하지 않으려 하는 의도를 갖고 있다.";
-/* 원문
 "that you received BSD licensed software, that you will use it
   only for yourself and that you do not hand it over to any 3rd party in any
   sense.";
-*/
+
 $gFbLiSpUcRequiresPrefix=
-"다음 사용 사례에 관하여 BSD 라이선스 조건을 충족하기 위한 작업은 없다 :";
-/*원문
 "no tasks in order to fulfill the conditions of the BSD license
 with respect to this use case:";
-*/
+
 $gFbLiSpUcNoTasks=
-"제 3자에게 소프트웨어를 제공하지 않는 한 어떠한 의무가 부과되지 않고, 어떠한 정황에서 어떠한 유형의 BSD 소프트웨어를 사용할 수 있다.";
-/*원문
 "You are allowed to use any kind of BSD software in any sense and in
     any context without any obligations as long as you do not give the software
     to 3rd parties";
-*/
+
 $gFbLiSpUcRequiresManArr=array();
 
 $gFbLiSpUcRequiresVolArr=array();
 
 $gFbLiSpUcForbidsPrefix="";
 $gFbLiSpUcForbidsArr=array(
-		"BSD 2 Clause License를 사용하고 있다면 금지사항은 명확히 존재하지 않는다. 그러나 BSD 3 Clause License에 의해 자신의 저작물을 홍보하기 위해 라이선싱 기관명 또는 라이선싱 기여자 (licensing contributor)명 사용이 명백히 금지된다."
-/*원문
 		"nothing explicitly if you are using the BSD 2 Clause License. But
 		the BSD 3 Clause License explicitly prohibits to use the name of the
 		licensing organization or the names of the licensing contributors to
 		promote your own work"
-		*/
 );
 ?>

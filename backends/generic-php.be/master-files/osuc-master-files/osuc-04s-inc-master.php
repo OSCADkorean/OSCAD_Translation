@@ -23,9 +23,9 @@ $gFbOsucName="OSUC-".$gFbOsucNumber;
 
 
 $gFbOsucDesc=
-"제3자에게 소스코드 형태로 배포하기 전에 받은 오픈소스 프로그램, 어플리케이션 또는 서버
-를 수정할 의도를 갖고 있다. 그러나 소프트웨어 개발이라는 취지로 다른 컴포넌트와 이 수정된 프로그
-램, 어플리케이션 또는 서버를 결합하지 않는다. 구체적으로 라이선스를 충족시키는 과업 목록을 살펴보
-려면 아래의 안내하는 쪽으로 이동한다.";
+"You are going to modify a received open source program, application, or
+server, before you will distribute it to 3rd parties - in the form of sources.
+But you do not combine this modified program, application, or server with
+other software components in the sense of software development";
 
 ?>

@@ -32,16 +32,18 @@ $gOsLicTlExplanationChapter="6.12.9";
 $gFbLiSpUcName="MS-PL-C1";
 
 $gFbLiSpUcDesc=
-	"MS-PL로 라이선스 된 받은 소프트웨어를 단독으로 사용하고 제3자에게 양도하지 않는 의도를 갖
-고 있다";
+	"that you received MS-PL licensed software, that you will use it
+  only for yourself and that you do not hand it over to any 3rd party in any
+  sense.";
 
 $gFbLiSpUcRequiresPrefix=
-	" 라이선스 조건을 충족하기 위한 작업은 다음과 같다.
-";
+	"no tasks in order to fulfill the conditions of the MS-PL
+license with respect to this use case:";
 
 $gFbLiSpUcNoTasks=
-" 제3자에게 소프트웨어를 양도하지 않는다면 어떠한 의무가 부과되지 않는 정황에서 어떠한 유형
-의 MS-PL 라이선스 소프트웨어를 사용할 수 있다. ";
+"You are allowed to use any kind of MS-PL licensed software in any
+    sense and in any context without any other obligations if you do not
+    handover the software to 3rd parties.";
 
 $gFbLiSpUcRequiresManArr=array();
 
@@ -49,7 +51,8 @@ $gFbLiSpUcRequiresVolArr=array();
 
 $gFbLiSpUcForbidsPrefix="";
 $gFbLiSpUcForbidsArr=array(
-		" 명시된 사항 없음"
+		"to use any contributors' name, logo, or trademarks (without an
+				additional or general legally based approval)"
 		);
 
 ?>

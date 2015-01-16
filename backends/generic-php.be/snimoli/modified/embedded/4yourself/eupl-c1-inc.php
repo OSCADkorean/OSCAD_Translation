@@ -32,13 +32,18 @@ $gOsLicTlExplanationChapter="6.7.12";
 $gFbLiSpUcName="EUPL-1.1-C1";
 
 $gFbLiSpUcDesc=
-	"EUPL로 라이선스 된 받은 소프트웨어를 단독으로 사용하고 제3자에게 양도하지 않는 의도를 갖고있다.";
+	"that you received EUPL-1.1 licensed software, that you will use it
+  only for yourself and that you do not hand it over to any 3rd party in any
+  sense.";
 
 $gFbLiSpUcRequiresPrefix=
-	"다음 사용 사례에 관련하여 EUPL-1.1 라이선스 조건을 충족하기 위한 작업은 없다.";
+	"no tasks in order to fulfill the conditions of the EUPL-1.1
+license with respect to this use case:";
 
 $gFbLiSpUcNoTasks=
-    "제3자에게 소프트웨어를 제공하지 않는 한 어떠한 의무가 부과되지 않는 사용 상황에서는 어떠한 유형의 EUPL 소프트웨어도 사용할 수 있다. ";
+    "You are allowed to use any kind of EUPL-1.1 software in any sense and in
+    any context without being obliged to do anything as long as you do not
+    give the software to 3rd parties.";
 
 $gFbLiSpUcRequiresManArr=array();
 
@@ -46,7 +51,10 @@ $gFbLiSpUcRequiresVolArr=array();
 
 $gFbLiSpUcForbidsPrefix="";
 $gFbLiSpUcForbidsArr=array(
-		"사용한 소프트웨어 파일을 공정하게 설명하고 저작권 공지를 복제하는데 필요한 경우를 제외하고 EUPL 소프트웨어에 연결된 명칭, 상표명, 상표, 서비스 마크에 의한 서비스 또는 제품의 홍보"
+		"to promote any of your services or products - based on the this software
+		- by trade names, trademarks, service marks, or names linked to this EUPL-1.1
+		software, except as required for reasonable and customary use in describing 
+		the origin of the software and reproducing the copyright notice."
 		);
 
 ?>

@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 
 /*  This file is part of OSCAd, the Open Source Compliance Advisor
  *
@@ -17,7 +17,6 @@
  *  You should have received a copy of the GNU Affero General Public License
  *  along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
- /*임시*/
 
 $gFbLicenseName="MIT";
 $gFbLicenseSpecification="MIT License";
@@ -33,19 +32,25 @@ $gOsLicTlExplanationChapter="6.10.6";
 $gFbLiSpUcName="MIT-C1";
 
 $gFbLiSpUcDesc=
-"사용자가 방은 MIT로 라이선스 된 소프트웨어는 사용자 단독으로 사용해야하며, 제 3자에게는 어느 경우에도 양도해서는 안된다.";
+"that you received MIT licensed software, that you will use it
+  only for yourself and that you do not hand it over to any 3rd party in any
+  sense.";
 
 $gFbLiSpUcRequiresPrefix=
-	"라이선스 조건을 충족하기 위한 작업은 다음과 같다:";
+	"no tasks in order to fulfill the conditions of the MIT license
+with respect to this use case:";
 
 $gFbLiSpUcNoTasks=
-"제 3자에게 소프트웨어를 양도하지 않고, 존재하는 저작권과 허가 공지를 수정하지 않는다면 사용자는 어떠한 유형의 MIT로 라이선스 된 소프트웨어를 어느경우든 사용가능하다.";
+"You are allowed to use any kind of MIT licensed software in any sense
+ and in any context without any other obligations if you do not handover the
+ software to 3rd parties and if you do not modify the existing copyright
+ notes and the existing permission notice.";
 
 $gFbLiSpUcRequiresManArr=array();
 
 $gFbLiSpUcRequiresVolArr=array();
 
-$gFbLiSpUcForbidsPrefix="명시된 사항 없음.";
+$gFbLiSpUcForbidsPrefix="nothing explicitly.";
 $gFbLiSpUcForbidsArr=array();
 
 ?>
