@@ -1,19 +1,6 @@
 <?php
 
 /*  This file is part of OSCAd, the Open Source Compliance Advisor
- *  <Open Source Compliance Advisor Korean Project>
- *  Contributor : 
-    Junehyun Baek <100aniv62@gmail.com>
-    Dosol choi    <dosa1572@gmail.com>
-    Booyong shin  <tlsqndyd@gmail.com>
-    Hoonmoo ryu   <tnsanzz@gmail.com>
-    Minhyung Cho  <designer.mhc@gmail.com>
-    Jaekyung Kim  <bonoxtwo@gmail.com>
-    Changeun Cho  <jceun57@gmail.com>
-
- *  Editor : Changeun Cho  <jceun57@gmail.com>
- *  Project Period : 2015.01.12 ~ 2015.01.23
- *  Edit date : 2015.01.16
  
  *  Copyright (C) 2013 Karsten Reincke, Deutsche Telekom AG
  *
@@ -29,6 +16,22 @@
 
  *  You should have received a copy of the GNU Affero General Public License
  *  along with this program.  If not, see <http://www.gnu.org/licenses/>
+ *****************************************************
+ *  <Open Source Compliance Advisor Korean Project>
+ *  Contributor : 
+    Junehyun Baek <100aniv62@gmail.com>
+    Dosol choi    <dosa1572@gmail.com>
+    Booyong shin  <tlsqndyd@gmail.com>
+    Hoonmoo ryu   <tnsanzz@gmail.com>
+    Minhyung Cho  <designer.mhc@gmail.com>
+    Jaekyung Kim  <bonoxtwo@gmail.com>
+    Changeun Cho  <jceun57@gmail.com>
+
+ *  Editor : Changeun Cho  <jceun57@gmail.com>
+ *  Project Period : 2015.01.12 ~ 2015.01.23
+ *  Edit date : 2015.01.16
+ *  Etc. Comment : EPL(KOR) -> EPL-1.0(ENG)
+ *****************************************************
  */
 
 $gFbLicenseName="EPL-1.0";
