@@ -63,7 +63,7 @@ $gFbLiSpUcRequiresPrefix=
 	of the Apache 2.0 license with respect to this use case:";
 */
 
-	"다음 사용 사례에 관련하여 아파치 2.0 라이선스 조건을 충족하기 위한 작업은 없다.";
+	"다음 사용 사례에 관련하여 아파치 2.0 라이선스 조건을 충족하기 위한 작업은 없다:";
 
 $gFbLiSpUcNoTasks=
 /*
