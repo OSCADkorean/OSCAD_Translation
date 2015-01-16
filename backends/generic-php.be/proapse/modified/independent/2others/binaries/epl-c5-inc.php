@@ -135,7 +135,9 @@ $gFbLiSpUcForbidsArr=array(
 		"to institute a patent litigation against anyone alleging that this
 		 software constitutes patent infringement."*/
 		 
-		 "받은 소프트웨어 패키지 내에 포함된 저작권 공지를 제거 또는 변경"
+		 "받은 소프트웨어 패키지 내에 포함된 저작권 공지를 제거 또는 변경",
+		 
+		 "소프트웨어가 특허 침해에 해당한다고 주장하는 자에 대해 특허 소송을 제기"
 		 
 		);
 
