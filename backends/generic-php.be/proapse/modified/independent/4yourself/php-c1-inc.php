@@ -16,6 +16,22 @@
 
  *  You should have received a copy of the GNU Affero General Public License
  *  along with this program.  If not, see <http://www.gnu.org/licenses/>
+ *****************************************************
+ *  <Open Source Compliance Advisor Korean Project>
+ *  Contributor : 
+    Junehyun Baek <100aniv62@gmail.com>
+    Dosol choi    <dosa1572@gmail.com>
+    Booyong shin  <tlsqndyd@gmail.com>
+    Hoonmoo ryu   <tnsanzz@gmail.com>
+    Minhyung Cho  <designer.mhc@gmail.com>
+    Jaekyung Kim  <bonoxtwo@gmail.com>
+    Changeun Cho  <jceun57@gmail.com>
+
+ *  Editor : Changeun Cho  <jceun57@gmail.com>
+ *  Project Period : 2015.01.12 ~ 2015.01.23
+ *  Edit date : 2015.01.19
+ *  Etc. Comment : PHP(KOR) -> PHP-3.0(ENG)
+ *****************************************************
  */
 
 $gFbLicenseName="PHP-3.0";
@@ -32,18 +48,24 @@ $gOsLicTlExplanationChapter="6.14.10";
 $gFbLiSpUcName="PHP-3.0-C1";
 
 $gFbLiSpUcDesc=
-	"that you received PHP-3.0 licensed software, that you will use it
+	/*"that you received PHP-3.0 licensed software, that you will use it
   only for yourself, and that you do not hand it over to any 3rd party in any
-  sense.";
+  sense.";*/
+  
+  "PHP-3.0으로 라이선스 된 받은 소프트웨어를 단독으로 사용하고 제3자에게 양도하지 않는 의도를 갖고 있다.";
 
 $gFbLiSpUcRequiresPrefix=
-	"no tasks in order to fulfill the conditions of the PHP-3.0 license
-	with respect to this use case:";
+	/*"no tasks in order to fulfill the conditions of the PHP-3.0 license
+	with respect to this use case:";*/
+	
+	"다음 사용 사례에 관련하여 PHP 라이선스 조건을 충족하기 위한 작업은 없다:";
 
 $gFbLiSpUcNoTasks=
-	"You are allowed to use any kind of PHP-3.0 software in any sense and in
+	/*"You are allowed to use any kind of PHP-3.0 software in any sense and in
     any context without any obligations as long as you do not give the software
-    to 3rd parties.";
+    to 3rd parties.";*/
+	
+	"제3자에게 소프트웨어를 제공하지 않는 한 어떠한 의무가 부과되지 않는 정황에서 어떠한 유형의 PHP-3.0 소프트웨어를 사용할 수 있다.";
 
 $gFbLiSpUcRequiresManArr=array();
 
@@ -51,8 +73,11 @@ $gFbLiSpUcRequiresVolArr=array();
 
 $gFbLiSpUcForbidsPrefix="";
 $gFbLiSpUcForbidsArr=array(
-		"to endorse or promote any service you establish on the base of
-		this privately used software by the name 'PHP'."
+		/*"to endorse or promote any service you establish on the base of
+		this privately used software by the name 'PHP'."*/
+		
+		"PHP’라는 명칭으로 단독으로 사용된 소프트웨어에 근거하여 어떠한 서비스를 보증하거나 홍보하는 행위"
+		
 		);
 
 ?>
