@@ -91,7 +91,9 @@ $gFbLiSpUcForbidsArr=array(
 
 		"to institute a patent litigation against anyone alleging that this
 		 software constitutes patent infringement."
-
-		 );
+/*
+		"지금 이 소프트웨어가 특허권 침해라고 주장하는 사람들에 대응하는 특허 소송권을 가질 수 있다."
+*/	
+		);
 
 ?>
