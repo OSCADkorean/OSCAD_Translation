@@ -17,6 +17,22 @@
  *  You should have received a copy of the GNU Affero General Public License
  *  along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
+/******************************************************
+<Open Source Compliance Advisor Korean Project>
+# Contributor :
+  Junehyun Baek <100aniv62@gmail.com>
+  Dosol Choi    <dosa1572@gmail.com>
+  Booyong shin  <tlsqndyd@gmail.com>
+  Hoonmoo ryu   <tnsanzz@gmail.com>
+  Minhyung Cho  <designer.mhc@gmail.com>
+  Jaekyung Kim  <bonoxtwo@gmail.com>
+  Changeun Cho  <jceun57@gmail.com>
+
+# Editor : Dosol Choi <dosa1572@gmail.com>
+# Project Period : 2015.01.12 ~ 2015.01.23
+# Edit date : 2015.01.20
+# Etc. Comment :
+*******************************************************/  
 
 $gFbLicenseName="MIT";
 $gFbLicenseSpecification="MIT License";
@@ -31,26 +47,27 @@ $gOsLicTlExplanationChapter="6.10.6";
 
 $gFbLiSpUcName="MIT-C1";
 
-$gFbLiSpUcDesc=
-"that you received MIT licensed software, that you will use it
+$gFbLiSpUcDesc="MIT로 라이선스 된 받은 소프트웨어를 단독으로 사용하고 제3자에게 양도하지 않는 의도를 갖고 있다.";
+/* "that you received MIT licensed software, that you will use it
   only for yourself and that you do not hand it over to any 3rd party in any
-  sense.";
+  sense."; */
 
-$gFbLiSpUcRequiresPrefix=
-	"no tasks in order to fulfill the conditions of the MIT license
-with respect to this use case:";
+$gFbLiSpUcRequiresPrefix="MIT 라이선스 조건을 충족하기 위한 작업은 다음과 같다";
+	/* "no tasks in order to fulfill the conditions of the MIT license
+with respect to this use case:"; */
 
 $gFbLiSpUcNoTasks=
-"You are allowed to use any kind of MIT licensed software in any sense
+	"제3자에게 소프트웨어를 양도하지 않는다면 어떠한 의무가 부과되지 않는 정황에서 어떠한 유형의 MIT 라이선스 소프트웨어를 사용할 수 있다.";
+/* "You are allowed to use any kind of MIT licensed software in any sense
  and in any context without any other obligations if you do not handover the
  software to 3rd parties and if you do not modify the existing copyright
- notes and the existing permission notice.";
+ notes and the existing permission notice."; */
 
 $gFbLiSpUcRequiresManArr=array();
 
 $gFbLiSpUcRequiresVolArr=array();
 
-$gFbLiSpUcForbidsPrefix="nothing explicitly.";
+$gFbLiSpUcForbidsPrefix="명시된 사항 없음.";//"nothing explicitly.";
 $gFbLiSpUcForbidsArr=array();
 
 ?>
