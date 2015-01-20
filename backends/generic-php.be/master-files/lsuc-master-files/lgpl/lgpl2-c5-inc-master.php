@@ -16,6 +16,22 @@
 
  *  You should have received a copy of the GNU Affero General Public License
  *  along with this program.  If not, see <http://www.gnu.org/licenses/>
+ *****************************************************
+ *  <Open Source Compliance Advisor Korean Project>
+ *  Contributor : 
+    Junehyun Baek <100aniv62@gmail.com>
+    Dosol choi    <dosa1572@gmail.com>
+    Booyong shin  <tlsqndyd@gmail.com>
+    Hoonmoo ryu   <tnsanzz@gmail.com>
+    Minhyung Cho  <designer.mhc@gmail.com>
+    Jaekyung Kim  <bonoxtwo@gmail.com>
+    Changeun Cho  <jceun57@gmail.com>
+
+ *  Editor : Minhyung Cho  <designer.mhc@gmail.com>
+ *  Project Period : 2015.01.12 ~ 2015.01.23
+ *  Edit date : 2015.01.20
+ *  Etc. Comment : LGPL(KOR) -> LGPL-2.1(ENG)
+ *****************************************************
  */
 
 $gFbLicenseName="LGPLv[2.1]";
@@ -32,14 +48,20 @@ $gOsLicTlExplanationChapter="6.9.10";
 $gFbLiSpUcName="LGPL2-C5";
 
 $gFbLiSpUcDesc=
-	"that you received an LGPL-2.1 licensed program,
+	/*"that you received an LGPL-2.1 licensed program,
 application, or server (proapse), that you modified it, and that you are now
 going to distribute this modified version to third parties in the form of binary
-files or as a binary package.";
+files or as a binary package.";*/
+
+"LGPL-2.1로 라이선스 된 받은 프로그램, 어플리케이션 또는 서버의 수정 버전을 (proapse) 바이너리 파일 형태 또는 바이너리 패키지로 제3자에게 배포하려는 의도를 갖고 있다.";
+
 
 $gFbLiSpUcRequiresPrefix=
-	"irrelvant because of the specific LGPL-2.1 requirement that the
-  result of a modification must also be a library.";
+	/*"irrelvant because of the specific LGPL-2.1 requirement that the
+  result of a modification must also be a library.";*/
+  
+  "수정된 결과 또한 라이브러리여야만 하는 구체적인 LGPL-2.1 조항 때문에 관련없다.";
+  
 
 $gFbLiSpUcNoTasks="";
 
@@ -49,8 +71,11 @@ $gFbLiSpUcRequiresVolArr=array();
 
 $gFbLiSpUcForbidsPrefix="";
 $gFbLiSpUcForbidsArr=array(
-		"to modify the received work in a way that the resulting
-		modified work is no longer a software library but a	program"
+		/*"to modify the received work in a way that the resulting
+		modified work is no longer a software library but a	program"*/
+		
+		"결과적으로 “수정된 저작물”이 더 이상 소프트웨어 라이브러리(프로그램은 제외)가 아닌 방식으로 받은 저작물을 수정하는 행위"
+		
 		);
 
 ?>
