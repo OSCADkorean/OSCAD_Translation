@@ -72,7 +72,7 @@ $gFbLiSpUcRequiresManArr=array(
   original software (project) and its homepage (as far as this does not clashes
   with with the prohibitions stated below)."*/
   
-  "소스코드 내 수정사항을 표시한다.",
+  "배포하려는 의도가 없더라도 소스코드 안에 수정사항을 표시한다.",
   
   "아래에 명시된 금지사항과 상충하지 않는 한, 배포 문서 및 추가 자료에 또한 초기 소프트웨어(프로젝트)와 그 홈페이지 링크를 포함시키는 것이 바람직하다."
 
@@ -87,7 +87,7 @@ $gFbLiSpUcRequiresVolArr=array(
   Because you are already modifying the program, you can also add such a hint,
   if the original copyright notice lacks such a statement."*/
   
-  "아래에 명시된 금지사항과 상충하지 않는 한, 지배적인 프로그램에 의해 표시되는 저작권 공지는 초기에 MS-PL 라이선스에 기반하여 사용 허가된 컴포넌트에 근거한다는 설명을 예를 들어, 원저작물의 프로젝트 홈페이지에 링크하여 이 공지에서 밝히는 것이 오픈소스 커뮤니티에서는 바람직한 행위이다."
+  "아래에 명시된 금지사항과 상충하지 않는 한, 실행 프로그램에 의해 표시되는 저작권 공지에서는 파생작이 MS-PL 라이선스에 기반하여 사용 허가된 버전에 근거한다는 설명을 예를 들어, 원저작물의 프로젝트 홈페이지에 링크하여 밝히는 것이 오픈소스 커뮤니티에서는 바람직한 행위이다. 왜냐하면, 프로그램을 수정하고 있기 때문에 초기 저작권 공지에 그 설명이 결여되었다면 그런 힌트를 추가할 수 있다. "
   
 );
 
