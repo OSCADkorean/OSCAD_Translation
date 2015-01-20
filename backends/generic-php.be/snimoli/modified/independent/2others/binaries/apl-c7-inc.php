@@ -17,7 +17,22 @@
  *  You should have received a copy of the GNU Affero General Public License
  *  along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
+/******************************************************
+<Open Source Compliance Advisor Korean Project>
+# Contributor :
+  Junehyun Baek <100aniv62@gmail.com>
+  Dosol Choi    <dosa1572@gmail.com>
+  Booyong shin  <tlsqndyd@gmail.com>
+  Hoonmoo ryu   <tnsanzz@gmail.com>
+  Minhyung Cho  <designer.mhc@gmail.com>
+  Jaekyung Kim  <bonoxtwo@gmail.com>
+  Changeun Cho  <jceun57@gmail.com>
 
+# Editor : Dosol Choi <dosa1572@gmail.com>
+# Project Period : 2015.01.12 ~ 2015.01.23
+# Edit date : 2015.01.16
+# Etc. Comment : 
+*******************************************************/ 
 $gFbLicenseName="Apache-2.0";
 $gFbLicenseSpecification="Apache License 2.0";
 $gFbLicenseAbbr="ApL";
@@ -32,19 +47,22 @@ $gOsLicTlExplanationChapter="6.3.10";
 $gFbLiSpUcName="Apache-2.0-C7";
 
 $gFbLiSpUcDesc=
-	"that you received an Apache-2.0 licensed code snippet, module, library,
+/*	"that you received an Apache-2.0 licensed code snippet, module, library,
   or plugin (snimoli), that you modified it, and that you are now going to
   distribute this modified version to third parties in the form of binary files
   or as a binary package but without embedding it into another larger software
   unit.";
+*/
 
+" 아파치로 라이선스 된 받은 스니펫, 모듈, 라이브러리 또는 플러그인 등 스니몰리의 수정 버전을 바이너리 파일 형태 또는 바이너리 패키지로 제3자에게 배포하려는 의도를 갖고 있다. 단, 이를 다른 더 큰 소프트웨어 유닛에 삽입하지는 않는다.";
 $gFbLiSpUcRequiresPrefix=
-	"the following tasks in order to fulfill the license conditions:";
+	" 라이선스 조건을 충족하기 위한 작업은 다음과 같다.
+";
 
 $gFbLiSpUcNoTasks="";
 
 $gFbLiSpUcRequiresManArr=array(
-
+/*	
 		"Give the recipient a copy of the Apache 2.0
 		license. If it is not already part of the binary package, add it",
 
@@ -59,9 +77,17 @@ $gFbLiSpUcRequiresManArr=array(
 		description of your modifications."
 
 );
+*/
+
+"아파치 2.0 라이선스 사본을 받는 사람에게 제공한다. 이미 구성한 바이너리 패키지의 일부에서 빠져있다면 이를 추가한다.",
+
+
+" 라이선싱하는 요소(특히, 원저작자 특정 저작권 공지)는 받았던 형태로 패키지에 포함한다. 소스에서 바이너리를 컴파일한다면 라이선싱하는 요소가 전부 패키지에 포함되어야 한다.",
+
+"받았던 공지 텍스트 파일의 정보는 최소한 전부 이 공지 텍스트 파일에 포함한다. 없다면 작성한다. 수정 설명으로 공지 텍스트 파일을 확장한다");
 
 $gFbLiSpUcRequiresVolArr=array(
-  "Even if you do not want to distribute your
+/*	  "Even if you do not want to distribute your
   modified source code, mark all your modifications thoroughly.",
 
   "Let the documentation of your distribution and/or your additional material
@@ -69,15 +95,26 @@ $gFbLiSpUcRequiresVolArr=array(
 	name, a link to its homepage, and a link to the Apache 2.0 license, 
 	especially as a subsection of your own copyright notice."
 );
+*/
+
+"수정 소스코드를 배포하고 싶지 않더라도 수정을 전부 완전히 표시한다.",
+
+
+" 배포 문서 및 추가 자료를 통해 또한 공지 텍스트 파일 내용, 소프트웨어 명칭에 대한 힌트, 홈페이지 링크, 아파치 2.0 라이선스 링크를 복제한다. 특히, 자체 저작권 공지의 하위 구역으로써 포함한다. ");
 
 $gFbLiSpUcForbidsPrefix="";
 $gFbLiSpUcForbidsArr=array(
-		"to promote any of your services based on the this software by
+/*			"to promote any of your services based on the this software by
 		trademarks, service marks, or product names linked to the software 
 		except as required for reasonable and customary use in describing 
 		the origin of the work and reproducing the content of the NOTICE file.",
 		"to institute any patent litigation against anyone alleging that the
 		software constitutes patent infringement."
 		);
+*/
+
+"사용한 소프트웨어 파일을 공정하게 설명하는데 필요한 경우를 제외하고, 아파치 소프트웨어에 연결된 제품명, 제품 상표 또는 서비스 마크에 기반하여 자신의 서비스나 제품을 홍보",
+
+"소프트웨어가 특허 침해에 해당한다고 주장하는 자에 대해 특허 소송을 제기");
 
 ?>

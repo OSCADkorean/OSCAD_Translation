@@ -71,8 +71,7 @@ $gFbLiSpUcRequiresManArr=array(
 		
 		"받았던 공지 텍스트 파일의 정보는 최소한 전부 이 공지 텍스트 파일에 포함한다. 없으면 작성한다. 공지 텍스트 파일은 수정 설명으로 확장한다.",
 		
-		"제3자 공지가 표시된다면 공지 텍스트 파일을 복제한다. 지배적인 프로그램에서 자체 저
-작권 다이얼로그를 표시하면 거기에 이 정보를 삽입한다."
+		"제3자 공지가 표시된다면 공지 텍스트 파일을 복제한다. 지배적인 프로그램에서 자체 저작권 다이얼로그를 표시하면 거기에 이 정보를 삽입한다."
 		
 /*		"Give the recipient a copy of the Apache-2.0
 		license. If it is not already part of the binary package, add it",
