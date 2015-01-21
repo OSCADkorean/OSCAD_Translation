@@ -133,7 +133,7 @@ $gFbLiSpUcRequiresVolArr=array(
   file by a description of your modifications.",
 */
     "공지 파일이 존재하지 않으면 수정 텍스트 파일을 작성한다. 수정 설명으로 수정 텍스트 파일을 확장한다.",
-*/
+/*
   "Let the documentation of your distribution and/or
   your additional material also reproduce the content of the existing
   copyright notices, a hint to the software name, a link to its homepage,

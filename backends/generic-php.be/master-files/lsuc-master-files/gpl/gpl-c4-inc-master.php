@@ -107,7 +107,7 @@ $gFbLiSpUcRequiresManArr=array(
   a way that they are also covered by the GPL-2.0 resp. GPL-3.0 licensing
   statements."
 */
-    "기능 추가 개발 소스는 각 GPL-2.0 및 GPL-3.0 라이선싱 사항에 포함되는 방식으로 구성한다.",
+    "기능 추가 개발 소스는 각 GPL-2.0 및 GPL-3.0 라이선싱 사항에 포함되는 방식으로 구성한다."
 );
 
 $gFbLiSpUcRequiresVolArr=array(
