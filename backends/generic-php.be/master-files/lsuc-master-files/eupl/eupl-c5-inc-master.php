@@ -17,6 +17,24 @@
  *  You should have received a copy of the GNU Affero General Public License
  *  along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
+ 
+ /******************************************************
+<Open Source Compliance Advisor Korean Project>
+# Contributor :
+  Junehyun Baek <100aniv62@gmail.com>
+  Dosol choi    <dosa1572@gmail.com>
+  Booyong shin  <tlsqndyd@gmail.com>
+  Hoonmoo ryu   <tnsanzz@gmail.com>
+  Minhyung Cho  <designer.mhc@gmail.com>
+  Jaekyung Kim  <bonoxtwo@gmail.com>
+  Changeun Cho  <jceun57@gmail.com>
+
+# Editor : Junehyun Baek <100aniv62@gmail.com>
+# Project Period : 2015.01.12 ~ 2015.01.23
+# Edit date : 2015.01.16
+# Etc. Comment : Apache -> Apache-2.0
+*******************************************************/ 
+
 
 $gFbLicenseName="EUPL-1.1";
 $gFbLicenseSpecification="European Union Public License";
