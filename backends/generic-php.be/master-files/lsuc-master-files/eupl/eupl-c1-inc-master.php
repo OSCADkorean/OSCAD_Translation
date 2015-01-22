@@ -53,7 +53,7 @@ $gFbLiSpUcDesc=
 only for yourself and that you do not hand it over to any 3rd party in any
 sense.";
 */
-    "EUPL·Î ¶óÀÌ¼±½º µÈ ¹ÞÀº ¼ÒÇÁÆ®¿þ¾î¸¦ ´Üµ¶À¸·Î »ç¿ëÇÏ°í Á¦3ÀÚ¿¡°Ô ¾çµµÇÏÁö ¾Ê´Â ÀÇµµ¸¦ °®°í ÀÖ´Ù.";
+    "EUPLë¡œ ë¼ì´ì„ ìŠ¤ ëœ ë°›ì€ ì†Œí”„íŠ¸ì›¨ì–´ë¥¼ ë‹¨ë…ìœ¼ë¡œ ì‚¬ìš©í•˜ê³  ì œ3ìžì—ê²Œ ì–‘ë„í•˜ì§€ ì•ŠëŠ” ì˜ë„ë¥¼ ê°–ê³  ìžˆë‹¤.";
     
 $gFbLiSpUcRequiresPrefix=
 
@@ -61,7 +61,7 @@ $gFbLiSpUcRequiresPrefix=
 "no tasks in order to fulfill the conditions of the EUPL-1.1
 license with respect to this use case:";
 */
-    "´ÙÀ½ »ç¿ë »ç·Ê¿¡ °ü·ÃÇÏ¿© EUPL-1.1 ¶óÀÌ¼±½º Á¶°ÇÀ» ÃæÁ·ÇÏ±â À§ÇÑ ÀÛ¾÷Àº ¾ø´Ù:";
+    "ë‹¤ìŒ ì‚¬ìš© ì‚¬ë¡€ì— ê´€ë ¨í•˜ì—¬ EUPL-1.1 ë¼ì´ì„ ìŠ¤ ì¡°ê±´ì„ ì¶©ì¡±í•˜ê¸° ìœ„í•œ ìž‘ì—…ì€ ì—†ë‹¤:";
 
 $gFbLiSpUcNoTasks=
 /*
@@ -69,7 +69,7 @@ $gFbLiSpUcNoTasks=
 any context without being obliged to do anything as long as you do not
 give the software to 3rd parties.";
 */
-    " Á¦3ÀÚ¿¡°Ô ¼ÒÇÁÆ®¿þ¾î¸¦ Á¦°øÇÏÁö ¾Ê´Â ÇÑ ¾î¶°ÇÑ ÀÇ¹«°¡ ºÎ°úµÇÁö ¾Ê´Â »ç¿ë »óÈ²¿¡¼­´Â ¾î¶°ÇÑ À¯ÇüÀÇ EUPL-1.1 ¼ÒÇÁÆ®¿þ¾îµµ »ç¿ëÇÒ ¼ö ÀÖ´Ù. ";
+    "ì œ3ìžì—ê²Œ ì†Œí”„íŠ¸ì›¨ì–´ë¥¼ ì œê³µí•˜ì§€ ì•ŠëŠ” í•œ ì–´ë– í•œ ì˜ë¬´ê°€ ë¶€ê³¼ë˜ì§€ ì•ŠëŠ” ì‚¬ìš© ìƒí™©ì—ì„œëŠ” ì–´ë– í•œ ìœ í˜•ì˜ EUPL-1.1 ì†Œí”„íŠ¸ì›¨ì–´ë„ ì‚¬ìš©í•  ìˆ˜ ìžˆë‹¤. ";
 
 $gFbLiSpUcRequiresManArr=array();
 
@@ -83,7 +83,7 @@ $gFbLiSpUcForbidsArr=array(
 software, except as required for reasonable and customary use in describing 
 the origin of the software and reproducing the copyright notice."
 */
-    " »ç¿ëÇÑ ¼ÒÇÁÆ®¿þ¾î ÆÄÀÏÀ» °øÁ¤ÇÏ°Ô ¼³¸íÇÏ°í ÀúÀÛ±Ç °øÁö¸¦ º¹Á¦ÇÏ´Âµ¥ ÇÊ¿äÇÑ °æ¿ì¸¦ Á¦¿ÜÇÏ°í EUPL ¼ÒÇÁÆ®¿þ¾î¿¡ ¿¬°áµÈ ¸íÄª, »óÇ¥¸í, »óÇ¥, ¼­ºñ½º ¸¶Å©¿¡ ÀÇÇÑ ¼­ºñ½º ¶Ç´Â Á¦Ç°ÀÇ È«º¸"
+    " ì‚¬ìš©í•œ ì†Œí”„íŠ¸ì›¨ì–´ íŒŒì¼ì„ ê³µì •í•˜ê²Œ ì„¤ëª…í•˜ê³  ì €ìž‘ê¶Œ ê³µì§€ë¥¼ ë³µì œí•˜ëŠ”ë° í•„ìš”í•œ ê²½ìš°ë¥¼ ì œì™¸í•˜ê³  EUPL ì†Œí”„íŠ¸ì›¨ì–´ì— ì—°ê²°ëœ ëª…ì¹­, ìƒí‘œëª…, ìƒí‘œ, ì„œë¹„ìŠ¤ ë§ˆí¬ì— ì˜í•œ ì„œë¹„ìŠ¤ ë˜ëŠ” ì œí’ˆì˜ í™ë³´"
 		);
 
 ?>

@@ -35,8 +35,13 @@
 *******************************************************/ 
 
 $gFbLicenseName="PHP-3.0";
+<<<<<<< HEAD
 $gFbLicenseSpecification="PHP-3.0 License";
 $gFbLicenseAbbr="PHP";
+=======
+$gFbLicenseSpecification="PHP-3.0-3.0 License";
+$gFbLicenseAbbr="PHP-3.0";
+>>>>>>> branch 'master' of http://jceun57@intrepo.cafe24.com:9000/Koscom/Koscom
 $gFbLicenseRelease="3.0";
 
 $gOsLicProtectionChapter="2.13";

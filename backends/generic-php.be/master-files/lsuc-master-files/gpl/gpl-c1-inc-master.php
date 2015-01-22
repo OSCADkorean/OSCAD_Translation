@@ -55,20 +55,20 @@ $gFbLiSpUcDesc=
 will use it only for yourself and that you do not hand it over to any 3rd party in any
   sense.";
 */
-    "GPL-2.0 ¶Ç´Â GPL-3.0À¸·Î ¶óÀÌ¼±½º µÈ ¹ÞÀº ¼ÒÇÁÆ®¿þ¾î¸¦ ´Üµ¶À¸·Î »ç¿ëÇÏ°í Á¦3ÀÚ¿¡°Ô ¾çµµÇÏÁö¾Ê´Â ÀÇµµ¸¦ °®°í ÀÖ´Ù.";
+    "GPL-2.0 ë˜ëŠ” GPL-3.0ìœ¼ë¡œ ë¼ì´ì„ ìŠ¤ ëœ ë°›ì€ ì†Œí”„íŠ¸ì›¨ì–´ë¥¼ ë‹¨ë…ìœ¼ë¡œ ì‚¬ìš©í•˜ê³  ì œ3ìžì—ê²Œ ì–‘ë„í•˜ì§€ì•ŠëŠ” ì˜ë„ë¥¼ ê°–ê³  ìžˆë‹¤.";
 $gFbLiSpUcRequiresPrefix=
 /*
 	"no tasks in order to fulfill the conditions of the GPL-2.0 or
 the GPL-3.0 with respect to this use case:";
 */
-    "´ÙÀ½ »ç¿ë »ç·Ê¿¡ °ü·ÃÇÏ¿© GPL-2.0 ¶Ç´Â GPL-3.0 Á¶°ÇÀ» ÃæÁ·ÇÏ±â À§ÇÑ ÀÛ¾÷Àº ¾ø´Ù:";
+    "ë‹¤ìŒ ì‚¬ìš© ì‚¬ë¡€ì— ê´€ë ¨í•˜ì—¬ GPL-2.0 ë˜ëŠ” GPL-3.0 ì¡°ê±´ì„ ì¶©ì¡±í•˜ê¸° ìœ„í•œ ìž‘ì—…ì€ ì—†ë‹¤:";
 $gFbLiSpUcNoTasks=
 /*
 "You are allowed to use any kind of GPL software in any sense and in
     any context without being obliged to do anything as long as you do not
     give the software to 3rd parties.";
 */
-    "Á¦3ÀÚ¿¡°Ô ¼ÒÇÁÆ®¿þ¾î¸¦ Á¦°øÇÏÁö ¾Ê´Â ÇÑ ¾î¶°ÇÑ ÀÇ¹«°¡ ºÎ°úµÇÁö ¾Ê´Â Á¤È²¿¡¼­ ¾î¶°ÇÑ À¯ÇüÀÇ GPL ¼ÒÇÁÆ®¿þ¾î¸¦ »ç¿ëÇÒ ¼ö ÀÖ´Ù.";
+    "ì œ3ìžì—ê²Œ ì†Œí”„íŠ¸ì›¨ì–´ë¥¼ ì œê³µí•˜ì§€ ì•ŠëŠ” í•œ ì–´ë– í•œ ì˜ë¬´ê°€ ë¶€ê³¼ë˜ì§€ ì•ŠëŠ” ì •í™©ì—ì„œ ì–´ë– í•œ ìœ í˜•ì˜ GPL ì†Œí”„íŠ¸ì›¨ì–´ë¥¼ ì‚¬ìš©í•  ìˆ˜ ìžˆë‹¤.";
 $gFbLiSpUcRequiresManArr=array();
 
 $gFbLiSpUcRequiresVolArr=array();
@@ -77,7 +77,7 @@ $gFbLiSpUcForbidsPrefix=
 /*
 "nothing explicitly with respect to this use case.";
 */
-    "ÀÌ »ç¿ë »ç·Ê¿Í °ü·ÃÇÏ¿© ¸íÈ®ÇÑ ±ÝÁö»çÇ× ¾øÀ½";
+    "ì´ ì‚¬ìš© ì‚¬ë¡€ì™€ ê´€ë ¨í•˜ì—¬ ëª…í™•í•œ ê¸ˆì§€ì‚¬í•­ ì—†ìŒ";
 $gFbLiSpUcForbidsArr=array();
 
 ?>
