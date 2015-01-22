@@ -58,7 +58,7 @@ $gFbLiSpUcDesc=
 $gFbLiSpUcRequiresPrefix=
 	/*"the following tasks in order to fulfill the license conditions:";*/
 	
-	"라이선스 조건을 충족하기 위한 작업은 다음과 같다.";
+	"라이선스 조건을 충족하기 위한 작업은 다음과 같다:";
 
 $gFbLiSpUcNoTasks="";
 
