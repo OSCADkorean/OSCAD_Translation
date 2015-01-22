@@ -55,13 +55,13 @@ $gFbLiSpUcDesc=
   component of a larger unit and in the form of unmodified binary files or as
   unmodified binary package.";
 */
-    "EUPL·Î ¶óÀÌ¼±½º µÈ ¹ÞÀº ½º´ÏÆê, ¸ðµâ ¶Ç´Â ¶óÀÌºê·¯¸®ÀÇ ºñ¼öÁ¤ ¹öÀüÀ» ´õ Å« À¯´ÖÀÇ ³»Àå ÄÄÆ÷³ÍÆ®·Î, ¹ÙÀÌ³Ê¸® ÆÄÀÏ ÇüÅÂ ¶Ç´Â ¹ÙÀÌ³Ê¸® ÆÐÅ°Áö·Î Á¦3ÀÚ¿¡°Ô ¹èÆ÷ÇÏ·Á´Â ÀÇµµ¸¦ °®°í ÀÖ´Ù. ";
+    "EUPLë¡œ ë¼ì´ì„ ìŠ¤ ëœ ë°›ì€ ìŠ¤ë‹ˆíŽ«, ëª¨ë“ˆ ë˜ëŠ” ë¼ì´ë¸ŒëŸ¬ë¦¬ì˜ ë¹„ìˆ˜ì • ë²„ì „ì„ ë” í° ìœ ë‹›ì˜ ë‚´ìž¥ ì»´í¬ë„ŒíŠ¸ë¡œ, ë°”ì´ë„ˆë¦¬ íŒŒì¼ í˜•íƒœ ë˜ëŠ” ë°”ì´ë„ˆë¦¬ íŒ¨í‚¤ì§€ë¡œ ì œ3ìžì—ê²Œ ë°°í¬í•˜ë ¤ëŠ” ì˜ë„ë¥¼ ê°–ê³  ìžˆë‹¤. ";
     
 $gFbLiSpUcRequiresPrefix=
 /*
 	"the following tasks in order to fulfill the license conditions:";
 */
-    "¶óÀÌ¼±½º Á¶°ÇÀ» ÃæÁ·ÇÏ±â À§ÇÑ ÀÛ¾÷Àº ´ÙÀ½°ú °°´Ù:";
+    "ë¼ì´ì„ ìŠ¤ ì¡°ê±´ì„ ì¶©ì¡±í•˜ê¸° ìœ„í•œ ìž‘ì—…ì€ ë‹¤ìŒê³¼ ê°™ë‹¤:";
     
 $gFbLiSpUcNoTasks="";
 
@@ -73,13 +73,13 @@ $gFbLiSpUcRequiresManArr=array(
   your package in the form you have received them. If you compile the binary from the sources, ensure that
 		all the licensing elements are also incorporated into the package.",
 */
-    "¶óÀÌ¼±½ÌÇÏ´Â ¿ä¼Ò, Æ¯È÷ ÀúÀÛ±Ç, Æ¯Çã ¶Ç´Â »óÇ¥ °øÁö ±×¸®°í ¶óÀÌ¼±½º¿Í º¸Áõ Á¦ÇÑÀ» ¶æÇÏ´Â °øÁö µîÀº ¹Þ¾Ò´ø ÇüÅÂ·Î ÆÐÅ°Áö¿¡ Æ÷ÇÔÇÑ´Ù. ¼Ò½º¿¡¼­ ¹ÙÀÌ³Ê¸®¸¦ ÄÄÆÄÀÏÇÑ´Ù¸é ¶óÀÌ¼±½º ¿ä¼Ò´Â ÀüºÎ ÆÐÅ°Áö¿¡ Æ÷ÇÔÇÏµµ·Ï ÇÑ´Ù.",
+    "ë¼ì´ì„ ì‹±í•˜ëŠ” ìš”ì†Œ, íŠ¹ížˆ ì €ìž‘ê¶Œ, íŠ¹í—ˆ ë˜ëŠ” ìƒí‘œ ê³µì§€ ê·¸ë¦¬ê³  ë¼ì´ì„ ìŠ¤ì™€ ë³´ì¦ ì œí•œì„ ëœ»í•˜ëŠ” ê³µì§€ ë“±ì€ ë°›ì•˜ë˜ í˜•íƒœë¡œ íŒ¨í‚¤ì§€ì— í¬í•¨í•œë‹¤. ì†ŒìŠ¤ì—ì„œ ë°”ì´ë„ˆë¦¬ë¥¼ ì»´íŒŒì¼í•œë‹¤ë©´ ë¼ì´ì„ ìŠ¤ ìš”ì†ŒëŠ” ì „ë¶€ íŒ¨í‚¤ì§€ì— í¬í•¨í•˜ë„ë¡ í•œë‹¤.",
 /*
 		"Give the recipient a copy of the EUPL-1.1
 		license. If it is not already part of the binary package, add
 		it.",
 */
-    "¹Þ´Â »ç¶÷¿¡°Ô EUPL-1.1 ¶óÀÌ¼±½º »çº»À» Á¦°øÇÑ´Ù. ÀÌ¹Ì ±¸¼ºÇÑ ¹ÙÀÌ³Ê¸® ÆÐÅ°ÁöÀÇ ÀÏºÎ¿¡¼­ ºüÁ®ÀÖ´Ù¸é ÀÌ¸¦ Ãß°¡ÇÑ´Ù.",
+    "ë°›ëŠ” ì‚¬ëžŒì—ê²Œ EUPL-1.1 ë¼ì´ì„ ìŠ¤ ì‚¬ë³¸ì„ ì œê³µí•œë‹¤. ì´ë¯¸ êµ¬ì„±í•œ ë°”ì´ë„ˆë¦¬ íŒ¨í‚¤ì§€ì˜ ì¼ë¶€ì—ì„œ ë¹ ì ¸ìžˆë‹¤ë©´ ì´ë¥¼ ì¶”ê°€í•œë‹¤.",
 /*
 		"Make the source code of the embedded library and the source code of
 		your overarching program accessible via a repository under your own
@@ -89,23 +89,23 @@ $gFbLiSpUcRequiresManArr=array(
 		the code can be received from where. Ensure, that this repository is online
 		for as long as you continue to distribute the software.",
 */
-    "ÀÚ½ÅÀÇ ±ÇÇÑÀ¸·Î ³»Àå ¶óÀÌºê·¯¸®ÀÇ ¼Ò½ºÄÚµå ±×¸®°í Áö¹èÀûÀÎ ÇÁ·Î±×·¥ÀÇ ¼Ò½ºÄÚµå¸¦ ÀúÀå¼Ò(repository)¸¦ ÅëÇØ ÀÌ¿ëÇÒ ¼ö ÀÖ°Ô ÇÑ´Ù(ÀÌ¸¦ ¼öÁ¤ÇÏÁö ¾Ê´õ¶óµµ). ÀÎÅÍ³Ý ÀúÀå¼Ò¿¡ ¼Ò½ºÄÚµå ÆÐÅ°Áö¸¦ »ðÀÔÇÏ°í ÀÎÅÍ³ÝÀ» ÅëÇÑ ´Ù¿î·Îµå¸¦ Çã¿ëÇÑ´Ù. ÄÚµå¸¦ ¼ö½ÅÇÏ´Â ¹æ¹ýÀ» ¼³¸íÇÏ´Â ¹èÆ÷ ÆÐÅ°Áö¿¡ ¼Õ½±°Ô Ã£´Â ¼³¸íÀ» Æ÷ÇÔÇÑ´Ù. ÀÌ ÀúÀå¼Ò´Â ¼ÒÇÁÆ®¿þ¾î ¹èÆ÷¸¦ Áö¼ÓÇÏ´Â µ¿¾È ÃæºÐÇÑ ±â°£ µ¿¾È ¿Â¶óÀÎ¿¡¼­ »ç¿ëÇÒ ¼ö ÀÖµµ·Ï ÇÑ´Ù.",
+    "ìžì‹ ì˜ ê¶Œí•œìœ¼ë¡œ ë‚´ìž¥ ë¼ì´ë¸ŒëŸ¬ë¦¬ì˜ ì†ŒìŠ¤ì½”ë“œ ê·¸ë¦¬ê³  ì§€ë°°ì ì¸ í”„ë¡œê·¸ëž¨ì˜ ì†ŒìŠ¤ì½”ë“œë¥¼ ì €ìž¥ì†Œ(repository)ë¥¼ í†µí•´ ì´ìš©í•  ìˆ˜ ìžˆê²Œ í•œë‹¤(ì´ë¥¼ ìˆ˜ì •í•˜ì§€ ì•Šë”ë¼ë„). ì¸í„°ë„· ì €ìž¥ì†Œì— ì†ŒìŠ¤ì½”ë“œ íŒ¨í‚¤ì§€ë¥¼ ì‚½ìž…í•˜ê³  ì¸í„°ë„·ì„ í†µí•œ ë‹¤ìš´ë¡œë“œë¥¼ í—ˆìš©í•œë‹¤. ì½”ë“œë¥¼ ìˆ˜ì‹ í•˜ëŠ” ë°©ë²•ì„ ì„¤ëª…í•˜ëŠ” ë°°í¬ íŒ¨í‚¤ì§€ì— ì†ì‰½ê²Œ ì°¾ëŠ” ì„¤ëª…ì„ í¬í•¨í•œë‹¤. ì´ ì €ìž¥ì†ŒëŠ” ì†Œí”„íŠ¸ì›¨ì–´ ë°°í¬ë¥¼ ì§€ì†í•˜ëŠ” ë™ì•ˆ ì¶©ë¶„í•œ ê¸°ê°„ ë™ì•ˆ ì˜¨ë¼ì¸ì—ì„œ ì‚¬ìš©í•  ìˆ˜ ìžˆë„ë¡ í•œë‹¤.",
 /*
 		"Insert a prominent hint to the download repository
 		into your distribution and/or your additional material.",
 */
-    "¹èÆ÷ ¹× Ãß°¡ ÀÚ·á¿¡ ´Ù¿î·Îµå ÀúÀå¼ÒÀÇ ÈùÆ®¸¦ ´«¿¡ ¶ç°Ô »ðÀÔÇÑ´Ù.",
+    "ë°°í¬ ë° ì¶”ê°€ ìžë£Œì— ë‹¤ìš´ë¡œë“œ ì €ìž¥ì†Œì˜ ížŒíŠ¸ë¥¼ ëˆˆì— ë„ê²Œ ì‚½ìž…í•œë‹¤.",
 /*
 		"License your overarching program also under the
 		EUPL-1.1: Organize the binaries of the on-top development in a way that they
 		are also covered by the EUPL-1.1 licensing statements.",
 */
-    " EUPL-1.1¿¡ ÀÇ°Å Áö¹èÀûÀÎ ÇÁ·Î±×·¥ÀÇ »ç¿ëÀ» Çã°¡ÇÑ´Ù. EUPL-1.1 ¶óÀÌ¼±½Ì »çÇ×¿¡ Æ÷ÇÔ µÇ´Â ¹æ½ÄÀ¸·Î ±â´É Ãß°¡ °³¹ß¹°ÀÇ ¹ÙÀÌ³Ê¸®¸¦ ±¸¼ºÇÑ´Ù.",
+    " EUPL-1.1ì— ì˜ê±° ì§€ë°°ì ì¸ í”„ë¡œê·¸ëž¨ì˜ ì‚¬ìš©ì„ í—ˆê°€í•œë‹¤. EUPL-1.1 ë¼ì´ì„ ì‹± ì‚¬í•­ì— í¬í•¨ ë˜ëŠ” ë°©ì‹ìœ¼ë¡œ ê¸°ëŠ¥ ì¶”ê°€ ê°œë°œë¬¼ì˜ ë°”ì´ë„ˆë¦¬ë¥¼ êµ¬ì„±í•œë‹¤.",
 /*
 		"Execute the to-do list of use case EUPL-1.1-C4 (:- the same request parameters,
 	  but replace form = binaries by form = sources)."
 */
-    "»ç¿ë »ç·Ê EUPL-1.1-C4ÀÇ °ú¾÷ ¸ñ·ÏÀ» ½ÇÇàÇÑ´Ù."
+    "ì‚¬ìš© ì‚¬ë¡€ EUPL-1.1-C4ì˜ ê³¼ì—… ëª©ë¡ì„ ì‹¤í–‰í•œë‹¤."
 );
 
 $gFbLiSpUcRequiresVolArr=array(
@@ -114,7 +114,7 @@ $gFbLiSpUcRequiresVolArr=array(
 	uses the EUPL-1.1 licensed library and that it is itself
 	licensed under the EUPL-1.1 too.",
 */
-    "±â´É Ãß°¡ °³¹ß¹°ÀÇ ÀúÀÛ±Ç ´ÙÀÌ¾ó·Î±×´Â EUPL-1.1 ¶óÀÌ¼±½º ¶óÀÌºê·¯¸®¸¦ »ç¿ëÇÏ°í EUPL-1.1¿¡ ÀÇÇØ »ç¿ë Çã°¡µÇ¾ú´Ù´Â Á¡À» ÀÌ ´ÙÀÌ¾ó·Î±×¿¡ ¸íÈ®È÷ Ç¥½ÃÇÑ´Ù.",
+    "ê¸°ëŠ¥ ì¶”ê°€ ê°œë°œë¬¼ì˜ ì €ìž‘ê¶Œ ë‹¤ì´ì–¼ë¡œê·¸ëŠ” EUPL-1.1 ë¼ì´ì„ ìŠ¤ ë¼ì´ë¸ŒëŸ¬ë¦¬ë¥¼ ì‚¬ìš©í•˜ê³  EUPL-1.1ì— ì˜í•´ ì‚¬ìš© í—ˆê°€ë˜ì—ˆë‹¤ëŠ” ì ì„ ì´ ë‹¤ì´ì–¼ë¡œê·¸ì— ëª…í™•ížˆ í‘œì‹œí•œë‹¤.",
 /*
   "Let the documentation of your distribution and/or
   your additional material also reproduce the content of the existing
@@ -122,7 +122,7 @@ $gFbLiSpUcRequiresVolArr=array(
   homepage, and a link to the EUPL-1.1 license, preferably as a subsection
   of your own copyright notice."
 */
-    "¹èÆ÷ ¹®¼­ ¹× Ãß°¡ ÀÚ·á¸¦ ÅëÇØ ¶ÇÇÑ ±âÁ¸ÀÇ ÀúÀÛ±Ç °øÁö ÅØ½ºÆ® ÆÄÀÏ ³»¿ë, ¼ÒÇÁÆ®¿þ¾î ¸íÄª¿¡ ´ëÇÑ ÈùÆ®, È¨ÆäÀÌÁö ¸µÅ©, EUPL-1.1 ¶óÀÌ¼±½º ¸µÅ©¸¦ º¹Á¦ÇÑ´Ù."
+    "ë°°í¬ ë¬¸ì„œ ë° ì¶”ê°€ ìžë£Œë¥¼ í†µí•´ ë˜í•œ ê¸°ì¡´ì˜ ì €ìž‘ê¶Œ ê³µì§€ í…ìŠ¤íŠ¸ íŒŒì¼ ë‚´ìš©, ì†Œí”„íŠ¸ì›¨ì–´ ëª…ì¹­ì— ëŒ€í•œ ížŒíŠ¸, í™ˆíŽ˜ì´ì§€ ë§í¬, EUPL-1.1 ë¼ì´ì„ ìŠ¤ ë§í¬ë¥¼ ë³µì œí•œë‹¤."
 );
 
 $gFbLiSpUcForbidsPrefix="";
@@ -133,7 +133,7 @@ $gFbLiSpUcForbidsArr=array(
 	software, except as required for reasonable and customary use in describing 
 	the origin of the software and reproducing the copyright notice."
 */
-    "»ç¿ëÇÑ ¼ÒÇÁÆ®¿þ¾î ÆÄÀÏÀ» °øÁ¤ÇÏ°Ô ¼³¸íÇÏ°í ÀúÀÛ±Ç °øÁö¸¦ º¹Á¦ÇÏ´Âµ¥ ÇÊ¿äÇÑ °æ¿ì¸¦ Á¦¿ÜÇÏ°í EUPL ¼ÒÇÁÆ®¿þ¾î¿¡ ¿¬°áµÈ ¸íÄª, »óÇ¥¸í, »óÇ¥, ¼­ºñ½º ¸¶Å©¿¡ ÀÇÇÑ ¼­ºñ½º ¶Ç´Â Á¦Ç°ÀÇ È«º¸"
+    "ì‚¬ìš©í•œ ì†Œí”„íŠ¸ì›¨ì–´ íŒŒì¼ì„ ê³µì •í•˜ê²Œ ì„¤ëª…í•˜ê³  ì €ìž‘ê¶Œ ê³µì§€ë¥¼ ë³µì œí•˜ëŠ”ë° í•„ìš”í•œ ê²½ìš°ë¥¼ ì œì™¸í•˜ê³  EUPL ì†Œí”„íŠ¸ì›¨ì–´ì— ì—°ê²°ëœ ëª…ì¹­, ìƒí‘œëª…, ìƒí‘œ, ì„œë¹„ìŠ¤ ë§ˆí¬ì— ì˜í•œ ì„œë¹„ìŠ¤ ë˜ëŠ” ì œí’ˆì˜ í™ë³´"
 	);
 
 ?>
