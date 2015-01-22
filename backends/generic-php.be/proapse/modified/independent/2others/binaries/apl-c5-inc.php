@@ -58,7 +58,7 @@ $gFbLiSpUcDesc=
 $gFbLiSpUcRequiresPrefix=
 	/*"the following tasks in order to fulfill the license conditions:";*/
 	
-	"라이선스 조건을 충족하기 위한 작업은 다음과 같다.";
+	"라이선스 조건을 충족하기 위한 작업은 다음과 같다:";
 
 $gFbLiSpUcNoTasks="";
 
@@ -106,7 +106,7 @@ $gFbLiSpUcRequiresVolArr=array(
 		"수정된 소스코드를 배포하고 싶지 않더라도 수정을 전부 완전히 표시한다.",
 		
 		"배포 문서 및 추가 자료를 통해 또한 공지 텍스트 파일 내용, 소프트웨어 명칭에 대한 힌트, 홈페이지 링크, 아파치 2.0 라이선스 링크를 복제한다. 특히, 자체 저작권 공지의 하위 구역으로써 포함한다."
-);;
+);
 
 $gFbLiSpUcForbidsPrefix="";
 $gFbLiSpUcForbidsArr=array(

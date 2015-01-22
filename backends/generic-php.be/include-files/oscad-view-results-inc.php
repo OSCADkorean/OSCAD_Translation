@@ -26,8 +26,7 @@ include("oscad-be-config-inc.php");
 <head>
 
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-	(t)OSCAd - (Telekom) Open Source Compliance Advisor
--->
+
 
 <title>OSCAd: form sheet based</title>
 <meta name="date" content="2013-04-22T15:17:42" />

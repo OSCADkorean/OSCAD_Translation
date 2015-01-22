@@ -3,7 +3,7 @@
 /*  This file is part of OSCAd, the Open Source Compliance Advisor
  *
  *  Copyright (C) 2013 Karsten Reincke, Deutsche Telekom AG
- *
+ *s
  *  This program is free software: you can redistribute it and/or modify
  *  it under the terms of the GNU Affero General Public License as
  *  published by the Free Software Foundation, either version 3 of the
