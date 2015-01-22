@@ -35,8 +35,13 @@
 *******************************************************/ 
 
 $gFbLicenseName="PHP-3.0";
+<<<<<<< HEAD
+$gFbLicenseSpecification="PHP-3.0 License";
+$gFbLicenseAbbr="PHP";
+=======
 $gFbLicenseSpecification="PHP-3.0-3.0 License";
 $gFbLicenseAbbr="PHP-3.0";
+>>>>>>> branch 'master' of http://jceun57@intrepo.cafe24.com:9000/Koscom/Koscom
 $gFbLicenseRelease="3.0";
 
 $gOsLicProtectionChapter="2.13";
@@ -45,7 +50,7 @@ $gOsLicTodoListChapter="6.14";
 $gOsLicLsucChapter="6.14.1";
 $gOsLicTlExplanationChapter="6.14.10";
 
-$gFbLiSpUcName="PHP-3.0-3.0-C1";
+$gFbLiSpUcName="PHP-3.0-C1";
 
 $gFbLiSpUcDesc=
 /*	"that you received PHP-3.0 licensed software, that you will use it
@@ -53,7 +58,7 @@ $gFbLiSpUcDesc=
   sense.";
 */
 
-" PHP-3.0-3.0으로 라이선스 된 받은 소프트웨어를 단독으로 사용하고 제3자에게 양도하지 않는 의도를 갖고 있다. ";
+" PHP-3.0으로 라이선스 된 받은 소프트웨어를 단독으로 사용하고 제3자에게 양도하지 않는 의도를 갖고 있다. ";
 
 $gFbLiSpUcRequiresPrefix=
 /*		"no tasks in order to fulfill the conditions of the PHP-3.0 license

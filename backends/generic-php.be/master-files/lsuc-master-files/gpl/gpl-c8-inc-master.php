@@ -57,12 +57,12 @@ going to distribute this modified version to third parties in the form of source
 code files or as a source code package, but without embedding it into another
 larger software unit.";
 */
-    "GPL-2.0 ë˜ëŠ” GPL-3.0ìœ¼ë¡œ ë¼ì´ì„ ìŠ¤ ëœ ë°›ì€ ìŠ¤ë‹ˆíŽ«, ëª¨ë“ˆ, ë¼ì´ë¸ŒëŸ¬ë¦¬ ë˜ëŠ” í”ŒëŸ¬ê·¸ì¸ ë“± ìŠ¤ë‹ˆëª°ë¦¬ì˜ ìˆ˜ì • ë²„ì „ì„ ì†ŒìŠ¤ì½”ë“œ íŒŒì¼ í˜•íƒœ ë˜ëŠ” ì†ŒìŠ¤ì½”ë“œ íŒ¨í‚¤ì§€ë¡œ ì œ3ìžì—ê²Œ ë°°í¬í•˜ë ¤ëŠ” ì˜ë„ë¥¼ ê°–ê³  ìžˆë‹¤. ë‹¨, ì´ë¥¼ ë‹¤ë¥¸ ë” í° ì†Œí”„íŠ¸ì›¨ì–´ ìœ ë‹›ì— ì‚½ìž…í•˜ì§€ëŠ” ì•ŠëŠ”ë‹¤.";
+    "GPL-2.0 ¶Ç´Â GPL-3.0À¸·Î ¶óÀÌ¼±½º µÈ ¹ÞÀº ½º´ÏÆê, ¸ðµâ, ¶óÀÌºê·¯¸® ¶Ç´Â ÇÃ·¯±×ÀÎ µî ½º´Ï¸ô¸®ÀÇ ¼öÁ¤ ¹öÀüÀ» ¼Ò½ºÄÚµå ÆÄÀÏ ÇüÅÂ ¶Ç´Â ¼Ò½ºÄÚµå ÆÐÅ°Áö·Î Á¦3ÀÚ¿¡°Ô ¹èÆ÷ÇÏ·Á´Â ÀÇµµ¸¦ °®°í ÀÖ´Ù. ´Ü, ÀÌ¸¦ ´Ù¸¥ ´õ Å« ¼ÒÇÁÆ®¿þ¾î À¯´Ö¿¡ »ðÀÔÇÏÁö´Â ¾Ê´Â´Ù.";
 $gFbLiSpUcRequiresPrefix=
 /*
 	"the following tasks in order to fulfill the license conditions:";
 */
-    "ë¼ì´ì„ ìŠ¤ ì¡°ê±´ì„ ì¶©ì¡±í•˜ê¸° ìœ„í•œ ìž‘ì—…ì€ ë‹¤ìŒê³¼ ê°™ë‹¤:";
+    "¶óÀÌ¼±½º Á¶°ÇÀ» ÃæÁ·ÇÏ±â À§ÇÑ ÀÛ¾÷Àº ´ÙÀ½°ú °°´Ù:";
 $gFbLiSpUcNoTasks="";
 
 $gFbLiSpUcRequiresManArr=array(
@@ -71,7 +71,7 @@ $gFbLiSpUcRequiresManArr=array(
   notices that refer to the GPL-2.0 or GPL-3.0 and to the absence of any
   warranty - are retained in your package in the form you have received them.",
 */
-    "ë¼ì´ì„ ì‹±í•˜ëŠ” ìš”ì†Œ, íŠ¹ížˆ, GPL-2.0 ë˜ëŠ” GPL-3.0ì™€ ë³´ì¦ ì—†ìŒì„ ëœ»í•˜ëŠ” ê³µì§€ëŠ” ë°›ì•˜ë˜ í˜•íƒœë¡œ íŒ¨í‚¤ì§€ì— í¬í•¨í•œë‹¤.",
+    "¶óÀÌ¼±½ÌÇÏ´Â ¿ä¼Ò, Æ¯È÷, GPL-2.0 ¶Ç´Â GPL-3.0¿Í º¸Áõ ¾øÀ½À» ¶æÇÏ´Â °øÁö´Â ¹Þ¾Ò´ø ÇüÅÂ·Î ÆÐÅ°Áö¿¡ Æ÷ÇÔÇÑ´Ù.",
 /*
   "Ensure that the distributed source code package
   contains a conspicuously and appropriately designed, easily to find copyright
@@ -82,30 +82,30 @@ $gFbLiSpUcRequiresManArr=array(
   license itself and although you are required to hand the license itself over
   to the receiver.)",
 */
-    "ë°°í¬ëœ ì†ŒìŠ¤ì½”ë“œ íŒ¨í‚¤ì§€ì—ëŠ” ì ì ˆížˆ ì„¤ê³„ëœ ëª…í™•í•˜ê³  ì‰½ê²Œ ì°¾ì•„ë³¼ ìˆ˜ ìžˆëŠ” ì €ìž‘ê¶Œ ê³µì§€ì™€ ë³´ì¦ ì œí•œì„ í¬í•¨í•œë‹¤. ì´ ìš”ì†Œë“¤ì´ ëˆ„ë½ë˜ì—ˆë‹¤ë©´, ë¼ì´ì„ ìŠ¤ GPL-V2 ë° GPL-V3ì— ì˜í•´ ë¬¸ìžëŒ€ë¡œ ì •ì˜ëœ í˜•íƒœë¡œ ì£¼ìš” ì €ìž‘ê¶Œ ê³µì§€ì™€ ë³´ì¦ ì œí•œì„ í¬í•¨í•˜ëŠ” íŒŒì¼ì„ ìƒˆë¡œ ì¶”ê°€í•œë‹¤. (ë¼ì´ì„ ìŠ¤ ì¼ë¶€ê°€ ë˜ë”ë¼ë„ ê·¸ë¦¬ê³  ë°›ëŠ” ì‚¬ëžŒì—ê²Œ ë¼ì´ì„ ìŠ¤ ìžì²´ë¥¼ ì–‘ë„í•´ì•¼ í•˜ë”ë¼ë„ ê·¸ ê¶Œë¦¬ í¬ê¸°ë¥¼ ë°˜ë³µí•œë‹¤.)",
+    "¹èÆ÷µÈ ¼Ò½ºÄÚµå ÆÐÅ°Áö¿¡´Â ÀûÀýÈ÷ ¼³°èµÈ ¸íÈ®ÇÏ°í ½±°Ô Ã£¾Æº¼ ¼ö ÀÖ´Â ÀúÀÛ±Ç °øÁö¿Í º¸Áõ Á¦ÇÑÀ» Æ÷ÇÔÇÑ´Ù. ÀÌ ¿ä¼ÒµéÀÌ ´©¶ôµÇ¾ú´Ù¸é, ¶óÀÌ¼±½º GPL-V2 ¹× GPL-V3¿¡ ÀÇÇØ ¹®ÀÚ´ë·Î Á¤ÀÇµÈ ÇüÅÂ·Î ÁÖ¿ä ÀúÀÛ±Ç °øÁö¿Í º¸Áõ Á¦ÇÑÀ» Æ÷ÇÔÇÏ´Â ÆÄÀÏÀ» »õ·Î Ãß°¡ÇÑ´Ù. (¶óÀÌ¼±½º ÀÏºÎ°¡ µÇ´õ¶óµµ ±×¸®°í ¹Þ´Â »ç¶÷¿¡°Ô ¶óÀÌ¼±½º ÀÚÃ¼¸¦ ¾çµµÇØ¾ß ÇÏ´õ¶óµµ ±× ±Ç¸® Æ÷±â¸¦ ¹Ýº¹ÇÑ´Ù.)",
 /*
   "Give the recipient a copy of the GPL-2.0 resp.
   GPL-3.0 license. If it is not already part of the software package, add
   it.",
 */
-    " ë°›ëŠ” ì‚¬ëžŒì—ê²Œ ê° GPL-2.0 ë° GPL-3.0 ì‚¬ë³¸ì„ ì œê³µí•œë‹¤. ì´ë¯¸ êµ¬ì„±í•œ ì†Œí”„íŠ¸ì›¨ì–´ íŒ¨í‚¤ì§€ì˜ ì¼ë¶€ì—ì„œ ë¹ ì ¸ìžˆë‹¤ë©´ ì´ë¥¼ ì¶”ê°€í•œë‹¤.",
+    " ¹Þ´Â »ç¶÷¿¡°Ô °¢ GPL-2.0 ¹× GPL-3.0 »çº»À» Á¦°øÇÑ´Ù. ÀÌ¹Ì ±¸¼ºÇÑ ¼ÒÇÁÆ®¿þ¾î ÆÐÅ°ÁöÀÇ ÀÏºÎ¿¡¼­ ºüÁ®ÀÖ´Ù¸é ÀÌ¸¦ Ãß°¡ÇÑ´Ù.",
 /*
   "Retain all existing copyright notices.",
 */
-    "ê¸°ì¡´ì˜ ëª¨ë“  ì €ìž‘ê¶Œ ê³µì§€ì™€ ë¼ì´ì„ ì‹±í•˜ëŠ” ìš”ì†Œë¥¼ ìœ ì§€í•œë‹¤.",
+    "±âÁ¸ÀÇ ¸ðµç ÀúÀÛ±Ç °øÁö¿Í ¶óÀÌ¼±½ÌÇÏ´Â ¿ä¼Ò¸¦ À¯ÁöÇÑ´Ù.",
 /*
   "Mark all modifications of source code of the
   library (snimoli) thoroughly - namely within the source code and including
   the date of the modification.",
 */
-    "ìŠ¤ë‹ˆëª°ë¦¬ì¸ ë¼ì´ë¸ŒëŸ¬ë¦¬ì˜ ì†ŒìŠ¤ì½”ë“œ ìˆ˜ì •ì‚¬í•­ì„ ì†ŒìŠ¤ì½”ë“œ ì•ˆì— ê·¸ë¦¬ê³  ìˆ˜ì • ë‚ ì§œë¥¼ í¬í•¨í•˜ì—¬ ì „ë¶€ í‘œì‹œí•œë‹¤.",
+    "½º´Ï¸ô¸®ÀÎ ¶óÀÌºê·¯¸®ÀÇ ¼Ò½ºÄÚµå ¼öÁ¤»çÇ×À» ¼Ò½ºÄÚµå ¾È¿¡ ±×¸®°í ¼öÁ¤ ³¯Â¥¸¦ Æ÷ÇÔÇÏ¿© ÀüºÎ Ç¥½ÃÇÑ´Ù.",
 /*
   "Organize your modifications in a way that they are
   covered by the existing GPL licensing statements. If you add new source code
   files, insert a header containing your copyright line and a licensing the
   statement in the form required by the GNU project."
 */
-    "ê¸°ì¡´ì˜ GPL ë¼ì´ì„ ì‹± ì‚¬í•­ì— í¬í•¨ë˜ëŠ” ë°©ì‹ìœ¼ë¡œ ìˆ˜ì •ì‚¬í•­ì„ êµ¬ì„±í•œë‹¤. ë§Œì•½ ìƒˆë¡œìš´ ì†ŒìŠ¤ì½”ë“œ íŒŒì¼ì„ ì¶”ê°€í–ˆë‹¤ë©´, í—¤ë”ì— ì—¬ëŸ¬ë¶„ì˜ ì €ìž‘ê¶Œì„ ëª…ì‹œí•œ ë¬¸ìž¥ê³¼ ê·¸ ë¬¸ìž¥ì´ GPL í”„ë¡œì íŠ¸ê°€ ìš”êµ¬í•˜ëŠ” ì–‘ì‹ì— ë§žê²Œ ë¼ì´ì„ ì‹±í•œë‹¤ëŠ” ë‚´ìš©ì„ ì¶”ê°€í•œë‹¤."
+    "±âÁ¸ÀÇ GPL ¶óÀÌ¼±½Ì »çÇ×¿¡ Æ÷ÇÔµÇ´Â ¹æ½ÄÀ¸·Î ¼öÁ¤»çÇ×À» ±¸¼ºÇÑ´Ù. ¸¸¾à »õ·Î¿î ¼Ò½ºÄÚµå ÆÄÀÏÀ» Ãß°¡Çß´Ù¸é, Çì´õ¿¡ ¿©·¯ºÐÀÇ ÀúÀÛ±ÇÀ» ¸í½ÃÇÑ ¹®Àå°ú ±× ¹®ÀåÀÌ GPL ÇÁ·ÎÁ§Æ®°¡ ¿ä±¸ÇÏ´Â ¾ç½Ä¿¡ ¸Â°Ô ¶óÀÌ¼±½ÌÇÑ´Ù´Â ³»¿ëÀ» Ãß°¡ÇÑ´Ù."
 );
 
 $gFbLiSpUcRequiresVolArr=array(
@@ -114,7 +114,7 @@ $gFbLiSpUcRequiresVolArr=array(
   notice file still does not exist. Expand the modification text
   file by a description of your modifications.",
 */
-    "ê³µì§€ íŒŒì¼ì´ ì¡´ìž¬í•˜ì§€ ì•Šìœ¼ë©´ ìˆ˜ì • í…ìŠ¤íŠ¸ íŒŒì¼ì„ ìž‘ì„±í•œë‹¤. ìˆ˜ì •ì— ê´€í•œ ì„¤ëª…ìœ¼ë¡œ ìˆ˜ì • í…ìŠ¤íŠ¸ íŒŒì¼ì„ í™•ìž¥í•œë‹¤.",
+    "°øÁö ÆÄÀÏÀÌ Á¸ÀçÇÏÁö ¾ÊÀ¸¸é ¼öÁ¤ ÅØ½ºÆ® ÆÄÀÏÀ» ÀÛ¼ºÇÑ´Ù. ¼öÁ¤¿¡ °üÇÑ ¼³¸íÀ¸·Î ¼öÁ¤ ÅØ½ºÆ® ÆÄÀÏÀ» È®ÀåÇÑ´Ù.",
 /*
   "Let the documentation of your distribution and/or
   your additional material also reproduce the content of the existing
@@ -122,14 +122,14 @@ $gFbLiSpUcRequiresVolArr=array(
   the respective disclaimer of warranty, and a link to the GPL-2.0 resp.
   GPL-3.0."
 */
-    "ë°°í¬ ë¬¸ì„œ ë° ì¶”ê°€ ìžë£Œë¥¼ í†µí•´ ë˜í•œ ê¸°ì¡´ì˜ ì €ìž‘ê¶Œ ê³µì§€ ë‚´ìš©, ì†Œí”„íŠ¸ì›¨ì–´ ëª…ì¹­ì— ëŒ€í•œ ížŒíŠ¸, í™ˆíŽ˜ì´ì§€ ë§í¬, ê° ë³´ì¦ ì œí•œ, ê° GPL-2.0 ë° GPL-3.0 ë§í¬ë¥¼ ë³µì œí•œë‹¤."
+    "¹èÆ÷ ¹®¼­ ¹× Ãß°¡ ÀÚ·á¸¦ ÅëÇØ ¶ÇÇÑ ±âÁ¸ÀÇ ÀúÀÛ±Ç °øÁö ³»¿ë, ¼ÒÇÁÆ®¿þ¾î ¸íÄª¿¡ ´ëÇÑ ÈùÆ®, È¨ÆäÀÌÁö ¸µÅ©, °¢ º¸Áõ Á¦ÇÑ, °¢ GPL-2.0 ¹× GPL-3.0 ¸µÅ©¸¦ º¹Á¦ÇÑ´Ù."
 );
 
 $gFbLiSpUcForbidsPrefix=
 /*
 "nothing explicitly with respect to this use case.";
 */
-    "ì´ ì‚¬ìš© ì‚¬ë¡€ì™€ ê´€ë ¨í•˜ì—¬ ëª…í™•í•œ ê¸ˆì§€ì‚¬í•­ ì—†ìŒ";
+    "ÀÌ »ç¿ë »ç·Ê¿Í °ü·ÃÇÏ¿© ¸íÈ®ÇÑ ±ÝÁö»çÇ× ¾øÀ½";
 $gFbLiSpUcForbidsArr=array();
 
 ?>

@@ -53,9 +53,13 @@ $gFbLiSpUcDesc=
   or as a binary package but without embedding it into another larger software
   unit.";
 */
-"EPL로 라이선스 된 받은 스니펫, 모듈, 라이브러리 또는 플러그인 등 스니몰리의 수정 버전을 바이너리 파일 형태 또는 바이너리 패키지로 제3자에게 배포하려는 의도를 갖고 있다. 단, 이를 다른 더 큰 소프트웨어 유닛에 삽입하지는 않는다.";
+" EPL로 라이선스 된 받은 스니펫, 모듈, 라이브러리 또는 플러그인 등 스니몰리의 수정 버전을 바이
+너리 파일 형태 또는 바이너리 패키지로 제3자에게 배포하려는 의도를 갖고 있다. 단, 이를 다른
+더 큰 소프트웨어 유닛에 삽입하지는 않는다.
+";
 $gFbLiSpUcRequiresPrefix=
-	"라이선스 조건을 충족하기 위한 작업은 다음과 같다.";
+	" 라이선스 조건을 충족하기 위한 작업은 다음과 같다.
+";
 
 $gFbLiSpUcNoTasks="";
 
@@ -114,8 +118,7 @@ $gFbLiSpUcRequiresManArr=array(
 
 " 배포 및 추가 자료에 다운로드 저장소의 눈에 띄는 힌트를 삽입한다.",
 
-" 사용 사례 EPL-C2의 과업 목록을 실행한다."
-);
+" 사용 사례 EPL-C2의 과업 목록을 실행한다.");
 $gFbLiSpUcRequiresVolArr=array(
 /*	  "Let the documentation of your distribution and/or
   your additional material also reproduce the content of the existing
@@ -124,7 +127,7 @@ $gFbLiSpUcRequiresVolArr=array(
 );
 */
 
-"배포 문서 및 추가 자료를 통해 또한 기존의 저작권 공지 텍스트 파일 내용, 소프트웨어 명칭에 대한 힌트, 홈페이지 링크, EPL 1.0 라이선스 링크를 복제한다. 특히, 자체 저작권 공지의 하위 구역으로써 포함한다.");
+" 배포 문서 및 추가 자료를 통해 또한 기존의 저작권 공지 텍스트 파일 내용, 소프트웨어 명칭에 대한 힌트, 홈페이지 링크, EPL 1.0 라이선스 링크를 복제한다. 특히, 자체 저작권 공지의 하위 구역으로써 포함한다.");
 
 $gFbLiSpUcForbidsPrefix="";
 $gFbLiSpUcForbidsArr=array(
@@ -134,7 +137,7 @@ $gFbLiSpUcForbidsArr=array(
 		 software constitutes patent infringement."
 		);
 */
-"받은 소프트웨어 패키지 내에 포함된 저작권 공지를 제거 또는 변경",
+" 받은 소프트웨어 패키지 내에 포함된 저작권 공지를 제거 또는 변경",
 
 "소프트웨어가 특허 침해에 해당한다고 주장하는 자에 대해 특허 소송을 제기");
 
