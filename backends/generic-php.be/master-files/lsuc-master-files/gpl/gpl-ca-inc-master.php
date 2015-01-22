@@ -29,10 +29,9 @@
   Jaekyung Kim  <bonoxtwo@gmail.com>
   Changeun Cho  <jceun57@gmail.com>
 
-# Editor : Junehyun Baek <100aniv62@gmail.com>
+# Editor :  Minhyung Cho  <designer.mhc@gmail.com>
 # Project Period : 2015.01.12 ~ 2015.01.23
-# Edit date : 2015.01.16
-# Etc. Comment : Apache -> Apache-2.0
+# Edit date : 2015.01.21
 # Etc. Comment : GPL-V2 -> GPL-2.0
 # Etc. Comment : GPL-V3 -> GPL-3.0
 *******************************************************/ 
