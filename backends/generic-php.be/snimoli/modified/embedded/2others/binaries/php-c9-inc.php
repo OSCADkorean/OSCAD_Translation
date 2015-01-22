@@ -57,7 +57,7 @@ $gFbLiSpUcDesc=
   contains this code snippet, module, library, or plugin as an embedded component."; */
 
 $gFbLiSpUcRequiresPrefix=
-	"라이선스 조건을 충족하기 위한 작업은 다음과 같다:"
+	"라이선스 조건을 충족하기 위한 작업은 다음과 같다:";
 /*	"the following tasks in order to fulfill the license conditions:"; */
 
 $gFbLiSpUcNoTasks="";

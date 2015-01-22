@@ -90,8 +90,7 @@ $gFbLiSpUcRequiresManArr=array(
 	
 	"기존의 GPL 라이선싱 사항에 포함되는 방식으로 내장 라이브러리의 수정물을 구성한다.",
 	
-	"기능 추가 개발 바이너리는 각 GPL-V2 및 GPL-V3 라이선싱 사항에 포함되는 방식으로
-구성한다."
+	"기능 추가 개발 바이너리는 각 GPL-V2 및 GPL-V3 라이선싱 사항에 포함되는 방식으로 구성한다."
 
 /*  "Ensure that the licensing elements - esp. all
   notices that refer to the GPL-2.0 or GPL-3.0 and to the absence of any

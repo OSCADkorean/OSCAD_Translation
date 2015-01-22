@@ -26,7 +26,6 @@ include("oscad-be-config-inc.php");
 <head>
 
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<!--
 	(t)OSCAd - (Telekom) Open Source Compliance Advisor
 -->
 
