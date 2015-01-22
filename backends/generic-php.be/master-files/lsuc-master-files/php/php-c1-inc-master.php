@@ -34,7 +34,7 @@
 # Etc. Comment : 
 *******************************************************/ 
 
-$gFbLicenseName="PHP-3.0-3.0";
+$gFbLicenseName="PHP-3.0";
 $gFbLicenseSpecification="PHP-3.0-3.0 License";
 $gFbLicenseAbbr="PHP-3.0";
 $gFbLicenseRelease="3.0";

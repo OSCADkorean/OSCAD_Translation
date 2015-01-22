@@ -55,12 +55,12 @@ $gFbLiSpUcDesc=
   files or as a source code package, but without embedding it into another
   larger software unit.";
 */
-    "EUPL·Î ¶óÀÌ¼±½º µÈ ¹ÞÀº ½º´ÏÆê, ¸ðµâ, ¶óÀÌºê·¯¸® ¶Ç´Â ÇÃ·¯±×ÀÎ µî ½º´Ï¸ô¸®ÀÇ ¼öÁ¤ ¹öÀüÀ» ¼Ò½ºÄÚµå ÆÄÀÏ ÇüÅÂ ¶Ç´Â ¼Ò½ºÄÚµå ÆÐÅ°Áö·Î Á¦3ÀÚ¿¡°Ô ¹èÆ÷ÇÏ·Á´Â ÀÇµµ¸¦ °®°í ÀÖ´Ù. ´Ü, ÀÌ¸¦ ´Ù¸¥ ´õ Å« ¼ÒÇÁÆ®¿þ¾î À¯´Ö¿¡ »ðÀÔÇÏÁö´Â ¾Ê´Â´Ù.";
+    "EUPLë¡œ ë¼ì´ì„ ìŠ¤ ëœ ë°›ì€ ìŠ¤ë‹ˆíŽ«, ëª¨ë“ˆ, ë¼ì´ë¸ŒëŸ¬ë¦¬ ë˜ëŠ” í”ŒëŸ¬ê·¸ì¸ ë“± ìŠ¤ë‹ˆëª°ë¦¬ì˜ ìˆ˜ì • ë²„ì „ì„ ì†ŒìŠ¤ì½”ë“œ íŒŒì¼ í˜•íƒœ ë˜ëŠ” ì†ŒìŠ¤ì½”ë“œ íŒ¨í‚¤ì§€ë¡œ ì œ3ìžì—ê²Œ ë°°í¬í•˜ë ¤ëŠ” ì˜ë„ë¥¼ ê°–ê³  ìžˆë‹¤. ë‹¨, ì´ë¥¼ ë‹¤ë¥¸ ë” í° ì†Œí”„íŠ¸ì›¨ì–´ ìœ ë‹›ì— ì‚½ìž…í•˜ì§€ëŠ” ì•ŠëŠ”ë‹¤.";
 $gFbLiSpUcRequiresPrefix=
 /*
 	"the following tasks in order to fulfill the license conditions:";
 */
-    "¶óÀÌ¼±½º Á¶°ÇÀ» ÃæÁ·ÇÏ±â À§ÇÑ ÀÛ¾÷Àº ´ÙÀ½°ú °°´Ù:";
+    "ë¼ì´ì„ ìŠ¤ ì¡°ê±´ì„ ì¶©ì¡±í•˜ê¸° ìœ„í•œ ìž‘ì—…ì€ ë‹¤ìŒê³¼ ê°™ë‹¤:";
 $gFbLiSpUcNoTasks="";
 
 $gFbLiSpUcRequiresManArr=array(
@@ -70,31 +70,31 @@ $gFbLiSpUcRequiresManArr=array(
   that refer to the license or to the disclaimer of warranties) are retained in
   your package in the form you have received them.",
 */
-    "¶óÀÌ¼±½ÌÇÏ´Â ¿ä¼Ò, Æ¯È÷ ÀúÀÛ±Ç, Æ¯Çã ¶Ç´Â »óÇ¥ °øÁö ±×¸®°í ¶óÀÌ¼±½º¿Í º¸Áõ Á¦ÇÑÀ» ¶æÇÏ´Â °øÁö µîÀº ¹Þ¾Ò´ø ÇüÅÂ·Î ÆÐÅ°Áö¿¡ Æ÷ÇÔÇÑ´Ù.",
+    "ë¼ì´ì„ ì‹±í•˜ëŠ” ìš”ì†Œ, íŠ¹ížˆ ì €ìž‘ê¶Œ, íŠ¹í—ˆ ë˜ëŠ” ìƒí‘œ ê³µì§€ ê·¸ë¦¬ê³  ë¼ì´ì„ ìŠ¤ì™€ ë³´ì¦ ì œí•œì„ ëœ»í•˜ëŠ” ê³µì§€ ë“±ì€ ë°›ì•˜ë˜ í˜•íƒœë¡œ íŒ¨í‚¤ì§€ì— í¬í•¨í•œë‹¤.",
 /*
   "Give the recipient a copy of the EUPL-1.1
   license. If it is not already part of the software package, add it.",
 */
-    "¹Þ´Â »ç¶÷¿¡°Ô EUPL-1.1 ¶óÀÌ¼±½º »çº»À» Á¦°øÇÑ´Ù. ÀÌ¹Ì ±¸¼ºÇÑ ¼ÒÇÁÆ®¿þ¾î ÆÐÅ°ÁöÀÇ ÀÏºÎ¿¡¼­ ºüÁ®ÀÖ´Ù¸é ÀÌ¸¦ Ãß°¡ÇÑ´Ù.",
+    "ë°›ëŠ” ì‚¬ëžŒì—ê²Œ EUPL-1.1 ë¼ì´ì„ ìŠ¤ ì‚¬ë³¸ì„ ì œê³µí•œë‹¤. ì´ë¯¸ êµ¬ì„±í•œ ì†Œí”„íŠ¸ì›¨ì–´ íŒ¨í‚¤ì§€ì˜ ì¼ë¶€ì—ì„œ ë¹ ì ¸ìžˆë‹¤ë©´ ì´ë¥¼ ì¶”ê°€í•œë‹¤.",
 /*
   "Create a modification text file, if such a
   notice file still does not exist. Expand the modification text
   file by a description of your modifications.",
 */
-    "°øÁö ÆÄÀÏÀÌ Á¸ÀçÇÏÁö ¾Ê´Â´Ù¸é ¼öÁ¤ ÅØ½ºÆ® ÆÄÀÏÀ» ÀÛ¼ºÇÑ´Ù. ¼öÁ¤ ¼³¸íÀ¸·Î ¼öÁ¤ ÅØ½ºÆ® ÆÄÀÏÀ» È®ÀåÇÑ´Ù.",
+    "ê³µì§€ íŒŒì¼ì´ ì¡´ìž¬í•˜ì§€ ì•ŠëŠ”ë‹¤ë©´ ìˆ˜ì • í…ìŠ¤íŠ¸ íŒŒì¼ì„ ìž‘ì„±í•œë‹¤. ìˆ˜ì • ì„¤ëª…ìœ¼ë¡œ ìˆ˜ì • í…ìŠ¤íŠ¸ íŒŒì¼ì„ í™•ìž¥í•œë‹¤.",
 /*
   "Mark all modifications of source code of the
   library (snimoli) thoroughly within the source code and include the date of the
   modification.",
  */
-     "½º´Ï¸ô¸® ¶óÀÌºê·¯¸®ÀÇ ¼Ò½ºÄÚµåÀÇ ¼öÁ¤»çÇ×À» ¼Ò½ºÄÚµå ¾È¿¡ ±×¸®°í ¼öÁ¤ ³¯Â¥¸¦ Æ÷ÇÔÇÏ¿© ÀüºÎ Ç¥½ÃÇÑ´Ù.",
+     "ìŠ¤ë‹ˆëª°ë¦¬ ë¼ì´ë¸ŒëŸ¬ë¦¬ì˜ ì†ŒìŠ¤ì½”ë“œì˜ ìˆ˜ì •ì‚¬í•­ì„ ì†ŒìŠ¤ì½”ë“œ ì•ˆì— ê·¸ë¦¬ê³  ìˆ˜ì • ë‚ ì§œë¥¼ í¬í•¨í•˜ì—¬ ì „ë¶€ í‘œì‹œí•œë‹¤.",
 /*
   "Arrange your modifications in a way that they are
   covered by the existing EUPL-1.1 licensing statements. If you add new source code
   files, insert a header containing your copyright line and an EUPL-1.1 adequate
   licensing the statement."
 */
-    "±âÁ¸ÀÇ EUPL ¶óÀÌ¼±½Ì »çÇ×¿¡ Æ÷ÇÔµÇ´Â ¹æ½ÄÀ¸·Î ¼öÁ¤»çÇ×À» ±¸¼ºÇÑ´Ù. ¸¸¾à »õ·Î¿î ¼Ò½ºÄÚµå ÆÄÀÏÀ» Ãß°¡Çß´Ù¸é, Çì´õ¿¡ ¿©·¯ºÐÀÇ ÀúÀÛ±ÇÀ» ¸í½ÃÇÑ ¹®Àå°ú ±× ¹®ÀåÀÌ EUPLÀ» ÃæÁ·½ÃÅ°µµ·Ï ¶óÀÌ¼±½ÌÇÑ´Ù´Â ³»¿ëÀ» Ãß°¡ÇÑ´Ù."
+    "ê¸°ì¡´ì˜ EUPL ë¼ì´ì„ ì‹± ì‚¬í•­ì— í¬í•¨ë˜ëŠ” ë°©ì‹ìœ¼ë¡œ ìˆ˜ì •ì‚¬í•­ì„ êµ¬ì„±í•œë‹¤. ë§Œì•½ ìƒˆë¡œìš´ ì†ŒìŠ¤ì½”ë“œ íŒŒì¼ì„ ì¶”ê°€í–ˆë‹¤ë©´, í—¤ë”ì— ì—¬ëŸ¬ë¶„ì˜ ì €ìž‘ê¶Œì„ ëª…ì‹œí•œ ë¬¸ìž¥ê³¼ ê·¸ ë¬¸ìž¥ì´ EUPLì„ ì¶©ì¡±ì‹œí‚¤ë„ë¡ ë¼ì´ì„ ì‹±í•œë‹¤ëŠ” ë‚´ìš©ì„ ì¶”ê°€í•œë‹¤."
 );
 
 $gFbLiSpUcRequiresVolArr=array(
@@ -104,7 +104,7 @@ $gFbLiSpUcRequiresVolArr=array(
   copyright notice text files, a hint to the software name, a link to its
   homepage, and a link to the EUPL-1.1 license."
 */
-    "¹èÆ÷ ¹®¼­ ¹× Ãß°¡ ÀÚ·á¸¦ ÅëÇØ ¶ÇÇÑ ±âÁ¸ÀÇ ÀúÀÛ±Ç °øÁö ÅØ½ºÆ® ÆÄÀÏ ³»¿ë, ¼ÒÇÁÆ®¿þ¾î ¸íÄª¿¡ ´ëÇÑ ÈùÆ®, È¨ÆäÀÌÁö ¸µÅ©, EUPL-1.1 ¶óÀÌ¼±½º ¸µÅ©¸¦ º¹Á¦ÇÑ´Ù."
+    "ë°°í¬ ë¬¸ì„œ ë° ì¶”ê°€ ìžë£Œë¥¼ í†µí•´ ë˜í•œ ê¸°ì¡´ì˜ ì €ìž‘ê¶Œ ê³µì§€ í…ìŠ¤íŠ¸ íŒŒì¼ ë‚´ìš©, ì†Œí”„íŠ¸ì›¨ì–´ ëª…ì¹­ì— ëŒ€í•œ ížŒíŠ¸, í™ˆíŽ˜ì´ì§€ ë§í¬, EUPL-1.1 ë¼ì´ì„ ìŠ¤ ë§í¬ë¥¼ ë³µì œí•œë‹¤."
 );
 
 $gFbLiSpUcForbidsPrefix="";
@@ -115,6 +115,6 @@ $gFbLiSpUcForbidsArr=array(
 		software, except as required for reasonable and customary use in describing 
 		the origin of the software and reproducing the copyright notice."
 */
-    "»ç¿ëÇÑ ¼ÒÇÁÆ®¿þ¾î ÆÄÀÏÀ» °øÁ¤ÇÏ°Ô ¼³¸íÇÏ°í ÀúÀÛ±Ç °øÁö¸¦ º¹Á¦ÇÏ´Âµ¥ ÇÊ¿äÇÑ °æ¿ì¸¦ Á¦¿ÜÇÏ°í EUPL-1.1 ¼ÒÇÁÆ®¿þ¾î¿¡ ¿¬°áµÈ ¸íÄª, »óÇ¥¸í, »óÇ¥, ¼­ºñ½º ¸¶Å©¿¡ ÀÇÇÑ ¼­ºñ½º ¶Ç´Â Á¦Ç°ÀÇ È«º¸"
+    "ì‚¬ìš©í•œ ì†Œí”„íŠ¸ì›¨ì–´ íŒŒì¼ì„ ê³µì •í•˜ê²Œ ì„¤ëª…í•˜ê³  ì €ìž‘ê¶Œ ê³µì§€ë¥¼ ë³µì œí•˜ëŠ”ë° í•„ìš”í•œ ê²½ìš°ë¥¼ ì œì™¸í•˜ê³  EUPL-1.1 ì†Œí”„íŠ¸ì›¨ì–´ì— ì—°ê²°ëœ ëª…ì¹­, ìƒí‘œëª…, ìƒí‘œ, ì„œë¹„ìŠ¤ ë§ˆí¬ì— ì˜í•œ ì„œë¹„ìŠ¤ ë˜ëŠ” ì œí’ˆì˜ í™ë³´"
 		);
 ?>
