@@ -283,7 +283,10 @@ for more details.
 </div>
 
 	<div class="huge box" style="text-align: left; font-size: xx-small";>
-		<h2>Disclaimer of Warranty</h2>
+		<h2>보증의 면책 조항</h2>
+		<p>적용 가능한 법류에 의해 요구되거나 서면 합의가 이루어지지 않는 한, 어떠한 경우에도 저작권자와 본 프로그램(OSLiC)를 수정 및 제공하는 기타 당사자는 손해 배상 가능서에 대해 통지를 받았더라도 본 프로그램(OSLiC)을 사용하거나 (자료의 손실, 부정확하게는 제공되는 자료, 사용자나 제3자가 입는 손실, 다른 수단과 본 문서의 조합하기에 실패 등을 포함하는) 사용 불능으로 인해 발생하는 일반적, 특수적, 부수적, 결과적 손해를 포함하여 손해 배상에 대한 책임을 지지 않는다.</p>
+		
+		/*  <h2>Disclaimer of Warranty</h2> 
 		<p>THERE IS NO WARRANTY FOR THE PROGRAM, TO THE EXTENT PERMITTED BY
 			APPLICABLE LAW. THE COPYRIGHT HOLDERS AND/OR OTHER PARTIES PROVIDE
 			THE PROGRAM &quot;AS IS&quot; WITHOUT WARRANTY OF ANY KIND, EITHER
@@ -291,8 +294,11 @@ for more details.
 			WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
 			THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE PROGRAM IS
 			WITH YOU. SHOULD THE PROGRAM PROVE DEFECTIVE, YOU ASSUME THE COST OF
-			ALL NECESSARY SERVICING, REPAIR OR CORRECTION</p>
-		<h2>Limitation of Liability</h2>
+			ALL NECESSARY SERVICING, REPAIR OR CORRECTION</p>  */
+			<h2>책임의 한계</h2>
+			<p>적용 가능한 법류에 의해 요구되거나 서면 합의가 이루어지지 않는 한, 어떠한 경우에도 저작권자와 본 프로그램(OSLiC)를 수정 및 제공하는 기타 당사자는 손해 배상 가능서에 대해 통지를 받았더라도 본 프로그램(OSLiC)을 사용하거나 (자료의 손실, 부정확하게는 제공되는 자료, 사용자나 제3자가 입는 손실, 다른 수단과 본 문서의 조합하기에 실패 등을 포함하는) 사용 불능으로 인해 발생하는 일반적, 특수적, 부수적, 결과적 손해를 포함하여 손해 배상에 대한 책임을 지지 않는다.</p>
+			
+		/* <h2>Limitation of Liability</h2>
 		<p>IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN
 			WRITING WILL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MODIFIES
 			AND/OR CONVEYS THE PROGRAM AS PERMITTED ABOVE, BE LIABLE TO YOU FOR
@@ -302,7 +308,7 @@ for more details.
 			INACCURATE OR LOSSES SUSTAINED BY YOU OR THIRD PARTIES OR A FAILURE
 			OF THE PROGRAM TO OPERATE WITH ANY OTHER PROGRAMS), EVEN IF SUCH
 			HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH
-			DAMAGES.</p>
+			DAMAGES.</p> */
 	</div>
 </body>
 </html>
