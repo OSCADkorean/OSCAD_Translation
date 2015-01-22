@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 
 /*  This file is part of OSCAd, the Open Source Compliance Advisor
  *
@@ -53,19 +53,19 @@ $gFbLiSpUcDesc=
   as unmodfied binary package. In this case it does not matter if you distribute
   a program, an application, a server, a snippet, a module, a library, or a
   plugin as an independent or an embedded unit.";*/
-   "아파치 2.0로 라이선스 된 받은 소프트웨어의 비수정 버전을 바이너리 파일 형태 또는 바이너리 패키지로 제3자에게 배포하려는 의도를 갖고 있다. 이 경우 독립 또는 내장 유닛으로 프로그램, 어플리케이션, 서버 스니펫 모듈, 라이브러리 또는 플러그인 등 배포유형을 식별하는 것은 아니다.";
-
+   "Apache-2.0로 라이선스 된 받은 소프트웨어의 비수정 버전을 바이너리 파일 형태 또는 바이너리 패키지로 제3자에게 배포하려는 의도를 갖고 있다. 이 경우 독립 또는 내장 유닛으로 프로그램, 어플리케이션, 서버, 스니펫, 모듈, 라이브러리 또는 플러그인 등 배포유형을 식별하는 것은 아니다.";
+   
 $gFbLiSpUcRequiresPrefix=
 /*	"the following tasks in order to fulfill the license conditions:";*/
 	"라이선스 조건을 충족하기 위한 작업은 다음과 같다.:";
-
+	
 $gFbLiSpUcNoTasks="";
 
 $gFbLiSpUcRequiresManArr=array(
 
 /*		"Give the recipient a copy of the Apache 2.0
 		license. If it is not already part of the binary package, add it",*/
-		"아파치 2.0 라이선스 사본을 받는 사람에게 제공한다. 이미 구성한 바이너리 패키지의 일부에서 빠져있다면 이를 추가한다.",
+		"Apache-2.0 라이선스 사본을 받는 사람에게 제공한다. 이미 구성한 바이너리 패키지의 일부에서 빠져있다면 이를 추가한다.",
 
 /*		"Ensure that the licensing elements (especially the specific copyright notice
   of the original author(s)) are retained in your package in the form you have
@@ -83,7 +83,7 @@ $gFbLiSpUcRequiresManArr=array(
 		you are distributing an unmodified Apache-2.0 licensed library as
 		embedded component of your own work which displays its own copyright
 		notice."*/
-		"제3자 공지가 표시된다면, 특히, 여러분의 저작권 공지를 표시한 자체 저작물의 내장 컴포넌트로서 비수정 아파치 2.0 라이선스 라이브러리를 포함하여 배포하는 경우라면 공지 텍스트 파일을 복제한다."
+		"제3자 공지가 표시된다면, 특히, 여러분의 저작권 공지를 표시한 자체 저작물의 내장 컴포넌트로서 비수정 Apache-2.0 라이선스 라이브러리를 포함하여 배포하는 경우라면 공지 텍스트 파일을 복제한다."
 
 );
 
@@ -93,7 +93,7 @@ $gFbLiSpUcRequiresVolArr=array(
 	 the software name, a link to its homepage, and a link to the
    Apache 2.0 license, especially as a subsection of your own copyright
 		notice."*/
-		"배포 문서 및 추가 자료를 통해 또한 공지 텍스트 파일 내용, 소프트웨어 명칭에 대한 힌트, 홈페이지 링크, 아파치 2.0 라이선스 링크를 복제한다. 특히, 자체 저작권 공지의 하위 구역으로써 포함한다."
+		"배포 문서 및 추가 자료를 통해 또한 공지 텍스트 파일 내용, 소프트웨어 명칭에 대한 힌트, 홈페이지 링크, Apache-2.0 라이선스 링크를 복제한다. 특히, 자체 저작권 공지의 하위 구역으로써 포함한다."
 );
 
 $gFbLiSpUcForbidsPrefix="";
@@ -102,7 +102,7 @@ $gFbLiSpUcForbidsArr=array(
 		trademarks, service marks, or product names linked to the software 
 		except as required for reasonable and customary use in describing 
 		the origin of the work and reproducing the content of the NOTICE file.",*/
-		"사용한 소프트웨어 파일을 공정하게 설명하는데 필요한 경우를 제외하고, 아파치 소프트웨어에 연결된 제품명, 제품 상표 또는 서비스 마크에 기반하여 자신의 서비스나 제품을 홍보.",
+		"사용한 소프트웨어 파일을 공정하게 설명하는데 필요한 경우를 제외하고, Apache 소프트웨어에 연결된 제품명, 제품 상표 또는 서비스 마크에 기반하여 자신의 서비스나 제품을 홍보.",
 /*		"to institute any patent litigation against anyone alleging that the
 		software constitutes patent infringement."*/
 		"소프트웨어가 특허 침해에 해당한다고 주장하는 자에 대해 특허 소송 제기."
