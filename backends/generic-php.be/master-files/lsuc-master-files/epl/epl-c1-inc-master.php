@@ -31,8 +31,8 @@
 
 # Editor : Junehyun Baek <100aniv62@gmail.com>
 # Project Period : 2015.01.12 ~ 2015.01.23
-# Edit date : 2015.01.19
-# Etc. Comment : last sentence is not translation at Korea License
+# Edit date : 2015.01.23
+# Etc. Comment : EPL -> EPL-1.0
 *******************************************************/  
  
 $gFbLicenseName="EPL-1.0";
@@ -55,7 +55,7 @@ $gFbLiSpUcDesc=
   sense.";
 */
 
-	"EPL로 라이선스 된 받은 소프트웨어를 단독으로 사용하고 제3자에게 양도하지 않으려 하는 의도를 갖고 있다."; 
+	"EPL-1.0로 라이선스 된 받은 소프트웨어를 단독으로 사용하고 제3자에게 양도하지 않으려 하는 의도를 갖고 있다."; 
 
 $gFbLiSpUcRequiresPrefix=
 /*
@@ -63,7 +63,7 @@ $gFbLiSpUcRequiresPrefix=
 license with respect to this use case:";
 */
 
-	"다음 사용 사례에 관련하여 EPL 1.0 라이선스 조건을 충족하기 위한 작업은 없다:";
+	"다음 사용 사례에 관련하여 EPL-1.0 라이선스 조건을 충족하기 위한 작업은 없다:";
 
 $gFbLiSpUcNoTasks=
 /*
@@ -72,7 +72,7 @@ $gFbLiSpUcNoTasks=
     give the software to 3rd parties.";
 */
 
-	"제3자에게 소프트웨어를 제공하지 않는 한 어떠한 의무가 부과되지 않는 어떠한 정황에서 어떠한 유형의 EPL 소프트웨어를 사용할 수 있다."; 
+	"제3자에게 소프트웨어를 제공하지 않는 한 어떠한 의무가 부과되지 않는 어떠한 정황에서 어떠한 유형의 EPL-1.0 소프트웨어를 사용할 수 있다."; 
 
 $gFbLiSpUcRequiresManArr=array();
 
@@ -87,13 +87,14 @@ $gFbLiSpUcForbidsArr=array(
 
 		"받은 소프트웨어 패키지 내에 포함된 저작권 공지를 제거 또는 변경.",
 		
-//last sentence is not translation at Korea License
 
+/*
 		"to institute a patent litigation against anyone alleging that this
 		 software constitutes patent infringement."
-/*
-		"지금 이 소프트웨어가 특허권 침해라고 주장하는 사람들에 대응하는 특허 소송권을 가질 수 있다."
-*/	
+*/
+
+		"소프트웨어가 특허 침해에 해당한다고 주장하는 자에 대해 특허 소송을 제기."	
+		
 		);
 
 ?>

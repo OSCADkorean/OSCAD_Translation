@@ -17,7 +17,7 @@
  *  You should have received a copy of the GNU Affero General Public License
  *  along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
- 
+
 /******************************************************
 <Open Source Compliance Advisor Korean Project>
 # Contributor :
@@ -31,8 +31,8 @@
 
 # Editor : Junehyun Baek <100aniv62@gmail.com>
 # Project Period : 2015.01.12 ~ 2015.01.23
-# Edit date : 2015.01.16
-# Etc. Comment :
+# Edit date : 2015.01.23
+# Etc. Comment : 
 *******************************************************/ 
 
 $gFbLicenseName="BSDv[2|3]CL";
@@ -64,8 +64,7 @@ $gFbLiSpUcRequiresPrefix=
 	"the following tasks in order to fulfill the license conditions:";
 */
 
-	"라이선스 조건을 충족하기 위한 작업은 다음과 같다.";
-	
+	"라이선스 조건을 충족하기 위한 작업은 다음과 같다:";
 $gFbLiSpUcNoTasks="";
 
 $gFbLiSpUcRequiresManArr=array(
@@ -78,14 +77,17 @@ $gFbLiSpUcRequiresManArr=array(
 		disclaimer according to the form of the source code package and insert
 		these files into your distribution manually.",
 */
+
 		"배포물에 받았던 형태로 최초 저작권 공지, BSD 라이선스, BSD 권리포기사항을 포함한다. 소스코드 패키지에 기반하여 바이너리 파일을 컴파일하고 이 컴파일로 라이선싱 파일이 생성되거나 포함되지 않는다면, 소스코드 패키지 형태에 따라 저작권 공지, BSD 조건, BSD 권리포기사항을 작성한 다음에 이 파일들을 배포물에 수동으로 삽입한다.",
-/*
+
+/*		
 		"Ensure that the documentation of your distribution and/or your additional
 		material also contain the author specific copyright notice, the BSD
 		conditions, and the BSD disclaimer."
 */
 
 		"배포 문서 및 추가 자료는 최초 저작권 공지, BSD 조건, BSD 권리포기사항을 포함한다."
+		
 );
 
 $gFbLiSpUcRequiresVolArr=array(
@@ -100,7 +102,8 @@ $gFbLiSpUcForbidsArr=array(
 		promote your own work."
 */
 
-		"BSD 2 Clause License를 사용하고 있다면 금지사항은 명확히 존재하지 않는다. 그러나 BSD 3 Clause License에 의해 자신의 저작물을 홍보하기 위해 라이선싱 기관명 또는 라이선싱 기여자명 사용이 명백히 금지된다." 
+		"BSD 2 Clause License를 사용하고 있다면 금지사항은 명확히 존재하지 않는다. 그러나 BSD 3 Clause License에 의해 자신의 저작물을 홍보하기 위해 라이선싱 기관명 또는 라이선싱 기여자명 사용이 명백히 금지된다."
+		
 		);
 
 ?>

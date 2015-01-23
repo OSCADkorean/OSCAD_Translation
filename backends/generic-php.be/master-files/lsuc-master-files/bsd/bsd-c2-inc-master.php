@@ -31,9 +31,10 @@
 
 # Editor : Junehyun Baek <100aniv62@gmail.com>
 # Project Period : 2015.01.12 ~ 2015.01.23
-# Edit date : 2015.01.16
-# Etc. Comment :
-*******************************************************/   
+# Edit date : 2015.01.23
+# Etc. Comment : 
+*******************************************************/  
+ 
  
 $gFbLicenseName="BSDv[2|3]CL";
 $gFbLicenseSpecification="BSD License, Version 2 or 3 Clause ";
@@ -57,15 +58,15 @@ $gFbLiSpUcDesc=
   module, a library, or a plugin as an independent or as an embedded unit.";
 */
 
-	" BSD로 라이선스 된 받은 소프트웨어의 비수정 버전을 소스코드 파일 형태 또는 소스코드 패키지로 제3자에게 배포하고자 하는 의도를 갖고 있다. 이 경우 독립 또는 내장 유닛으로 프로그램, 어플리케이션, 서버, 스니펫, 모듈, 라이브러리 또는 플러그인 등 배포유형을 식별하는 것은 아니다.";
-
+	"BSD로 라이선스 된 받은 소프트웨어의 비수정 버전을 소스코드 파일 형태 또는 소스코드 패키지로 제3자에게 배포하고자 하는 의도를 갖고 있다. 이 경우 독립 또는 내장 유닛으로 프로그램, 어플리케이션, 서버, 스니펫, 모듈, 라이브러리 또는 플러그인 등 배포유형을 식별하는 것은 아니다.";
+	
 $gFbLiSpUcRequiresPrefix=
 /*
 	"the following tasks in order to fulfill the license conditions:";
 */
 
 	"라이선스 조건을 충족하기 위한 작업은 다음과 같다:";
-
+	
 $gFbLiSpUcNoTasks="";
 
 $gFbLiSpUcRequiresManArr=array(
@@ -91,12 +92,15 @@ $gFbLiSpUcRequiresVolArr=array(
 
 $gFbLiSpUcForbidsPrefix="";
 $gFbLiSpUcForbidsArr=array(
+/*
 		"nothing explicitly if you are using the BSD 2 Clause License. But the
 		BSD 3 Clause License explicitly prohibits to use the name of the
 		licensing organization or the names of the licensing contributors to
 		promote your own work."
-		
+*/
+
 		"BSD 2 Clause License를 사용하고 있다면 금지사항은 명확히 존재하지 않는다. 그러나 BSD 3 Clause License에 의해 자신의 저작물을 홍보하기 위해 라이선싱 기관명 또는 라이선싱 기여자명 사용이 명백히 금지된다."
+
 		);
 
 ?>

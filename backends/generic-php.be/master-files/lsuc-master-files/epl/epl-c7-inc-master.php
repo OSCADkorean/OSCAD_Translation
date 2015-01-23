@@ -31,9 +31,8 @@
 
 # Editor : Junehyun Baek <100aniv62@gmail.com>
 # Project Period : 2015.01.12 ~ 2015.01.23
-# Edit date : 2015.01.19
-# Etc. Comment : last sentence is not translation at Korea License
-                 EPL -> EPL-1.0
+# Edit date : 2015.01.23
+# Etc. Comment : EPL -> EPL-1.0
 *******************************************************/  
 
 $gFbLicenseName="EPL-1.0";
@@ -161,12 +160,12 @@ $gFbLiSpUcForbidsArr=array(
 
 		"받은 소프트웨어 패키지 내에 포함된 저작권 공지를 제거 또는 변경.",
 
+/*
 		"to institute a patent litigation against anyone alleging that this
 		 software constitutes patent infringement."
-/*last sentence is not translation at Korea License
-
-		"지금 이 소프트웨어가 특허권 침해라고 주장하는 사람들에 대응하는 특허 소송권을 가질 수 있다."
 */
+
+		"소프트웨어가 특허 침해에 해당한다고 주장하는 자에 대해 특허 소송을 제기."
 		 
 		);
 

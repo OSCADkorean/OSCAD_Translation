@@ -31,10 +31,9 @@
 
 # Editor : Junehyun Baek <100aniv62@gmail.com>
 # Project Period : 2015.01.12 ~ 2015.01.23
-# Edit date : 2015.01.19
-# Etc. Comment : last sentence is not translation at Korea License
-                 EPL -> EPL-1.0
-*******************************************************/   
+# Edit date : 2015.01.23
+# Etc. Comment : EPL -> EPL-1.0
+*******************************************************/  
 
 $gFbLicenseName="EPL-1.0";
 $gFbLicenseSpecification="Eclipse Public License";
@@ -58,7 +57,7 @@ $gFbLiSpUcDesc=
   plugin as an independent or an embedded unit.";
 */
 
-	"EPL-1.0로 라이선스 된 받은 소프트웨어의 비수정 버전을 바이너리 파일 형태 또는 바이너리 패키지로 제3자에게 배포하고자 하는 의도를 갖고 있다. 이 경우 독립 또는 내장 유닛으로 프로그램, 어플리케이션, 서버, 스니펫, 모듈, 라이브러리 또는 플러그인 등 배포유형을 식별하는 것은 아니다.";
+	"EPL-1.0으로 라이선스 된 받은 소프트웨어의 비수정 버전을 바이너리 파일 형태 또는 바이너리 패키지로 제3자에게 배포하고자 하는 의도를 갖고 있다. 이 경우 독립 또는 내장 유닛으로 프로그램, 어플리케이션, 서버, 스니펫, 모듈, 라이브러리 또는 플러그인 등 배포유형을 식별하는 것은 아니다.";
 
 $gFbLiSpUcRequiresPrefix=
 /*
@@ -79,24 +78,26 @@ $gFbLiSpUcRequiresManArr=array(
 		incorporated into the package.",
 */
 
-		"라이선싱하는 요소 특히, 저작권 공지와 법적 책임 및 보증에 대한 권리포기는 받았던 정확한 형태로 패키지에 포함한다. 소스에서 바이너리를 컴파일한다면 라이선싱하는 요소가 전부 패키지에 포함되도록 한다.";
-
-
+		"라이선싱하는 요소 특히, 저작권 공지와 법적 책임 및 보증에 대한 권리포기는 받았던 정확한 형태로 패키지에 포함한다. 소스에서 바이너리를 컴파일한다면 라이선싱하는 요소가 전부 패키지에 포함되도록 한다.",
+/*
 		"If still not existing, integrate an explicit, very	prominently placed
 		'No warranty' statement into the distributed source code package. Let this
 		statement clearly say that all (other) contributors to the software do not
 		take over any responsibility for the quality of the software.
 		Then, copy the no-warranty clause and the disclaimer of the liability of the
 		EPL-1.0 itself into that file.",
+*/
 
-		"만약 배포된 소스코드 패키지 안에 존재하지 않는다면, 매우 두드러지게 ‘보증 없음’이란 명확한 문구를 포함시킨다. 이 문구로 모든 소프트웨어 기여자에게 소프트웨어 품질에 대한 책임을 전가하지 않는다는 점을 명확히 한다. 그 다음에 그 파일에 EPL-1.0 법적 책임의 권리포기와 보증 없음 조항을 추가한다.",
+		"만약 배포된 소스코드 패키지 안에 존재하지 않는다면, 매우 두드러지게 ‘보증 없음’이란 명확한 문구를 포함시킨다. 이 문구로 모든 소프트웨어 기여자에게 소프트웨어 품질에 대한 책임을 전가하지 않는다는 점을 명확히 한다. 그 다음에 그 파일에 EPL-1.0법적 책임의 권리포기와 보증 없음 조항을 추가한다.",
 
+/*
 		"Make the source code of the software accessible
 		via a repository under your own control - even if you did not modified it:
 		Push the source code package into an internet repository and enable its
 		download function. Integrate an easily to find description into your
 		distribution package which explains how the code can be received from where.
 		Ensure that this respository is available for a reasonable period of time.",
+*/
 
 		"자신의 권한으로 소프트웨어의 소스코드를 저장소(repository)를 통해 이용할 수 있게 한다(이를 수정하지 않았더라도). 인터넷 저장소에 소스코드 패키지를 삽입하고 그 다운로드 기능을 허용한다. 코드를 수신하는 방법을 설명하는 배포 패키지에 손쉽게 찾는 설명을 포함한다. 이 저장소는 충분히 장기간 사용할 수 있도록 한다.",
 
@@ -106,8 +107,8 @@ $gFbLiSpUcRequiresManArr=array(
 */
 
 		"배포 및 추가 자료에 다운로드 저장소의 눈에 띄는 힌트를 삽입한다.",
-	
-/*	
+
+/*		
 		"Execute the to-do list of use case EPL-1.0-C2 (:- the same request parameters,
 		 but replace form = binaries by form = sources)."
 */
@@ -123,7 +124,8 @@ $gFbLiSpUcRequiresVolArr=array(
   homepage, and a link to the EPL-1.0 license."
 */
 
-	"배포 문서 및 추가 자료를 통해 또한 기존의 저작권 공지 텍스트 파일 내용, 소프트웨어 명칭에 대한 힌트, 홈페이지 링크, EPL-1.0 라이선스 링크를 복제한다."
+	"배포 문서 및 추가 자료를 통해 또한 기존의 저작권 공지 텍스트 파일 내용, 소프트웨어 명칭에 대한 힌트, 홈페이지 링크, EPL 1.0 라이선스 링크를 복제한다."
+	
 );
 
 $gFbLiSpUcForbidsPrefix="";
@@ -134,13 +136,12 @@ $gFbLiSpUcForbidsArr=array(
 */
 
 		"받은 소프트웨어 패키지 내에 포함된 저작권 공지를 제거 또는 변경.",
-
+/*
 		"to institute a patent litigation against anyone alleging that this
 		 software constitutes patent infringement."
-/*last sentence is not translation at Korea License
-
-		"지금 이 소프트웨어가 특허권 침해라고 주장하는 사람들에 대응하는 특허 소송권을 가질 수 있다."
 */
-		 );
+
+		"소프트웨어가 특허 침해에 해당한다고 주장하는 자에 대해 특허 소송을 제기."
+		);
 
 ?>
