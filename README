@@ -1,3 +1,53 @@
+<Open Source Compliance Advisor Korean Project>
+
+# Version 1.0
+
+# Contributor :
+  Junehyun Baek <100aniv62@gmail.com>
+  Dosol Choi    <dosa1572@gmail.com>
+  Booyong Shin  <tlsqndyd@gmail.com>
+  Hoonmoo Ryu   <tnsanzz@gmail.com>
+  Minhyung Cho  <designer.mhc@gmail.com>
+  Jaekyung Kim  <bonoxtwo@gmail.com>
+  Changeun Cho  <jceun57@gmail.com>
+
+# Project Period : 2015.01.12 ~ 2015.01.23
+
+# OSCAD License : AGPL 3.0
+
+# AGPL 3.0 is included in our uploaded folder. 
+
+# Reference 
+
+  - : Open Source License Compendium(Version 0.99.1)
+
+  - : Open Source License Compendium(Korean Version / 0.97.1)
+
+	   * The Open Source Community is a swarm: it is more powerful
+		 than a set of arbritarily selected experts. We are proud to have its
+		 support. Gladly we thank (in alphabetical order):
+
+  
+       * First contributors : 	Eitan Adler,
+								Stefan Altmeyer,
+								John Dobson,
+								Stefen Härtlein,
+								Ta’Id Holmes,
+								Michael Kern,
+								Michael Machado,
+								Thorsten Müler,
+								Oliver Podebradt,
+								Thomas Quiehl,
+								Peter Schichl,
+								Michael Schierl,
+								Helene Tamer,
+								Bernhard Tsai
+		
+		* Sponsor : Deutsche Telekom AG(htp:/www.telekom.com)
+
+
+<Orginal>	
+	
 OSCAd (filename or packagename is oscad) be metonymic with [Telekom]
 (O)pen (S)ource (C)compliance (Ad)visor. OSCAd is the interactive version
 of OSLiC, the open source license Compendium and shall interactively specify
@@ -29,3 +79,5 @@ Your full rights and obligations are defined by the AGPL 3.0.
 
 (II) The frontends are spcificly licensed: see the files LICENSING of
 the specific frontedn directories
+
+

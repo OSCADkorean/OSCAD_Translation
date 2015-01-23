@@ -42,3 +42,28 @@ x { frontends/basicDemoFe-4-basicPythonBe,
 
 
 TBD
+
+
+<Korean intall guide>
+
+한국어 설치 가이드
+
+설치 전에
+* 이 프로그램은 backend와 frontend 폴더의 조합으로 실행됩니다.
+( {backend/generic-php.be/} 
+{ frontends/genericFe-4-genricPhpBe,
+  frontends/tbrandedFe-4-genericPhpBe  })
+  
+설치 방법
+1. 웹서버 디렉토리에 폴더(예를 들어 oscad, foscad, toscad)를 생성합니다.
+2. frontend 디렉토리에서 선택한 타입의 파일을 새로 생성한 폴더에 복사합니다.
+3. backend 디렉토리의 generic-php.be폴더를 /???/oscad/fileadmin/ 폴더에 복사합니다.
+4. generic-php.be폴더 명을 php로 바꿔줍니다.
+5. /???/oscad/fileadmin/php/폴더로 이동합니다.
+6. 셸을 여시고 prepare-oscad.php 파일을 실행합니다. 
+	(ex: $./prepare-oscad.php)
+	(ex: $php prepare-oscad.php)
+7. 웹에서 접속합니다. http://your-domain/oscad/index
+
+파일 수정 시에는 /???/oscad/fileadmin/php/fileadmin/php/fileadmin/php/master-files/
+폴더 내의 파일들을 수정하며 수정 이후엔 다시 prepare-oscad.php를 실행해주셔야 합니다.
