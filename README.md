@@ -1,23 +1,23 @@
 <Open Source Compliance Advisor Korean Project>
 
-# Version 1.0
+* Version 1.0
 
-# Contributor :
-  Junehyun Baek <100aniv62@gmail.com> \n
-  Dosol Choi    <dosa1572@gmail.com> \n
-  Booyong Shin  <tlsqndyd@gmail.com> \n
-  Hoonmoo Ryu   <tnsanzz@gmail.com> \n
-  Minhyung Cho  <designer.mhc@gmail.com> \n
-  Jaekyung Kim  <bonoxtwo@gmail.com> \n
-  Changeun Cho  <jceun57@gmail.com> \n
+* Contributor :
+  Junehyun Baek <100aniv62@gmail.com> 
+  Dosol Choi    <dosa1572@gmail.com> 
+  Booyong Shin  <tlsqndyd@gmail.com> 
+  Hoonmoo Ryu   <tnsanzz@gmail.com> 
+  Minhyung Cho  <designer.mhc@gmail.com> 
+  Jaekyung Kim  <bonoxtwo@gmail.com> 
+  Changeun Cho  <jceun57@gmail.com> 
 
-# Project Period : 2015.01.12 ~ 2015.01.23
+* Project Period : 2015.01.12 ~ 2015.01.23
 
-# OSCAD License : AGPL 3.0
+* OSCAD License : AGPL 3.0
 
-# AGPL 3.0 is included in our uploaded folder. 
+* AGPL 3.0 is included in our uploaded folder. 
 
-# Reference 
+* Reference 
 
   - : Open Source License Compendium(Version 0.99.1)
 
