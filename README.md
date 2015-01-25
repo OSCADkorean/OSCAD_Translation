@@ -1,4 +1,4 @@
-<Open Source Compliance Advisor Korean Project>
+# Open Source Compliance Advisor Korean Project
 
 * Version 1.0
 
