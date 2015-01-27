@@ -3,6 +3,7 @@
 * Version 1.0
 
 * Contributor :
+
   Junehyun Baek <100aniv62@gmail.com> 
 
   Dosol Choi    <dosa1572@gmail.com> 
