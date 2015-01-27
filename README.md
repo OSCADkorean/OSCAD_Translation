@@ -50,7 +50,7 @@
 								Helene Tamer,
 								Bernhard Tsai
 		
-		* Sponsor : Deutsche Telekom AG(htp:/www.telekom.com)
+	* Sponsor : Deutsche Telekom AG(htp:/www.telekom.com)
 
 
 <Orginal>	
